@@ -1,0 +1,26 @@
+<article id="<%= post.layout %>-<%= post.slug %>" class="post full post-type-<%= post.layout %>" itemscope
+         itemprop="blogPost">
+    <div class="post-meta">
+        <h6 class="post-date">
+            <%= post.date.locale(config.language).format(config.date_format) %>
+        </h6>
+        <%- partial('post/category') %>
+    </div>
+    <div class="post-inner">
+        <header>
+            <h1 class="post-title">
+                <%- post.title %>
+            </h1>
+        </header>
+        <footer class="article-footer">
+            <%- partial('post/tag') %>
+        </footer>
+
+        <%- image_tag(image_version(post.cover || theme.cover, {prefix: 'header'}), {class: "post-cover"}) %>
+
+        <div class="post-content" itemprop="articleBody">
+            <%- post.content %>
+        </div>
+    </div>
+    <%- partial('post/nav') %>
+</article>

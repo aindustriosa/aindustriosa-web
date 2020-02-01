@@ -1,0 +1,22 @@
+body {
+  font-family: $primary-font;
+  background: $primary-color-light;
+  padding-top: 130px;
+
+  &.body-front-page {
+    padding-top: 0;
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
+.anchor {
+  display: block;
+  position: relative;
+  top: -130px;
+  visibility: hidden;
+}

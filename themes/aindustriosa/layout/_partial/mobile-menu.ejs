@@ -1,0 +1,26 @@
+<div id="mobile-menu">
+    <div  class="cover"></div>
+    <div class="mobile-menu-content">
+        <nav role="navigation">
+            <ul>
+                <% var menu = config.menu || theme.menu %>
+                <% for (var i in menu){ %>
+                    <li>
+                        <a class="blog-nav-item" href="<%- url_for(menu[i]) %>">
+                            <%= i %>
+                        </a>
+                    </li>
+                <% } %>
+            </ul>
+        </nav>
+
+        <div class="social">
+            <% var social = config.social || theme.social %>
+            <% for (var i in social){ %>
+                <a href="<%= social[i].link %>" target="_blank" title="<%- i %>">
+                    <i class="<%- social[i].icon %>"></i>
+                </a>
+            <% } %>
+        </div>
+    </div>
+</div>

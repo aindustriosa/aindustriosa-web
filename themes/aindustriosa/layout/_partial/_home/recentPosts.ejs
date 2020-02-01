@@ -1,0 +1,19 @@
+<div class="section white" id="blog">
+  <div class="container-fluid-1440">
+    <h2 class="section-title">Lo último en el blog</h2>
+    <div class="grid-row">
+      <% page.posts.each(function(post){ %>
+        <div class="col-xs-12 col-sm-4">
+          <%- partial('_partial/article-teaser', {post, btnColor: 'light'}) %>
+        </div>
+      <% }); %>
+      </div>
+    </div>
+
+    <div class="text-center">
+      <a href="<%- url_for('blog' )%>" class="btn">
+        Ver más
+      </a>
+    </div>
+  </div>
+</div>

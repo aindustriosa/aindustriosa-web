@@ -1,0 +1,41 @@
+.article-nav {
+  display: flex;
+  margin-bottom: 50px;
+
+  a {
+    color: $primary-color;
+    font-weight: bold;
+
+  }
+
+  .spacer {
+    flex: 1;
+  }
+
+  .article-nav-older,
+  .article-nav-newer {
+    i {
+      transition: all .2s ease-in-out;
+    }
+  }
+
+  .article-nav-newer {
+    @include underline-effect($primary-color, 'right');
+    &:hover {
+      i {
+        transform: translateX(-3px);
+      }
+    }
+  }
+
+  .article-nav-older {
+    text-align: right;
+    @include underline-effect($primary-color, 'left');
+
+    &:hover {
+      i {
+        transform: translateX(3px);
+      }
+    }
+  }
+}

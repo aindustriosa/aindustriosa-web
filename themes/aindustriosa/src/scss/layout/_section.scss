@@ -1,0 +1,34 @@
+.section {
+  padding: 50px 0;
+  background: $primary-color-light;
+
+  p {
+    font-size: 25px;
+    margin-bottom: 1.5em;
+    line-height: 1.3em;
+
+    strong {
+      font-weight: 800;
+    }
+  }
+
+  &.blue {
+    background: $primary-color;
+
+    .section-title {
+      color: $white;
+    }
+
+    .content-wrapper {
+      color: $white;
+    }
+  }
+
+  &.white {
+    background: $white;
+  }
+
+  .center {
+    text-align: center;
+  }
+}

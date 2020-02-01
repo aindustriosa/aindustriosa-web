@@ -1,0 +1,21 @@
+<div class="video">
+    <% if (typeof video.player !== 'undefined') { %>
+        <div class="responsive-embed-wrapper">
+            <% if (video.player == 'youtube') { %>
+                <iframe src="//www.youtube-nocookie.com/embed/<%- video.id %>"
+                    frameborder="0"
+                    allowfullscreen=""
+                ></iframe>
+            <% } else if (video.player == 'teltek') { %>
+                <iframe
+                    src="https://replay.teltek.es/videoplayer/<%- video.id %>?autostart=false"
+                    frameborder="0"
+                ></iframe>
+            <% } %>
+        </div>
+    <% } %>
+    <% if (typeof showTitles != 'undefined' && showTitles) { %>
+        <h3><%- moment(video.pubDate).locale(config.language).format(config.date_format) %></h3>
+        <h2><%- video.title %></h2>
+    <% } %>
+</div>

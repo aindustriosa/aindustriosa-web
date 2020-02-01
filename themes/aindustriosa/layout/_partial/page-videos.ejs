@@ -1,0 +1,19 @@
+<div class="container-fluid-1440">
+    <div id="<%= post.layout %>-<%= post.slug %>" class="post post-type-<%= post.layout %>" itemscope
+             itemprop="blogPost">
+        <header>
+            <h1 class="page-title">
+                <%- post.title %>
+            </h1>
+        </header>
+        <div class="content" itemprop="articleBody">
+            <div class="grid-row">
+                <% for (var video in site.data.videos) { %>
+                    <div class="col-xs-12 col-sm-4">
+                        <%- partial('_partial/video', {video: site.data.videos[video], showTitles: true}) %>
+                    </div>
+                <% } %>
+            </div>
+        </div>
+    </div>
+</div>

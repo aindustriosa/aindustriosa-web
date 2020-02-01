@@ -1,0 +1,63 @@
+@import "reset";
+@import "~@fortawesome/fontawesome-free/css/all.css";
+@import "~sireno-grid/src/sireno-grid";
+
+
+
+$xs: (map-get($grid-breakpoints, xs), map-get($grid-breakpoints, sm) - 1px);
+$sm: (map-get($grid-breakpoints, sm), map-get($grid-breakpoints, md) - 1px);
+$md: (map-get($grid-breakpoints, md), map-get($grid-breakpoints, lg) - 1px);
+$lg: (map-get($grid-breakpoints, lg));
+
+body {
+  color: $xs;
+}
+
+@import
+"variables",
+"mixins"
+;
+
+@import
+"global",
+"fontface",
+"madewith-vigotech"
+;
+
+@import
+"layout/layout",
+"layout/header",
+"layout/mobile-menu",
+"layout/titles",
+"layout/section",
+"layout/footer",
+"layout/collaborators"
+;
+
+@import
+"components/btn",
+"components/pager",
+"components/article-nav"
+;
+
+@import
+"content/hero",
+"content/upcoming-events",
+"content/event-teaser",
+"content/post",
+"content/highlight",
+"content/connected",
+"content/video"
+;
+
+@import
+"pages/_common",
+"pages/_home",
+"pages/_blog"
+;
+
+
+@import
+"transitions/slide-right"
+;
+

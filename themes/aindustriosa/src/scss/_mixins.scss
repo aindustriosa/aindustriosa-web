@@ -1,0 +1,249 @@
+@mixin media($devices...) {
+  @each $device in $devices {
+    @if (length($device) == 2) {
+      @media screen and (min-width: nth($device, 1)) and (max-width: nth($device, 2)) {
+        @content;
+      }
+    } @else {
+      @media screen and (min-width: nth($device, 1)) {
+        @content;
+      }
+    }
+  }
+}
+
+@mixin media-min($devices) {
+  @each $device in $devices {
+    @if (length($device) == 2) {
+      @media screen and (min-width: nth($device, 2) + 1 ) {
+        @content;
+      }
+    } @else {
+      @media screen and (min-width: nth($device, 1) + 1 ) {
+        @content;
+      }
+    }
+  }
+}
+
+@mixin gradient-vertical($start, $stop, $start-pos:0%, $stop-pos: 100% ) {
+  background: $start; /* Old browsers */
+  background-color: $start;
+  background: -moz-linear-gradient(left, $start $start-pos, $stop $stop-pos); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop($start-pos, $start), color-stop($stop-pos, $stop)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, $start $start-pos,$stop $stop-pos); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, $start $start-pos,$stop $stop-pos); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, $start $start-pos,$stop $stop-pos); /* IE10+ */
+  background: linear-gradient(to bottom, $start $start-pos, $stop $stop-pos); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$start, endColorstr=$stop,GradientType=0 ); /* IE6-8 */
+  background-repeat: no-repeat;
+}
+
+@mixin transform($transform) {
+  -ms-transform: $transform; /* IE 9 */
+  -webkit-transform: $transform; /* Chrome, Safari, Opera */
+  transform: $transform;
+}
+
+
+@mixin box-shadow($x: 0px, $y: 8px, $r: 3px, $color: #333) {
+  -moz-box-shadow: $x $y $r $color;
+  -webkit-box-shadow: $x $y $r $color;
+  box-shadow: $x $y $r $color;
+}
+
+@mixin text-shadow($x: 0px, $y: 8px, $r: 3px, $color: #333) {
+  -moz-text-shadow: $x $y $r $color;
+  -webkit-text-shadow: $x $y $r $color;
+  text-shadow: $x $y $r $color;
+}
+
+@mixin scale ($zoom: 1.1) {
+  @include transform(scale($zoom));
+}
+
+@mixin rotate($angle: 90deg, $originX: 50%, $originY: 50%) {
+  -webkit-transform: rotate($angle);
+  -webkit-transform-origin: $originX $originY;
+
+  -moz-transform: rotate($angle);
+  -moz-transform-origin: $originX $originY;
+
+  -o-transform: rotate($angle);
+  -o-transform-origin: $originX $originY;
+
+  -ms-transform: rotate($angle);
+  -ms-transform-origin: $originX $originY;
+
+  transform: rotate($angle);
+  transform-origin: $originX $originY;
+}
+
+
+@mixin transition($property: all , $speed: 1s, $ease: ease-in-out) {
+  -moz-transition: $property $speed $ease;
+  -o-transition: $property $speed $ease;
+  -webkit-transition: $property $speed $ease;
+  transition: $property $speed $ease;
+}
+
+@mixin transition-delay($delay: 0.5s) {
+  -webkit-transition-delay: $delay; /* Safari */
+  transition-delay: $delay;
+}
+
+
+@mixin vertical-align($xs: true) {
+  @if ($xs == false) {
+    @include media(768px) {
+      top: 50%;
+      left: 0;
+      right: 0;
+      position: absolute;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+  } @else {
+    top: 50%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+}
+
+@mixin a($color) {
+  @include underline-effect($color);
+  @include transition(all, .2s);
+  &:hover {
+    color: $color;
+  }
+}
+
+@mixin a-inverse($color) {
+
+}
+
+
+@mixin underline-effect($color, $effect: 'left') {
+  text-decoration: none;
+  padding-bottom: 3px;
+  position: relative;
+  &:hover {
+    text-decoration: none;
+  }
+  &:after {
+    text-decoration: none;
+    @include transition(all, .2s);
+    content: '';
+    height: 1px;
+    position: absolute;
+    background: $color;
+    width: 0;
+    bottom: 0;
+  }
+  @if ($effect == 'center') {
+    &:after {
+      left: 50%;
+    }
+
+    &:hover {
+      &:after {
+        width: 100%;
+        left: 0;
+      }
+    }
+  }
+
+  @if ($effect == 'left') {
+    &:after {
+      left: 0;
+    }
+
+    &:hover {
+      &:after {
+        width: 100%;
+      }
+    }
+  }
+
+  @if ($effect == 'right') {
+    &:after {
+      right: 0;
+    }
+
+    &:hover {
+      &:after {
+        width: 100%;
+      }
+    }
+  }
+}
+
+
+@mixin a-inverse($color, $hover-color) {
+  @include underline-effect-inverse($color, 'right');
+  @include transition(all, .2s);
+  &:hover {
+    color: $hover-color;
+  }
+}
+
+
+@mixin underline-effect-inverse($color, $effect: 'left') {
+  text-decoration: none;
+  padding-bottom: 3px;
+  position: relative;
+  &:hover {
+    text-decoration: none;
+  }
+  &:after {
+    text-decoration: none;
+    @include transition(all, .2s);
+    content: '';
+    height: 1px;
+    position: absolute;
+    background: $color;
+    width: 100%;
+    bottom: 0;
+  }
+
+  &:hover {
+    &:after {
+      width: 0;
+    }
+  }
+
+  @if ($effect == 'center') {
+    &:after {
+      left: 50%;
+    }
+  }
+
+  @if ($effect == 'left') {
+    &:after {
+      left: 0;
+    }
+  }
+
+  @if ($effect == 'right') {
+    &:after {
+      right: 0;
+    }
+  }
+}
+
+
+
+@keyframes fade-animation {
+  0%   { opacity:0.8; transform: scale(1)}
+  50%  { opacity:1; transform: scale(1.2)}
+  100% { opacity:0.8; transform: scale(1)}
+}
+
+@mixin fade-animation($time: 1s) {
+  animation: fade-animation $time infinite;
+}

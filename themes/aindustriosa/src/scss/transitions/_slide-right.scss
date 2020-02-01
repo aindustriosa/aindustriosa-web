@@ -1,0 +1,29 @@
+.slide-right-enter-active,
+.slide-right-leave-active {
+  .cover {
+    transition: .2s;
+    opacity: 1;
+  }
+  .navigation {
+    transition: .2s;
+    transform: translate(0%, 0);
+  }
+}
+
+.slide-right-enter,
+.slide-right-leave-to {
+  .cover {
+    opacity: 0;
+  }
+}
+
+.slide-right-enter {
+  .navigation {
+    transform: translate(-100%, 0);
+  }
+}
+.slide-right-leave-to {
+  .navigation {
+    transform: translate(-100%, 0);
+  }
+}

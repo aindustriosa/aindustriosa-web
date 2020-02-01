@@ -1,0 +1,7 @@
+<div class="container-fluid-1440">
+    <% if (page.innerLayout == 'videos') { %>
+        <%- partial('_partial/page-videos', {post: page, index: false}) %>
+    <% } else { %>
+        <%- partial('_partial/article', {post: page, index: false}) %>
+    <% } %>
+</div>

@@ -1,0 +1,21 @@
+<div id="blog">
+  <div class="container-fluid-1440">
+    <div class="grid-row">
+      <% page.posts.each(function(post) { %>
+        <div class="col-xs-12 col-sm-4">
+          <%- partial('article-teaser', {post: post, index: true}) %>
+        </div>
+      <% }) %>
+    </div>
+
+  <% if (page.total > 1){ %>
+    <nav id="page-nav">
+      <%- paginator({
+        escape: false,
+        prev_text: '<i class="fa fa-arrow-left"></i>',
+        next_text: '<i class="fa fa-arrow-right"></i>'
+      }) %>
+    </nav>
+  <% } %>
+  </div>
+</div>

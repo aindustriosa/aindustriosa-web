@@ -1,0 +1,36 @@
+#page-nav {
+  display: flex;
+  justify-content: center;
+  margin: 20px 15px;
+
+  a, span {
+    display: block;
+    margin: 0 3px;
+    padding: 7px 15px;
+
+    border-radius: 9999px;
+    background: transparent;
+    color: $black;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+
+    &:hover {
+      background: $primary-color;
+      color: $white;
+    }
+
+    &.page-number {
+      background: $white;
+      &:hover {
+        background: $primary-color;
+        color: $white;
+      }
+    }
+
+    &.current {
+      background: $primary-color;
+      color: $white;
+    }
+  }
+}
+

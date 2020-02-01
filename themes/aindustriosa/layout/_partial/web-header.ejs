@@ -1,0 +1,36 @@
+<header id="header" class="in-top">
+    <div class="header-content container-fluid-1440">
+        <div
+                id="mobile-menu-toggle"
+                class="hidden-lg"
+        >
+            <i class="fa fa-bars"></i> <span>Menú</span>
+        </div>
+        <div class="logo">
+            <a href="<%- url_for('/') %>#home">
+                <img id="logo" src="/i/logo.png" alt="PHPVigo" />
+            </a>
+        </div>
+        <nav role="navigation" class="hidden-xs hidden-sm hidden-md">
+            <ul>
+                <% var menu = config.menu || theme.menu %>
+                <% for (var i in menu){ %>
+                    <li>
+                        <a class="blog-nav-item" href="<%- url_for(menu[i]) %>">
+                            <%= i %>
+                        </a>
+                    </li>
+                <% } %>
+            </ul>
+        </nav>
+        <div class="spacer"></div>
+        <div class="social hidden-xs hidden-sm hidden-md">
+            <% var social = config.social || theme.social %>
+            <% for (var i in social){ %>
+                <a href="<%= social[i].link %>" target="_blank" title="<%- i %>">
+                    <i class="<%- social[i].icon %>"></i>
+                </a>
+            <% } %>
+        </div>
+    </div>
+</header>

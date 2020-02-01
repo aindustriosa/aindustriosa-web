@@ -1,0 +1,20 @@
+<article class="post teaser">
+
+    <h6 class="post-date"><%= post.date.locale(config.language).format(config.date_format) %></h6>
+    <h2 class="post-title">
+        <a href="<%- url_for(post.path) %>">
+            <%- post.title %>
+        </a>
+    </h2>
+    <a href="<%- url_for(post.path) %>" class="post-cover">
+        <%- image_tag(image_version(post.cover || theme.cover, {prefix: 'teaser'}), {class: "post-cover"}) %>
+    </a>
+
+    <div class="post-summary">
+        <%- truncate(strip_html(post.content), { length:200 }) %>
+    </div>
+    <a href="<%- url_for(post.path) %>" class="btn btn-<%= (typeof btnColor != 'undefined' ? btnColor : 'white') %>">
+        Leer más
+    </a>
+
+</article>
