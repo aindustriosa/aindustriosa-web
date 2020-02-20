@@ -99,3 +99,29 @@ theme: aindustriosa
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+menu:
+  Inicio: /
+  Blog: /blog
+  Videos: /videos
+
+social:
+  Twitter:
+    link: https://twitter.com/aindustriosa
+    icon: "fab fa-twitter"
+  Github:
+    link: https://github.com/aindustriosa
+    icon: "fab fa-github"
+  Youtube:
+    link: https://www.youtube.com/channel/UC9DPKfcLiNd7SEU-QLlIG7A
+    icon: "fab fa-youtube"
+
+responsive_images:
+  pattern: '**/*.+(png|jpg|jpeg)'
+  sizes:
+    teaser:
+      width: 768
+      height: 300
+    header:
+      width: 1440
+      height: 500
