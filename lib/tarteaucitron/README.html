@@ -1,0 +1,60 @@
+<p><a href="https://www.jsdelivr.com/package/gh/AmauriC/tarteaucitron.js" target="_blank" rel="noopener"><img src="https://data.jsdelivr.com/v1/package/gh/AmauriC/tarteaucitron.js/badge" alt=""></a><br><a href="https://www.npmjs.com/package/tarteaucitronjs" target="_blank" rel="noopener"><img src="https://img.shields.io/npm/v/tarteaucitronjs.svg" alt="npm"></a> <a href="https://github.com/AmauriC/tarteaucitron.js/graphs/contributors" target="_blank" rel="noopener"><img src="https://img.shields.io/github/contributors/AmauriC/tarteaucitron.js.svg" alt="GitHub contributors"></a></p>
+<h1 id="tarteaucitron-js"><a href="#tarteaucitron-js" class="headerlink" title="tarteaucitron.js"></a>tarteaucitron.js</h1><p>Comply to the european cookie law is simple with the french <em>tarte au citron</em>.</p>
+<h1 id="What-is-this-script"><a href="#What-is-this-script" class="headerlink" title="What is this script?"></a>What is this script?</h1><p>The european cookie law regulates the management of cookies and you should ask your visitors their consent before exposing them to third party services.</p>
+<p>Clearly this script will:</p>
+<ul>
+<li>Disable all services by default,</li>
+<li>Display a banner on the first page view and a small one on other pages,</li>
+<li>Display a panel to allow or deny each services one by one,</li>
+<li>Activate services on the second page view if not denied,</li>
+<li>Store the consent in a cookie for 365 days.</li>
+</ul>
+<p>Bonus:</p>
+<ul>
+<li>Load service when user click on Allow (without reload of the page),</li>
+<li>Incorporate a fallback system (display a link instead of social button and a static banner instead of advertising).</li>
+</ul>
+<h1 id="Installation-guide"><a href="#Installation-guide" class="headerlink" title="Installation guide"></a>Installation guide</h1><p><a href="https://opt-out.ferank.eu/" target="_blank" rel="noopener">Visit opt-out.ferank.eu</a></p>
+<h1 id="How-to-use"><a href="#How-to-use" class="headerlink" title="How to use"></a>How to use</h1><pre><code class="html"><span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span> <span class="attr">src</span>=<span class="string">"/tarteaucitron/tarteaucitron.js"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span>
+
+<span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span>&gt;</span>
+tarteaucitron.init({
+<span class="actionscript">    <span class="string">"privacyUrl"</span>: <span class="string">""</span>, <span class="comment">/* Privacy policy url */</span></span>
+
+<span class="actionscript">    <span class="string">"hashtag"</span>: <span class="string">"#tarteaucitron"</span>, <span class="comment">/* Open the panel with this hashtag */</span></span>
+<span class="actionscript">    <span class="string">"cookieName"</span>: <span class="string">"tarteaucitron"</span>, <span class="comment">/* Cookie name */</span></span>
+
+<span class="actionscript">    <span class="string">"orientation"</span>: <span class="string">"top"</span>, <span class="comment">/* Banner position (top - bottom) */</span></span>
+<span class="actionscript">    <span class="string">"showAlertSmall"</span>: <span class="literal">true</span>, <span class="comment">/* Show the small banner on bottom right */</span></span>
+<span class="actionscript">    <span class="string">"cookieslist"</span>: <span class="literal">true</span>, <span class="comment">/* Show the cookie list */</span></span>
+
+<span class="actionscript">    <span class="string">"adblocker"</span>: <span class="literal">false</span>, <span class="comment">/* Show a Warning if an adblocker is detected */</span></span>
+<span class="actionscript">    <span class="string">"AcceptAllCta"</span> : <span class="literal">true</span>, <span class="comment">/* Show the accept all button when highPrivacy on */</span></span>
+<span class="actionscript">    <span class="string">"highPrivacy"</span>: <span class="literal">false</span>, <span class="comment">/* Disable auto consent */</span></span>
+<span class="actionscript">    <span class="string">"handleBrowserDNTRequest"</span>: <span class="literal">false</span>, <span class="comment">/* If Do Not Track == 1, disallow all */</span></span>
+
+<span class="actionscript">    <span class="string">"removeCredit"</span>: <span class="literal">false</span>, <span class="comment">/* Remove credit link */</span></span>
+<span class="actionscript">    <span class="string">"moreInfoLink"</span>: <span class="literal">true</span>, <span class="comment">/* Show more info link */</span></span>
+<span class="actionscript">    <span class="string">"useExternalCss"</span>: <span class="literal">false</span>, <span class="comment">/* If false, the tarteaucitron.css file will be loaded */</span></span>
+
+<span class="actionscript">    <span class="comment">//"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for subdomain website */</span></span>
+
+<span class="actionscript">    <span class="string">"readmoreLink"</span>: <span class="string">"/cookiespolicy"</span> <span class="comment">/* Change the default readmore link pointing to opt-out.ferank.eu */</span></span>
+});
+<span class="tag">&lt;/<span class="name">script</span>&gt;</span></code></pre>
+<h1 id="Create-custom-service"><a href="#Create-custom-service" class="headerlink" title="Create custom service"></a>Create custom service</h1><pre><code class="js">tarteaucitron.services.mycustomservice = {
+  <span class="string">"key"</span>: <span class="string">"mycustomservice"</span>,
+  <span class="string">"type"</span>: <span class="string">"social|analytic|ads|video|support"</span>,
+  <span class="string">"name"</span>: <span class="string">"MyCustomService"</span>,
+  <span class="string">"needConsent"</span>: <span class="literal">true</span>,
+  <span class="string">"cookies"</span>: [<span class="string">'cookie'</span>, <span class="string">'cookie2'</span>],
+  <span class="string">"readmoreLink"</span>: <span class="string">"/custom_read_more"</span>, <span class="comment">// If you want to change readmore link</span>
+  <span class="string">"js"</span>: <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>{
+<span class="meta">    "use strict"</span>;
+    <span class="comment">// When user allow cookie</span>
+  },
+  <span class="string">"fallback"</span>: <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>{
+<span class="meta">    "use strict"</span>;
+    <span class="comment">// when use deny cookie</span>
+  }
+};</code></pre>
