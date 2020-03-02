@@ -11,4 +11,8 @@
   .logo {
     width: 80px;
   }
+  a {
+    color: $white;
+    @include a($white);
+  }
 }
