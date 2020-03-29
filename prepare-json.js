@@ -68,12 +68,17 @@ async function getMembersVideos(member) {
     }
     console.log();
   })
-
+  console.log('Get members videos')
   // Get members videos
-  member.videoList = await Videos.getGroupVideos(member.videos, 50, {
-    youtubeApiKey: process.env.YOUTUBE_API_KEY,
-    member: member
-  })
+  try {
+    member.videoList = await Videos.getGroupVideos(member.videos, 50, {
+      youtubeApiKey: process.env.YOUTUBE_API_KEY,
+      member: member
+    })
+  } catch(e) {
+    console.error(e.errors);
+    process.exit(1);
+  };
 
   return member
 }
