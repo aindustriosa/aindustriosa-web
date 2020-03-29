@@ -1,6 +1,24 @@
 ---
   - 
     player: "youtube"
+    id: "VynI1x3QGI0"
+    title: "Introducción a Lora e LoraWAN"
+    pubDate: 1584645933000
+    thumbnails: 
+      default: 
+        url: "https://i.ytimg.com/vi/VynI1x3QGI0/default.jpg"
+        width: 120
+        height: 90
+      medium: 
+        url: "https://i.ytimg.com/vi/VynI1x3QGI0/mqdefault.jpg"
+        width: 320
+        height: 180
+      high: 
+        url: "https://i.ytimg.com/vi/VynI1x3QGI0/hqdefault.jpg"
+        width: 480
+        height: 360
+  - 
+    player: "youtube"
     id: "Vrgi0hr0Dsk"
     title: "20190325 - Consecuencias de la Nueva Directiva de Copyright Europea (y qué puedo hacer)"
     pubDate: 1553799123000

@@ -33,7 +33,7 @@ function getNextEvents(member) {
     if (nextEvents.length === 0) {
       console.log(`        ${colors.yellow(`No upcoming events found`)}`)
     } else {
-      nextEvents = Array.isArray(nextEvents) ? [nextEvents] : nextEvents
+      nextEvents = Array.isArray(nextEvents) ? nextEvents : [nextEvents]
 
       const nextEvent = nextEvents[0]
       console.log(`        ${colors.cyan(`Upcoming event found:`)} ${colors.blue(`${colors.bold(`${nextEvent.title}`)} ${eventDate(nextEvent.date)}`)}`)
@@ -65,10 +65,11 @@ function getPreviousEvents(member) {
     if (previousEvents.length === 0) {
       console.log(`        ${colors.yellow(`No previous events found`)}`)
     } else {
-      previousEvents = !Array.isArray(previousEvents) ? [previousEvents] : previousEvents
+      previousEvents = Array.isArray(previousEvents) ? previousEvents : [previousEvents]
 
-      const previousEvent = previousEvents[0]
-      console.log(`        ${colors.cyan(`Previous event found:`)} ${colors.blue(`${colors.bold(`${previousEvent.title}`)} ${eventDate(previousEvent.date)}`)}`)
+      previousEvents.forEach(previousEvent => {
+        console.log(`        ${colors.cyan(`Previous event found:`)} ${colors.blue(`${colors.bold(`${previousEvent.title}`)} ${eventDate(previousEvent.date)}`)}`)
+      })
     }
     console.log();
   })
