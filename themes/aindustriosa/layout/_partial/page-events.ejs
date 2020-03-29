@@ -1,0 +1,27 @@
+<div class="page-events">
+    <div id="<%= post.layout %>-<%= post.slug %>" class="post post-type-<%= post.layout %>" itemscope
+             itemprop="blogPost">
+        <header>
+            <h1 class="page-title">
+                <%- post.title %>
+            </h1>
+        </header>
+    </div>
+
+    <div class="upcoming-events-wrapper">
+        <div id="upcoming-events"></div>
+    </div>
+
+    <h2 class="page-title">
+       Eventos anteriores
+    </h2>
+    <div class="content" itemprop="articleBody">
+        <div class="grid-row">
+            <% for (var event in site.data.events) { %>
+                <div class="col-xs-12 col-sm-6 col-lg-4 event-wrapper">
+                    <%- partial('_partial/event', {event: site.data.events[event], showTitles: true}) %>
+                </div>
+            <% } %>
+        </div>
+    </div>
+</div>

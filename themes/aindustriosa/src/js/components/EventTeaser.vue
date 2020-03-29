@@ -5,7 +5,7 @@
         <h5>{{ event.title }}</h5>
         <strong>{{ eventDate(event.date) }}</strong>
         <span class="btn">
-          Más información
+          Máis información
         </span>
       </a>
     </div>

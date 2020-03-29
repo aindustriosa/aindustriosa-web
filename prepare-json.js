@@ -13,8 +13,8 @@ const GENERATED_JSON = process.env.GENERATED_JSON_PATH
 const JSON_SCHEMA = 'https://vigotech.org/vigotech-schema.json'
 const MEMBER_KEY =  process.env.MEMBER
 const VIDEOS_YML = 'source/_data/videos.yml'
-const PREVIOUS_EVENTS_JSON = 'source/previous-events.json'
-const PREVIOUS_EVENTS_YML = 'source/_data/previous-events.yml'
+const PREVIOUS_EVENTS_JSON = 'source/events.json'
+const PREVIOUS_EVENTS_YML = 'source/_data/events.yml'
 
 
 function eventDate(date) {
@@ -191,12 +191,7 @@ prevEvents.forEach(event => {
   }
 })
 // Convert to json
-savePrevEventsToYmlFile(db.get('events').value())
-
-
-
-process.exit(1)
-
+savePrevEventsToYmlFile(db.get('events').orderBy('date', 'desc').value())
 
 // Import next events
 console.log(`${colors.inverse("Preparing json files")}`);

@@ -1,7 +1,13 @@
 <div class="container-fluid-1440">
-    <% if (page.innerLayout == 'videos') { %>
-        <%- partial('_partial/page-videos', {post: page, index: false}) %>
-    <% } else { %>
-        <%- partial('_partial/article', {post: page, index: false}) %>
+    <% switch (page.innerLayout) {
+        case 'videos': %>
+            <%- partial('_partial/page-videos', {post: page, index: false}) %>
+            <% break %>
+        <% case 'events': %>
+            <%- partial('_partial/page-events', {post: page, index: false}) %>
+            <% break %>
+        <% default: %>
+            <%- partial('_partial/article', {post: page, index: false}) %>
+        <% break %>
     <% } %>
 </div>
