@@ -32,7 +32,8 @@
     "dotenv": "^8.2.0",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "json2yaml": "^1.1.0",
-    "metagroup-schema-tools": "^1.0.4",
+    "lowdb": "^1.0.0",
+    "metagroup-schema-tools": "^1.0.6",
     "sync-request": "^6.1.0"
   }
 }
