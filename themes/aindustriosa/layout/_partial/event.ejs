@@ -1,0 +1,10 @@
+<article class="event">
+    <h4><%- moment(event.date).locale(config.language).format(config.date_format) %></h4>
+    <h3>
+        <a href="<%- event.link%>">
+            <%- event.title %>
+        </a>
+    </h3>
+    <h5><%- event.location %></h5>
+    <a class="btn" href="<%- event.link%>">Máis información</a>
+</article>

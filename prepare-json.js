@@ -4,13 +4,18 @@ const fs = require('fs')
 const request = require('sync-request')
 const { Events, Videos, Source } = require('metagroup-schema-tools')
 const moment = require('moment')
-const YAML = require('json2yaml')
+const yaml = require('json2yaml')
+const lowdb = require('lowdb')
+const fileSync = require('lowdb/adapters/FileSync')
 
 const SOURCE_JSON = 'https://vigotech.org/vigotech.json'
 const GENERATED_JSON = process.env.GENERATED_JSON_PATH
 const JSON_SCHEMA = 'https://vigotech.org/vigotech-schema.json'
 const MEMBER_KEY =  process.env.MEMBER
 const VIDEOS_YML = 'source/_data/videos.yml'
+const PREVIOUS_EVENTS_JSON = 'source/events.json'
+const PREVIOUS_EVENTS_YML = 'source/_data/events.yml'
+
 
 function eventDate(date) {
   return moment(date).format('dddd, D MMMM YYYY HH:mm')
@@ -28,9 +33,7 @@ function getNextEvents(member) {
     if (nextEvents.length === 0) {
       console.log(`        ${colors.yellow(`No upcoming events found`)}`)
     } else {
-      if (nextEvents.length === undefined) {
-        nextEvents = [nextEvents]
-      }
+      nextEvents = Array.isArray(nextEvents) ? nextEvents : [nextEvents]
 
       const nextEvent = nextEvents[0]
       console.log(`        ${colors.cyan(`Upcoming event found:`)} ${colors.blue(`${colors.bold(`${nextEvent.title}`)} ${eventDate(nextEvent.date)}`)}`)
@@ -50,6 +53,34 @@ function getNextEvents(member) {
   return member;
 }
 
+function getPreviousEvents(member) {
+
+  const eventEmitter = Events.getEventsEmitter()
+
+  eventEmitter.on('getPrevFromSourceInit', (source, options) => {
+    console.log(`    · Getting previous events json for ${colors.green(options.member.name)} from ${colors.underline(source.type)}`);
+  })
+
+  eventEmitter.on('getPrevFromSourceCompleted', (previousEvents, options) => {
+    if (previousEvents.length === 0) {
+      console.log(`        ${colors.yellow(`No previous events found`)}`)
+    } else {
+      previousEvents = Array.isArray(previousEvents) ? previousEvents : [previousEvents]
+
+      previousEvents.forEach(previousEvent => {
+        console.log(`        ${colors.cyan(`Previous event found:`)} ${colors.blue(`${colors.bold(`${previousEvent.title}`)} ${eventDate(previousEvent.date)}`)}`)
+      })
+    }
+    console.log();
+  })
+
+  // Get members previous events
+  return membersPrevEvents = Events.getGroupPrevEvents(member.events, {
+    eventbriteToken: process.env.EVENTBRITE_OAUTH_TOKEN,
+    member: member
+  })
+}
+
 
 async function getMembersVideos(member) {
 
@@ -60,7 +91,7 @@ async function getMembersVideos(member) {
   })
 
   eventEmitter.on('getVideosFromSourceCompleted', (videos, options) => {
-    if (videos.length == 0) {
+    if (videos.length === 0) {
       console.log(`        ${colors.yellow(`No videos found`)}`)
     }
     else {
@@ -89,10 +120,13 @@ function saveJsonFile(data) {
 }
 
 function saveVideosYmlFile(videos) {
-  const videosYml = YAML.stringify(videos)
-
-  fs.writeFileSync(VIDEOS_YML, videosYml);
+  fs.writeFileSync(VIDEOS_YML, yaml.stringify(videos));
   console.log(`  ${colors.inverse(`Saving ${colors.yellow(`${VIDEOS_YML}`)}`)}`);
+}
+
+function savePrevEventsToYmlFile(events) {
+  fs.writeFileSync(PREVIOUS_EVENTS_YML, yaml.stringify(events));
+  console.log(`  ${colors.inverse(`Saving ${colors.yellow(`${PREVIOUS_EVENTS_YML}`)}`)}`);
 }
 
 
@@ -138,10 +172,37 @@ if (validationResult.errors.length > 0) {
 }
 console.log(`   ${colors.green.inverse('OK')}`);
 
-// Import events
+
+const memberData = getNextEvents(data.members[MEMBER_KEY])
+
+// Import previous events
+const prevEvents = getPreviousEvents(memberData)
+const adapter = new fileSync(PREVIOUS_EVENTS_JSON)
+const db = lowdb(adapter)
+db.defaults({ events: []}).value()
+
+// Add new avents to db
+prevEvents.forEach(event => {
+  if (!db.get('events').find({ date: event.date }).value()) {
+    db
+      .get('events')
+      .push(event)
+      .write();
+  } else {
+    db
+      .get('events')
+      .find({ date: event.date })
+      .assign(event)
+      .write();
+  }
+})
+// Convert to json
+savePrevEventsToYmlFile(db.get('events').orderBy('date', 'desc').value())
+
+// Import next events
 console.log(`${colors.inverse("Preparing json files")}`);
 console.log(`${colors.bold("  Import next events")}`);
-memberData = getNextEvents(data.members[MEMBER_KEY])
+
 console.log();
 console.log();
 
@@ -155,3 +216,5 @@ getMembersVideos(memberData)
     saveVideosYmlFile(memberData.videoList)
 
   })
+
+

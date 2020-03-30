@@ -2,7 +2,7 @@
 tarteaucitron.init({
   privacyUrl: '',
   hashtag: '#tarteaucitron',
-  cookieName: 'phpvigocc',
+  cookieName: 'aindustriosa',
   orientation: 'bottom',
   showAlertSmall: true,
   cookieslist: true,

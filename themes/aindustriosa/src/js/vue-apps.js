@@ -13,7 +13,7 @@ const vmUpcoming = new Vue({
 
 
 const base = window.location.protocol + "//" + window.location.host
-axios.get(`${base}/aindustriosa-web/contents.json`).then((data) => {
+axios.get(`${base}/contents.json`).then((data) => {
   vmUpcoming.nextEvents = data.data.nextEvents.filter(event => {
     return moment(event.date) >= new Date()
   })

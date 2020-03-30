@@ -1,0 +1,40 @@
+.page-events {
+  margin-bottom: 40px;
+  .upcoming-events-wrapper {
+    margin-bottom: 60px;
+    background: $grey6;
+    padding: 30px;
+  }
+
+  .event {
+    padding: 15px;
+    margin-bottom: 15px;
+    background: rgba($white, .8);
+    min-height: 180px;
+
+    h3 {
+      font-size: 24px;
+      color: $black;
+      margin-bottom: 10px;
+      a {
+        text-decoration: none;
+        color: $black;
+        @include a($black);
+      }
+    }
+
+    h4 {
+      font-size: 18px;
+      color: $primary-color;
+      display: block;
+      margin-bottom: 10px;
+    }
+    h5 {
+      font-size: 18px;
+      color: $primary-color;
+      margin-bottom: 15px;
+    }
+  }
+
+
+}

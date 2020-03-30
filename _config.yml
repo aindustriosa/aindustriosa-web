@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://aindustriosa.github.io/aindustriosa-web
-root: /aindustriosa-web/
+url: https://aindustriosa.org/
+root: /
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -106,6 +106,7 @@ menu:
   Inicio: /
   Blog: /blog
   Videos: /videos
+  Eventos: /eventos
 
 social:
   Twitter:
