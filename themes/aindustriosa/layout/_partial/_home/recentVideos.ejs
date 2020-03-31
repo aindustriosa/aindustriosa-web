@@ -2,7 +2,7 @@
   <div class="container-fluid-1440">
     <h2 class="section-title">Últimos videos</h2>
     <div class="grid-row">
-      <% for (var video in site.data.videos.splice(0, 3)) { %>
+      <% for (var video in site.data.videos.sort((video, video2) => video.pubDate > video2.pubDate).splice(0, 3)) { %>
         <div class="col-xs-12 col-sm-4">
           <%- partial('_partial/video', {video: site.data.videos[video], showTitles: false}) %>
         </div>
