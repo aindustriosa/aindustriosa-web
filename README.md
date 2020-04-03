@@ -16,5 +16,8 @@ docker run --rm -v $PWD:/app -p 4000:4000 --user `id -u` hexo yarn build
 docker run --rm -v $PWD:/app -p 4000:4000 --user `id -u` hexo yarn prepare-json
 
 # Serve the website in http://localhost:4000
-docker run --rm -v $PWD:/app -p 4000:4000 --user `id -u` hexo hexo server      
+docker run --rm -v $PWD:/app -p 4000:4000 --user `id -u` hexo hexo server
+
+# Add a new blog entry
+docker run --rm -v $PWD:/app -p 4000:4000 --user `id -u` hexo hexo new post "Post title"
 ```
