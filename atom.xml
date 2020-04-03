@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://aindustriosa.org/"/>
-  <updated>2020-03-31T12:57:01.811Z</updated>
+  <updated>2020-04-03T20:08:58.284Z</updated>
   <id>https://aindustriosa.org/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://aindustriosa.org/hello-world/"/>
-    <id>https://aindustriosa.org/hello-world/</id>
-    <published>2020-03-31T12:57:01.811Z</published>
-    <updated>2020-03-31T12:57:01.811Z</updated>
+    <title>Duplicando respiradores #COVID19</title>
+    <link href="https://aindustriosa.org/Duplicando-respiradores-COVID19/"/>
+    <id>https://aindustriosa.org/Duplicando-respiradores-COVID19/</id>
+    <published>2020-04-03T17:38:25.000Z</published>
+    <updated>2020-04-03T20:08:58.284Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>O equipo de traballo de loita contra o COVID-19 da Industriosa, baixo as indicacións do Dr. David Mosquera, intensivista da UCI do Centro Hospitalario Álvaro Cunqueiro de Vigo, e coordinando as probas con Javier Pazó, chegaron a un deseño válido para a fabricación dunha peza que permite a multiplicación e uso simultáneo dos respiradores de UCI por parte de máis dun paciente.</p><img src="/Duplicando-respiradores-COVID19/render.png" class="" title="Peza renderizada"><p>O deseño ten a particularidade de ser fácilmente imprimible nunha impresora 3D convencional, permitindo gran axilidade para a fabricación rápida de pezas aló onde se necesiten. O proxecto é Open Source e está disponible para a súa descarga na seguinte ligazón: <a href="https://github.com/aindustriosa/Pezas-respiradores-Y" target="_blank" rel="noopener">https://github.com/aindustriosa/Pezas-respiradores-Y</a></p><img src="/Duplicando-respiradores-COVID19/plano.png" class="" title="Plano 2D da peza">]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;O equipo de traballo de loita contra o COVID-19 da Industriosa, baixo as indicacións do Dr. David Mosquera, intensivista da UCI do Centro
       
     
     </summary>
