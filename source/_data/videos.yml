@@ -1,6 +1,84 @@
 ---
   - 
     player: "youtube"
+    id: "FuQ5glFzmJA"
+    title: "20200408 - Regata Solar - Curso Radiocontrol e Telemetría"
+    pubDate: 1586364313000
+    thumbnails: 
+      default: 
+        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/default.jpg"
+        width: 120
+        height: 90
+      medium: 
+        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/mqdefault.jpg"
+        width: 320
+        height: 180
+      high: 
+        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/hqdefault.jpg"
+        width: 480
+        height: 360
+      standard: 
+        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/sddefault.jpg"
+        width: 640
+        height: 480
+      maxres: 
+        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/maxresdefault.jpg"
+        width: 1280
+        height: 720
+  - 
+    player: "youtube"
+    id: "GtqKbhFsR_g"
+    title: "20200406 - Regata Solar - Curso Electrónica e propulsión"
+    pubDate: 1586366215000
+    thumbnails: 
+      default: 
+        url: "https://i.ytimg.com/vi/GtqKbhFsR_g/default.jpg"
+        width: 120
+        height: 90
+      medium: 
+        url: "https://i.ytimg.com/vi/GtqKbhFsR_g/mqdefault.jpg"
+        width: 320
+        height: 180
+      high: 
+        url: "https://i.ytimg.com/vi/GtqKbhFsR_g/hqdefault.jpg"
+        width: 480
+        height: 360
+      standard: 
+        url: "https://i.ytimg.com/vi/GtqKbhFsR_g/sddefault.jpg"
+        width: 640
+        height: 480
+      maxres: 
+        url: "https://i.ytimg.com/vi/GtqKbhFsR_g/maxresdefault.jpg"
+        width: 1280
+        height: 720
+  - 
+    player: "youtube"
+    id: "FckZbnkM1hU"
+    title: "Regata Solar - Curso Electrónica e propulsión"
+    pubDate: 1586192421000
+    thumbnails: 
+      default: 
+        url: "https://i.ytimg.com/vi/FckZbnkM1hU/default.jpg"
+        width: 120
+        height: 90
+      medium: 
+        url: "https://i.ytimg.com/vi/FckZbnkM1hU/mqdefault.jpg"
+        width: 320
+        height: 180
+      high: 
+        url: "https://i.ytimg.com/vi/FckZbnkM1hU/hqdefault.jpg"
+        width: 480
+        height: 360
+      standard: 
+        url: "https://i.ytimg.com/vi/FckZbnkM1hU/sddefault.jpg"
+        width: 640
+        height: 480
+      maxres: 
+        url: "https://i.ytimg.com/vi/FckZbnkM1hU/maxresdefault.jpg"
+        width: 1280
+        height: 720
+  - 
+    player: "youtube"
     id: "VynI1x3QGI0"
     title: "Introducción a Lora e LoraWAN"
     pubDate: 1584645933000
