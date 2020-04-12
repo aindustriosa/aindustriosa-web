@@ -118,6 +118,9 @@ social:
   Youtube:
     link: https://www.youtube.com/channel/UC9DPKfcLiNd7SEU-QLlIG7A
     icon: "fab fa-youtube"
+  Meetup:
+    link: https://www.meetup.com/aindustriosa/
+    icon: "fab fa-meetup"
 
 responsive_images:
   pattern: '**/*.+(png|jpg|jpeg)'
