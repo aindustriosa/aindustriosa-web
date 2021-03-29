@@ -16,8 +16,6 @@
             <%- partial('post/tag') %>
         </footer>
 
-        <%- image_tag(image_version(post.cover || theme.cover, {prefix: 'header'}), {class: "post-cover"}) %>
-
         <div class="post-content" itemprop="articleBody">
             <%- post.content %>
         </div>
