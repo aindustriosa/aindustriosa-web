@@ -1,35 +1,87 @@
 ---
   - 
     player: "youtube"
-    id: "FuQ5glFzmJA"
-    title: "20200408 - Regata Solar - Curso Radiocontrol e Telemetría"
-    pubDate: 1586364313000
+    id: "50TrtscnUis"
+    title: "20210227 - Ultracasa 3000"
+    pubDate: 1614421223000
     thumbnails: 
       default: 
-        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/default.jpg"
+        url: "https://i.ytimg.com/vi/50TrtscnUis/default.jpg"
         width: 120
         height: 90
       medium: 
-        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/mqdefault.jpg"
+        url: "https://i.ytimg.com/vi/50TrtscnUis/mqdefault.jpg"
         width: 320
         height: 180
       high: 
-        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/hqdefault.jpg"
+        url: "https://i.ytimg.com/vi/50TrtscnUis/hqdefault.jpg"
         width: 480
         height: 360
       standard: 
-        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/sddefault.jpg"
+        url: "https://i.ytimg.com/vi/50TrtscnUis/sddefault.jpg"
         width: 640
         height: 480
       maxres: 
-        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/maxresdefault.jpg"
+        url: "https://i.ytimg.com/vi/50TrtscnUis/maxresdefault.jpg"
+        width: 1280
+        height: 720
+  - 
+    player: "youtube"
+    id: "bmMG6O0I4eI"
+    title: "20200801 - [LIVE] - Hackeando mi robot aspirador"
+    pubDate: 1596272380000
+    thumbnails: 
+      default: 
+        url: "https://i.ytimg.com/vi/bmMG6O0I4eI/default.jpg"
+        width: 120
+        height: 90
+      medium: 
+        url: "https://i.ytimg.com/vi/bmMG6O0I4eI/mqdefault.jpg"
+        width: 320
+        height: 180
+      high: 
+        url: "https://i.ytimg.com/vi/bmMG6O0I4eI/hqdefault.jpg"
+        width: 480
+        height: 360
+      standard: 
+        url: "https://i.ytimg.com/vi/bmMG6O0I4eI/sddefault.jpg"
+        width: 640
+        height: 480
+      maxres: 
+        url: "https://i.ytimg.com/vi/bmMG6O0I4eI/maxresdefault.jpg"
+        width: 1280
+        height: 720
+  - 
+    player: "youtube"
+    id: "tNMsRnwnpYw"
+    title: "20200424 - [LIVE] - Open Research Rocketry"
+    pubDate: 1587717681000
+    thumbnails: 
+      default: 
+        url: "https://i.ytimg.com/vi/tNMsRnwnpYw/default.jpg"
+        width: 120
+        height: 90
+      medium: 
+        url: "https://i.ytimg.com/vi/tNMsRnwnpYw/mqdefault.jpg"
+        width: 320
+        height: 180
+      high: 
+        url: "https://i.ytimg.com/vi/tNMsRnwnpYw/hqdefault.jpg"
+        width: 480
+        height: 360
+      standard: 
+        url: "https://i.ytimg.com/vi/tNMsRnwnpYw/sddefault.jpg"
+        width: 640
+        height: 480
+      maxres: 
+        url: "https://i.ytimg.com/vi/tNMsRnwnpYw/maxresdefault.jpg"
         width: 1280
         height: 720
   - 
     player: "youtube"
     id: "GtqKbhFsR_g"
     title: "20200406 - Regata Solar - Curso Electrónica e propulsión"
-    pubDate: 1586366215000
+    pubDate: 1586193221000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/GtqKbhFsR_g/default.jpg"
@@ -53,9 +105,35 @@
         height: 720
   - 
     player: "youtube"
+    id: "FuQ5glFzmJA"
+    title: "20200408 - [LIVE] - Regata Solar - Curso Radiocontrol e Telemetría"
+    pubDate: 1586343591000
+    thumbnails: 
+      default: 
+        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/default.jpg"
+        width: 120
+        height: 90
+      medium: 
+        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/mqdefault.jpg"
+        width: 320
+        height: 180
+      high: 
+        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/hqdefault.jpg"
+        width: 480
+        height: 360
+      standard: 
+        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/sddefault.jpg"
+        width: 640
+        height: 480
+      maxres: 
+        url: "https://i.ytimg.com/vi/FuQ5glFzmJA/maxresdefault.jpg"
+        width: 1280
+        height: 720
+  - 
+    player: "youtube"
     id: "FckZbnkM1hU"
-    title: "Regata Solar - Curso Electrónica e propulsión"
-    pubDate: 1586192421000
+    title: "Regata Solar - [LIVE] - Curso Electrónica e propulsión"
+    pubDate: 1586163585000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/FckZbnkM1hU/default.jpg"
@@ -80,8 +158,8 @@
   - 
     player: "youtube"
     id: "VynI1x3QGI0"
-    title: "Introducción a Lora e LoraWAN"
-    pubDate: 1584645933000
+    title: "20200319 - [LIVE] - Introducción a Lora e LoraWAN"
+    pubDate: 1584632927000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/VynI1x3QGI0/default.jpg"
@@ -99,7 +177,7 @@
     player: "youtube"
     id: "Vrgi0hr0Dsk"
     title: "20190325 - Consecuencias de la Nueva Directiva de Copyright Europea (y qué puedo hacer)"
-    pubDate: 1553799123000
+    pubDate: 1553766149000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/Vrgi0hr0Dsk/default.jpg"
@@ -125,7 +203,7 @@
     player: "youtube"
     id: "lo6yuYSnAMU"
     title: "20190320 - Introducción a las FPGAs+Verilog"
-    pubDate: 1553690705000
+    pubDate: 1553677955000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/lo6yuYSnAMU/default.jpg"
@@ -151,7 +229,7 @@
     player: "youtube"
     id: "9Ga8hHu1Dig"
     title: "20190304 - Charla ganadores Regata Solar 2018 categoría Open"
-    pubDate: 1553637255000
+    pubDate: 1553609742000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/9Ga8hHu1Dig/default.jpg"
@@ -177,7 +255,7 @@
     player: "youtube"
     id: "E0sGiBOL7ek"
     title: "20190304 - Charla Íñigo Echenique - Diseño Naval - TS Royalist"
-    pubDate: 1553602472000
+    pubDate: 1553597495000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/E0sGiBOL7ek/default.jpg"
@@ -203,7 +281,7 @@
     player: "youtube"
     id: "b6ErBdjfBWg"
     title: "20190227 - Cómo construirte una impresora 3d XXL"
-    pubDate: 1553513127000
+    pubDate: 1553503185000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/b6ErBdjfBWg/default.jpg"
@@ -229,7 +307,7 @@
     player: "youtube"
     id: "37xmhGWKuAE"
     title: "23012019 - Un repaso a las competiciones de robots siguelíneas"
-    pubDate: 1549358977000
+    pubDate: 1549323346000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/37xmhGWKuAE/default.jpg"
@@ -255,7 +333,7 @@
     player: "youtube"
     id: "UP_HuKoMZco"
     title: "20181213 - E-téxtiles nos espacios maker"
-    pubDate: 1546257281000
+    pubDate: 1545141354000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/UP_HuKoMZco/default.jpg"
@@ -281,7 +359,7 @@
     player: "youtube"
     id: "OJFnTJlMrOo"
     title: "Galicia, el espacio y por qué seguir explorando"
-    pubDate: 1543515123000
+    pubDate: 1543513113000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/OJFnTJlMrOo/default.jpg"
@@ -307,7 +385,7 @@
     player: "youtube"
     id: "7oKgu70oDtI"
     title: "20180601 - Garabullo - Diego Lale"
-    pubDate: 1528406589000
+    pubDate: 1528349199000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/7oKgu70oDtI/default.jpg"
@@ -331,9 +409,35 @@
         height: 720
   - 
     player: "youtube"
+    id: "Kx2P4b1cxCk"
+    title: "20180301 - Monitorización de una regata de barcos radiocontrol"
+    pubDate: 1520462435000
+    thumbnails: 
+      default: 
+        url: "https://i.ytimg.com/vi/Kx2P4b1cxCk/default.jpg"
+        width: 120
+        height: 90
+      medium: 
+        url: "https://i.ytimg.com/vi/Kx2P4b1cxCk/mqdefault.jpg"
+        width: 320
+        height: 180
+      high: 
+        url: "https://i.ytimg.com/vi/Kx2P4b1cxCk/hqdefault.jpg"
+        width: 480
+        height: 360
+      standard: 
+        url: "https://i.ytimg.com/vi/Kx2P4b1cxCk/sddefault.jpg"
+        width: 640
+        height: 480
+      maxres: 
+        url: "https://i.ytimg.com/vi/Kx2P4b1cxCk/maxresdefault.jpg"
+        width: 1280
+        height: 720
+  - 
+    player: "youtube"
     id: "Eply147XQZw"
     title: "20180309 - Robótica de competición (Carreras, mini-sumo y humanoides) - OPROBOTS"
-    pubDate: 1521666390000
+    pubDate: 1521587041000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/Eply147XQZw/default.jpg"
@@ -359,7 +463,7 @@
     player: "youtube"
     id: "ReZbM9lhdH4"
     title: "20180314 - Introducción al diseño naval - III Regata Solar - Íñigo Echenique"
-    pubDate: 1521299972000
+    pubDate: 1521297011000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/ReZbM9lhdH4/default.jpg"
@@ -383,35 +487,9 @@
         height: 720
   - 
     player: "youtube"
-    id: "Kx2P4b1cxCk"
-    title: "20180301 - Monitorización de una regata de barcos radiocontrol"
-    pubDate: 1521847560000
-    thumbnails: 
-      default: 
-        url: "https://i.ytimg.com/vi/Kx2P4b1cxCk/default.jpg"
-        width: 120
-        height: 90
-      medium: 
-        url: "https://i.ytimg.com/vi/Kx2P4b1cxCk/mqdefault.jpg"
-        width: 320
-        height: 180
-      high: 
-        url: "https://i.ytimg.com/vi/Kx2P4b1cxCk/hqdefault.jpg"
-        width: 480
-        height: 360
-      standard: 
-        url: "https://i.ytimg.com/vi/Kx2P4b1cxCk/sddefault.jpg"
-        width: 640
-        height: 480
-      maxres: 
-        url: "https://i.ytimg.com/vi/Kx2P4b1cxCk/maxresdefault.jpg"
-        width: 1280
-        height: 720
-  - 
-    player: "youtube"
     id: "R1CZGU-SWsA"
     title: "20180216 - Bulebule - Making of de un robot \"micromouse\""
-    pubDate: 1519082560000
+    pubDate: 1519080817000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/R1CZGU-SWsA/default.jpg"
@@ -437,7 +515,7 @@
     player: "youtube"
     id: "ygDE-hWi2-M"
     title: "20180123 - TVG - Entrevista a Ana Cidre"
-    pubDate: 1516748217000
+    pubDate: 1516747949000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/ygDE-hWi2-M/default.jpg"
@@ -459,7 +537,7 @@
     player: "youtube"
     id: "M9BeEq0OSq8"
     title: "VigoTech na TVG"
-    pubDate: 1516307011000
+    pubDate: 1516306957000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/M9BeEq0OSq8/default.jpg"
@@ -477,7 +555,7 @@
     player: "youtube"
     id: "w3BInWruN88"
     title: "Time-lapse da montaxe Scanner 3D Ciclop"
-    pubDate: 1515947837000
+    pubDate: 1515936435000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/w3BInWruN88/default.jpg"
@@ -503,7 +581,7 @@
     player: "youtube"
     id: "bR0vVThAn6o"
     title: "A Industriosa no telexornal da TVG"
-    pubDate: 1515669547000
+    pubDate: 1515669482000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/bR0vVThAn6o/default.jpg"
@@ -521,7 +599,7 @@
     player: "youtube"
     id: "cRS2oFs_aqw"
     title: "A Industriosa en Localia"
-    pubDate: 1515667946000
+    pubDate: 1515667591000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/cRS2oFs_aqw/default.jpg"
@@ -539,7 +617,7 @@
     player: "youtube"
     id: "7mVK7obSv80"
     title: "A Industriosa - Promo"
-    pubDate: 1513448450000
+    pubDate: 1513448342000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/7mVK7obSv80/default.jpg"
@@ -565,7 +643,7 @@
     player: "youtube"
     id: "nf8a_OrQSSI"
     title: "Badge OSHWDem 2017"
-    pubDate: 1512813940000
+    pubDate: 1512812678000
     thumbnails: 
       default: 
         url: "https://i.ytimg.com/vi/nf8a_OrQSSI/default.jpg"
