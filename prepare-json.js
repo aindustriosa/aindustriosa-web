@@ -137,6 +137,11 @@ function savePrevEventsToYmlFile(events) {
 
 
 // Read and parse source data
+if (!MEMBER_KEY) {
+  console.log(`${colors.bgRed("Error: MEMBER env variable not defined")}`);
+  process.exit(1)
+}
+
 console.log(`${colors.inverse("Getting vigotech.json file")}`);
 console.log(`   Getting members json from ${colors.underline(SOURCE_JSON)}`)
 let data = {}
