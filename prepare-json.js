@@ -137,6 +137,7 @@ function savePrevEventsToYmlFile(events) {
 
 
 // Read and parse source data
+console.log(process.env)
 if (!MEMBER_KEY) {
   console.log(`${colors.bgRed("Error: MEMBER env variable not defined")}`);
   process.exit(1)
