@@ -23,6 +23,8 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: yarn install
+      - name: Prepare json
+        run: yarn prepare-json
       - name: Build
         run: yarn build
       - name: Deploy
