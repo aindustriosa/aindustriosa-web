@@ -25,6 +25,11 @@ jobs:
         run: yarn install
       - name: Prepare json
         run: yarn prepare-json
+        env:
+          MEMBER: aindustriosa
+          GENERATED_JSON_PATH: source/contents.json
+          MEETUP_API_BASE: http://api.meetup.com
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       - name: Build
         run: yarn build
       - name: Deploy
