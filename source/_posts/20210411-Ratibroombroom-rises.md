@@ -19,10 +19,10 @@ Por supuesto, estamos liberando tanto la placa como el software de Rati. Lo pod�
 
 Nuestra intención es llegar para competir en la siguiente OSHWDem, si las condiciones lo permiten, y poder compartir las novedades que hemos metido con los compañeros competidores y quien visite la feria. Aquí están los vídeos de la competición de la OSHWDem 2019 donde nos presentamos:
 [OSHWDem 2019 - Competición de laberinto](https://www.youtube.com/watch?v=tcdZ1OuzKIc)
-{% youtube tcdZ1OuzKIc false %}
+{% youtube tcdZ1OuzKIc %}
 [OSHWDem 2019 - Competición velocistas de persecución
 ](https://www.youtube.com/watch?v=nkUSQfPFRX8)
-{% youtube nkUSQfPFRX8 false %}
+{% youtube nkUSQfPFRX8 %}
 
 Os mantendremos informados de las novedades del equipo de robótica de competición de A Industriosa. ¡Estad atentos!
 
