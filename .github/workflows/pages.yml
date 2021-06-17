@@ -1,6 +1,8 @@
 name: Pages
 
 on:
+  schedule:
+    - cron: "* 16 * * *"
   push:
     branches:
       - master  # default branch
