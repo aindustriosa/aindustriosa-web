@@ -17,4 +17,7 @@ O obxectivo do obradoiro é adquirir coñecementos e vagaxe suficente para poder
 
 Requisitos: ordenador propio. Ainda que non son imprescindibles, outras habilidades e coñecementos que poden ser valiosos coma programación (visual por bloques tipo Scratch, ou textual tipo Arduino/Python/C/C++), deseño 3D, recollida de datos remotos (http, mqtt, ...), deseño/creación artística, legal etc. etc.
 
+Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
+
+
 {% asset_img cartel.jpg Cartel obradoiro %}
