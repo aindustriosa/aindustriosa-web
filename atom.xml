@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://aindustriosa.org/"/>
-  <updated>2023-02-05T16:53:08.566Z</updated>
+  <updated>2023-02-05T17:02:40.154Z</updated>
   <id>https://aindustriosa.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://aindustriosa.org/Obradoiro-de-xaneiro-Sensores-CO2-maker-para-combatir-a-pandemia-COVID-19/"/>
     <id>https://aindustriosa.org/Obradoiro-de-xaneiro-Sensores-CO2-maker-para-combatir-a-pandemia-COVID-19/</id>
     <published>2022-01-16T14:31:20.000Z</published>
-    <updated>2023-02-05T16:53:08.566Z</updated>
+    <updated>2023-02-05T17:02:40.154Z</updated>
     
     <content type="html"><![CDATA[<p>Achegamos nesta entrada os datos do obradoiro que celebraremos no local o sábado 22 de xaneiro de 10 a 13 horas.</p><p>Neste obradoiro abordaremos o proxecto de deseño e creación de aparatos de fabricación propia para medir a concentración de CO2 e medir o nivel de ventilación dun espacio.</p><p>Con esta medida indirecta podemos determinar o risco de contaxio en caso de compartilo con persoas infectadas: unha ventilación suficiente reduce de forma dramática o risco (menos do 1%).</p><p>Traballaremos diversos aspectos, dende unha pequena parte teórica e técnica, ate o uso práctico dos propios sensores empregando Arduino/ESP-8266. Falaremos tamén do sentido e valor da autofabricación fronte a productos comerciais.</p><p>O obxectivo do obradoiro é adquirir coñecementos e vagaxe suficente para poder abordar despois a creación de candanseu propio aparato. O traballo farase por grupos, xa que contamos con poucos sensores, e os protipos resultantes quedarán na propia Industriosa para o seu emprego e maior seguridade.</p><p>Requisitos: ordenador propio. Ainda que non son imprescindibles, outras habilidades e coñecementos que poden ser valiosos coma programación (visual por bloques tipo Scratch, ou textual tipo Arduino/Python/C/C++), deseño 3D, recollida de datos remotos (http, mqtt, …), deseño/creación artística, legal etc. etc.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Obradoiro-de-xaneiro-Sensores-CO2-maker-para-combatir-a-pandemia-COVID-19/cartel.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -46,7 +46,7 @@
     <link href="https://aindustriosa.org/Camisetas-de-A-Industriosa/"/>
     <id>https://aindustriosa.org/Camisetas-de-A-Industriosa/</id>
     <published>2021-12-02T18:51:25.000Z</published>
-    <updated>2023-02-05T16:53:08.562Z</updated>
+    <updated>2023-02-05T17:02:40.154Z</updated>
     
     <content type="html"><![CDATA[<p>A idea de facer unhas camisetas de A Industriosa sempre estivo no aire.<br>Xa non era a primeira vez que íamos a algún evento (estou pensando na OSHWDEM), e que a envexa nos corroía ó ver os compañeiros doutros grupos coas súas camisetas, todos igualiños :D.<br>Unhas veces porque non nos decidíamos co deseño. Outras, porque ninguén collía o mando, ou porque lle dábamos preferencia a centrarnos noutro tipo de proxectos. E así, ía pasando o tempo sen facelas.<br>Cando xa por fin estabamos a piques de encargalas, a pandemia paralizouno todo.<br>Mais, despois de varios anos aguantando a gaña de facelas, por fin temos camisetas!<br>A nosa socia Sabela animouse a organizar o tema. Fixo o deseño, elexíu as cores, e contactou co fabricante para sacar unha primeira remesa para socios.<br>Realmente podíamos contactar con calquera empresa de serigrafía que nos fixese un bo prezo, pero decantámonos por apoiar á empresa local e a un proxecto na liña da nosa Asociación, <a href="https://www.freewear.org/" target="_blank" rel="noopener">Freewear.org</a>.<br>FreeWear.org leva colaborando dende 2006 con distintas organizacións FOSS (Free and Open Source Software), a través da súa tenda web na que por cada venta, donan unha parte á asociación u organización á que pertencen os produtos. E tamén participando en eventos organizados por ditas Asociacións.<br>En principio, as nosas camisetas non van estar dispoñibles na súa web. Mais como estamos convencidos de que ó velas vai haber máis xente interesada en facerse con unha, imos realizar máis pedidos. Polo que se alguén quere encargar algunha, que fale connosco.</p><img src="/Camisetas-de-A-Industriosa/camiseta.jpg" class="" title="Camiseta">]]></content>
     
@@ -68,7 +68,7 @@
     <link href="https://aindustriosa.org/Hackaton-de-Domotica-e-IoT-libre/"/>
     <id>https://aindustriosa.org/Hackaton-de-Domotica-e-IoT-libre/</id>
     <published>2021-09-23T18:39:13.000Z</published>
-    <updated>2023-02-05T16:53:08.562Z</updated>
+    <updated>2023-02-05T17:02:40.150Z</updated>
     
     <content type="html"><![CDATA[<p>Continuamos as actividades de octubro cunha hackatón co que faremos o noso local máis intelixente. Durante o sábado 9 estaremos fedellando con tecnoloxías relacionadas coa domótica. O material o poñemos nos, pero podes traer algo e botamos unha man para que o poidas conectar na túa casa. Para asistir, <a href="https://www.meetup.com/es/AIndustriosa/events/280939499/" target="_blank" rel="noopener">rexistrádevos no noso Meetup</a>. Aquí vai a información:</p><p>Hackatón de Domótica e IoT:<br>Son moitas as solucións e produtos actuais que buscan facernos a vida máis fácil na nosa casa conectando todo a Internet. As luces, a aspiradora, a lavadora, a neveira e ata o cepillo de dentes, agora todo está conectado máis que nunca.</p><p>O problema? Que acabamos con decenas de servizos e aplicacións de fabricantes diferentes. Ademais se nalgún momento algún fabricante decide deixar de dar soporte ao seu produto… nosa Smart Home acaba sendo unha Dumb Home en toda regra.</p><p>Entón… que faremos?</p><p>Aprenderemos como unificar e configurar todos os nosos dispositivos con Home Assistant, desde a instalación e configuración básica a integracións e configuracións máis complexas para facer que a nosa casa pense por nós. Desde sensores xa feitos ata algúns un pouco caseiros con ESP-01, Arduinos, e sensores de todo tipo (humidade, presión, temperatura, presenza…). Tamén reprogramaremos produtos comerciais para melloralos como os Sonoff.</p><p>Javier Vila é enxeñeiro full-stack en Santander UK pero tamén é maker no seu tempo libre. Desta afección de argallar e trastear nace Argalleiros, proxecto que pretende achegar estes mundos tecnolóxicos aos máis pequenos da casa, sen esquecer a creatividade e a arte. E nesa mesma liña de crear e argallar xorde este hackatón.</p><p>(web: vilabesada.com / linkedin: linkedin.com/in/javiervilab)</p><p>Javier xa nos mostrou parte da sua instalación domótica nunha charla. Se a perdiches ou queres volver a vela, a temos no <a href="https://www.youtube.com/watch?v=50TrtscnUis" target="_blank" rel="noopener">Youtube</a>:</p><div class="video-container"><iframe src="https://www.youtube.com/embed/50TrtscnUis" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p>Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica.</p><img src="/Hackaton-de-Domotica-e-IoT-libre/cartel_hackaton_domotica.jpg" class="" title="Cartel hackatón">]]></content>
     
@@ -98,7 +98,7 @@
     <link href="https://aindustriosa.org/Obradoiro-de-programacion-con-Micro-bit-para-nenas-e-nenos/"/>
     <id>https://aindustriosa.org/Obradoiro-de-programacion-con-Micro-bit-para-nenas-e-nenos/</id>
     <published>2021-09-23T18:14:21.000Z</published>
-    <updated>2023-02-05T16:53:08.562Z</updated>
+    <updated>2023-02-05T17:02:40.154Z</updated>
     
     <content type="html"><![CDATA[<p>Este outubro empezamos forte cun obradoiro o sábado 2 para que nenos e os seus maiores aprendan a programar nunhas placas moi chulas que facilitaremos nos. <a href="https://www.meetup.com/es/AIndustriosa/events/280918747/" target="_blank" rel="noopener">Rexistrádevos no noso Meetup</a>. Aquí vai a información:</p><p>Obradoiro de Micro:bit para nenas e nenos entre 7 e 12 anos no que participarán en compañia dun adulto.</p><p>As placas Micro:bit naceron no 2016 nun proxecto impulsado pola BBC do Reino Unido e hoxe en día e un dos proxectos mais extendidos a nivel internacional no ensino e introdución a programación e electrónica.</p><p>O obradoiro durará media xornada na que as nenas e nenos achegaranse ó mundo da programación por bloques mediante distintas actividades e xogos.</p><p>Para elo, utilizaremos recursos que pon a nosa disposición o ecosistema <a href="https://www.microbit.org/es-es/" target="_blank" rel="noopener">Micro:bit</a>.</p><p>Principalmente empregaremos o entorno de programación por bloques <a href="https://makecode.microbit.org/" target="_blank" rel="noopener">MakeCode</a>, un editor gráfico de código aberto para a aprendizaxe e inicio á programación.</p><p>Dende A Industriosa facilitaremos as placas e o material necesario para as actividades, soamente será necesario un ordenador portátil por familia.</p><p>Nesta ocasión o evento celebrarase no noso local, na rua Barcelona 13. Para tomar as máximas precaucións as plazas están limitadas a 7 familias, e máximo dous nenos acompañados dun adulto por familia.</p><p>Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica.</p><img src="/Obradoiro-de-programacion-con-Micro-bit-para-nenas-e-nenos/cartel_obradoiro_microbit.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -124,7 +124,7 @@
     <link href="https://aindustriosa.org/Xornadas-de-portas-abertas-en-setembro/"/>
     <id>https://aindustriosa.org/Xornadas-de-portas-abertas-en-setembro/</id>
     <published>2021-08-31T17:49:45.000Z</published>
-    <updated>2023-02-05T16:53:08.562Z</updated>
+    <updated>2023-02-05T17:02:40.150Z</updated>
     
     <content type="html"><![CDATA[<p>Novo mes, nova actividade!</p><p>Durante setembro imos probar un novo tipo de actividade: As xornadas abertas. Ata o comezo da pandemia abríamos as portas martes, mércores e sábado para que os socios poideran traballar nos seus proxectos, botar unha man a alguén ou ir botar unha parrafada sen maiores pretensións. Agora nos gustaría abrir tamén a outra xente interesada para que nos poida visitar os sábados de setembro de 11 a 14 horas, ver que facemos e botar unha man se se animan. Para que vos fagades unha idea, os socios veñen traballando en proxectos coma estes:</p><p>● Sistema de apertura remota e autenticada do local de A Industriosa.<br>● Máquina recreativa retro-gaming baseada en SW libre (libretro, libGDX, retroarch…).<br>● Barco autónomo a escala, empregando proxectos de Software Libre como OpenCV, Linux, Ardupilot…<br>● Proxectos educativos de programación de placas de desenvolvemento en uPython.<br>● Proxecto para o desenvolvemento de sensor CO2 Open Source baseado no proxecto CO2box <a href="https://github.com/felixgomez/co2box" target="_blank" rel="noopener">https://github.com/felixgomez/co2box</a>.<br>● Desenvolvemento de OpenPipe v2, instrumento musical MIDI OpenHardware.</p><p>A calqueira persoa que teña algo de inquietude e nos quera visitar é benvida. Os menores de idade deberán contar coa presenza dun adulto responsable. Debido as restriccións de aforo que debemos respetar, necesitaremos que nos avisedes con antelación de que ides vir. Para iso, crearemos eventos no noso <a href="https://www.meetup.com/es-ES/AIndustriosa" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Xornadas-de-portas-abertas-en-setembro/cartel_xornadas_portas_abertas.jpg" class="" title="Cartel xornadas">]]></content>
     
@@ -149,7 +149,7 @@
     <link href="https://aindustriosa.org/Obradoiro-LoraWAN-Nova-data/"/>
     <id>https://aindustriosa.org/Obradoiro-LoraWAN-Nova-data/</id>
     <published>2021-08-13T20:19:09.000Z</published>
-    <updated>2023-02-05T16:53:08.562Z</updated>
+    <updated>2023-02-05T17:02:40.150Z</updated>
     
     <content type="html"><![CDATA[<p>Debido ás inclemencias do tempo vímonos obligados a adiar o evento LoRaWAN ó próximo sábado día 21 de Agosto.</p><p>Como sabedes o evento vaise celebrar ó aire libre nunha finca enorme que o noso socio Carlos ten en Ponteareas,<br>polo que o bo tempo é un requisito imprescindible.</p><p>Estade atentos na seguinte ligazón por se quedan prazas libres: <a href="https://www.meetup.com/es-ES/AIndustriosa/events/279527031/" target="_blank" rel="noopener">Rexistro Obradoiro LoRaWAN</a></p><p>Moitas grazas a todos, e disculpade as molestias ocasionadas.</p><p>A Industriosa.</p>]]></content>
     
@@ -176,7 +176,7 @@
     <link href="https://aindustriosa.org/Obradoiro-rural-lorawan/"/>
     <id>https://aindustriosa.org/Obradoiro-rural-lorawan/</id>
     <published>2021-07-20T22:20:00.000Z</published>
-    <updated>2023-02-05T16:53:08.558Z</updated>
+    <updated>2023-02-05T17:02:40.146Z</updated>
     
     <content type="html"><![CDATA[<p>Por fin estamos de volta para un evento presencial! ao aire libre por suposto.<br>Cumprindo todas as medidas e protocolos COVID-19, o próximo día 7 de agosto celebraremos un obradoiro<br>de LoRaWAN no que se abordarán varios retos para dotar de rede e servizos LoRaWAN un muiño rural.</p><p>Para comezar haberá unha charla introdutora do grupo TTN Vigo. Unha vez finalizada propoñeranse varios retos para abordar en grupos de traballo reducidos.</p><p>A grandes rasgos, estos son:</p><ul><li>Dotar ó emprazamento de cobertura LoRaWAN e conectividade con TTN.</li><li>Desenvolver unha serie de sensores para obter datos do entorno.</li><li>Recolectar datos dende TTN e disponibilizalos para visualización en web.</li></ul><p>Cada reto estará preasignado a un grupo de 3 persoas (máximo). Como moito abriranse 12 prazas (máis organización).</p><p>O evento será levado a cabo ao aire libre nunha finca enorme que o noso socio Carlos ten en Ponteareas.</p><p>O anfitrión, Carlos, deleitaranos coa súa famosa paella. Acéptase que os asistentes leven entrantes e postres para complementar, se traedes rapaces, avisade para telo en conta a nivel organizativo.</p><p>Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica.</p><p>Non dudibides en rexistrarte na seguinte ligazón: <a href="https://www.meetup.com/es-ES/AIndustriosa/events/279527031/" target="_blank" rel="noopener">Rexistro Obradoiro LoRaWAN</a></p><img src="/Obradoiro-rural-lorawan/obradoiro_lorawan_aindustriosa.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -202,7 +202,7 @@
     <link href="https://aindustriosa.org/Ratibroombroom-rises/"/>
     <id>https://aindustriosa.org/Ratibroombroom-rises/</id>
     <published>2021-04-11T17:20:50.000Z</published>
-    <updated>2023-02-05T16:53:08.554Z</updated>
+    <updated>2023-02-05T17:02:40.146Z</updated>
     
     <content type="html"><![CDATA[<img src="/Ratibroombroom-rises/board.png" class="" title="Placa Ratibroombroom"><p>El equipo de robótica  de competición de A Industriosa no ha estado parado desde su última participación en la OSHWDem 2019. En aquel año participamos en la competición de velocistas de persecución y micromouse (os dejamos al final los enlaces a los vídeos del evento). Desde entonces, hemos estado trabajando en un micromouse al que llamamos Ratibroombroom. Por ahora tenemos la placa/chasis preparada y el software básico casi terminado. Ratibroombroom está basado en el micromouse de Clara y Peque llamado <a href="https://github.com/Bulebots/meiga" target="_blank" rel="noopener">Meiga</a> a los que no podremos agradecer lo suficiente su inspiración y ayuda.</p><p>Aquí está la placa del primer prototipo montada:</p><img src="/Ratibroombroom-rises/photo.jpg" class="" title="Foto Ratibroombroom"><p>Por supuesto, estamos liberando tanto la placa como el software de Rati. Lo podéis encontrar entre los repositorios de la asociación (<a href="https://github.com/aindustriosa/RatibroombroomSW" target="_blank" rel="noopener">software</a> y <a href="https://github.com/aindustriosa/Ratibroombroom" target="_blank" rel="noopener">hardware</a>). Todavía estamos terminando de hacer pruebas y montando el primer prototipo para ponerlo en el laberinto, así que no esperéis que todo lo que descarguéis ahora funcione.</p><p>Nuestra intención es llegar para competir en la siguiente OSHWDem, si las condiciones lo permiten, y poder compartir las novedades que hemos metido con los compañeros competidores y quien visite la feria. Aquí están los vídeos de la competición de la OSHWDem 2019 donde nos presentamos:<br><a href="https://www.youtube.com/watch?v=tcdZ1OuzKIc" target="_blank" rel="noopener">OSHWDem 2019 - Competición de laberinto</a></p><div class="video-container"><iframe src="https://www.youtube.com/embed/tcdZ1OuzKIc" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p><a href="https://www.youtube.com/watch?v=nkUSQfPFRX8" target="_blank" rel="noopener">OSHWDem 2019 - Competición velocistas de persecución</a></p><div class="video-container"><iframe src="https://www.youtube.com/embed/nkUSQfPFRX8" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p>Os mantendremos informados de las novedades del equipo de robótica de competición de A Industriosa. ¡Estad atentos!</p>]]></content>
     
@@ -229,7 +229,7 @@
     <link href="https://aindustriosa.org/Novo-patrocinio-de-Gradiant/"/>
     <id>https://aindustriosa.org/Novo-patrocinio-de-Gradiant/</id>
     <published>2021-03-26T18:54:25.000Z</published>
-    <updated>2023-02-05T16:53:08.554Z</updated>
+    <updated>2023-02-05T17:02:40.142Z</updated>
     
     <content type="html"><![CDATA[<img src="/Novo-patrocinio-de-Gradiant/gradiant.png" class="" title="Logo Gradiant"><p>Xa dixemos a semana pasada que ían ser uns días movidos na Industriosa. Desta volta é un pracer anunciar que renovamos o patrocinio co <a href="https://www.gradiant.org/" target="_blank" rel="noopener">Centro Tecnolóxico Gradiant</a>.</p><p>Gracias a esta nova achega mercamos dous novos gateways LoRa (máis concretamente dous <a href="https://mikrotik.com/product/wap_lr8_kit" target="_blank" rel="noopener">Mikrotik wAP LR8</a>). Un deles permanecerá no noso local para a realización de obradoiros mentres que o outro foi instalado no <a href="https://www.openstreetmap.org/node/948407194" target="_blank" rel="noopener">monte Cepudo de Vigo</a>. Ambos gateways están conectados a rede pública <a href="https://www.thethingsnetwork.org/" target="_blank" rel="noopener">The Things Network</a> de xeito que calquera persoa ou empresa pode sacar partido deles.</p><img src="/Novo-patrocinio-de-Gradiant/mapa_gateway.jpg" class="" title="Mapa Gateway Cepudo"><p>Como parte deste patrocino imos tamén a organizar un taller práctico no que introducir a tecnoloxía LoRa. Estade atentos a futuras novidades.</p><img src="/Novo-patrocinio-de-Gradiant/cacharrada_lora.jpg" class="" title="Mapa Gateway Cepudo">]]></content>
     
@@ -253,7 +253,7 @@
     <link href="https://aindustriosa.org/Renovamos-o-patrocinio-con-R/"/>
     <id>https://aindustriosa.org/Renovamos-o-patrocinio-con-R/</id>
     <published>2021-03-18T18:57:37.000Z</published>
-    <updated>2023-02-05T16:53:08.550Z</updated>
+    <updated>2023-02-05T17:02:40.138Z</updated>
     
     <content type="html"><![CDATA[<img src="/Renovamos-o-patrocinio-con-R/logo-r.png" class="" title="Logo R"><p>Este ano queremos anunciar unha serie de boas novas con respecto aos patrocionios que nos manteñen a flote. Hoxe queremos agradecerlle a <a href="https://mundo-r.com/gl/" target="_blank" rel="noopener">R</a> que volva a confiar no noso proxecto un ano máis.</p><p>Nun ano tan complicado coma o que levamos, no que a maior parte dos nosos ingresos veñen das cuotas dos nosos socios a pesares de ter que manter o local pechado, o apoio que nos ofrece un operador como R é dun valor incalculable. R leva connosco desde o primeiro ano, e nunca dubidaron en ofrecernos o noso apoio. Por iso, de parte de toda a directiva e os socios, moitas gracias!</p>]]></content>
     
@@ -279,7 +279,7 @@
     <link href="https://aindustriosa.org/Duplicando-respiradores-COVID19/"/>
     <id>https://aindustriosa.org/Duplicando-respiradores-COVID19/</id>
     <published>2020-04-03T17:38:25.000Z</published>
-    <updated>2023-02-05T16:53:08.546Z</updated>
+    <updated>2023-02-05T17:02:40.138Z</updated>
     
     <content type="html"><![CDATA[<p>O equipo de traballo de loita contra o COVID-19 da Industriosa, baixo as indicacións do Dr. David Mosquera, intensivista da UCI do Centro Hospitalario Álvaro Cunqueiro de Vigo, e coordinando as probas con Javier Pazó, chegaron a un deseño válido para a fabricación dunha peza que permite a multiplicación e uso simultáneo dos respiradores de UCI por parte de máis dun paciente.</p><img src="/Duplicando-respiradores-COVID19/render.png" class="" title="Peza renderizada"><p>O deseño ten a particularidade de ser fácilmente imprimible nunha impresora 3D convencional, permitindo gran axilidade para a fabricación rápida de pezas aló onde se necesiten. O proxecto é Open Source e está disponible para a súa descarga na seguinte ligazón: <a href="https://github.com/aindustriosa/Pezas-respiradores-Y" target="_blank" rel="noopener">https://github.com/aindustriosa/Pezas-respiradores-Y</a></p><img src="/Duplicando-respiradores-COVID19/plano.png" class="" title="Plano 2D da peza">]]></content>
     
