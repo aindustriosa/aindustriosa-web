@@ -25,7 +25,7 @@ En canto ao hardware de referencia, que sería bó que cada un levara:
 
 Todas as katas serán o terceiro sábado do mes, no caso de Febreiro empezamos o último debido ao carnaval.
 
-Inscrición en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/291411428/)
+Para participar debes de realizar a túa inscrición en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/291411428/)
 
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
