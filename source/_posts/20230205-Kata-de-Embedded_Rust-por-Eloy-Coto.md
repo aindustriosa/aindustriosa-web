@@ -20,8 +20,8 @@ O obxectivo principal é que algúns teñan un pequeno proxecto que construír. 
 
 En canto ao hardware de referencia, que sería bó que cada un levara:
 
-- STM32F4XX
-- ESP32
+-- STM32F4XX
+-- ESP32
 
 Todas as katas serán o terceiro sábado do mes, no caso de Febreiro empezamos o último debido ao carnaval.
 
