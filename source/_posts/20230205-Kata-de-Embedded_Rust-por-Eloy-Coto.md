@@ -2,7 +2,7 @@
 title: 'Kata mensual de Embedded Rust por Eloy Coto'
 date: 2023-02-05 09:30:00
 tags: [OBRADOIRO]
-cover: /Kata-de-Embedded_Rust-por-Eloy-Coto/Cartel_Rust_web.jpg
+cover: /Kata-de-Embedded_Rust-por-Eloy-Coto/Cartel_Rust_teaser.jpg
 ---
 
 Embedded Rust é algo que está crecendo moito nos últimos meses. En febreiro, comezaremos un Kata Mensual onde todos traballamos en diferentes proxectos mentres aprendemos Embedded rust.
@@ -18,10 +18,11 @@ Teremos unha introdución e unha configuración do contorno de desenvolvemento n
 
 O obxectivo principal é que algúns teñan un pequeno proxecto que construír. Os proxectos preferiblemente que esten baseados en STM32 (ARM) ou ESP32 (RISC-V), polo que o soporte é suficientemente bo. Respecto dos periféricos, temos algúns no taller, pero recomendo encarecidamente mercalos todos con antelación, polo que pode ser fácil de facer.
 
-En canto ao hardware de referencia, que sería bó qe cada un levara:
+En canto ao hardware de referencia, que sería bó que cada un levara:
 
-STM32F4XX
-ESP32
+- STM32F4XX
+- ESP32
+
 Todas as katas serán o terceiro sábado do mes, no caso de Febreiro empezamos o último debido ao carnaval.
 
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
