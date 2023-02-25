@@ -19,7 +19,7 @@ Se tes algunha dúbida, escríbenos!
 
 Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/).
 
-Organizado por A Industriosa e coa colaboración de Python Vigo
+Organizado por A Industriosa e coa colaboración de [Python Vigo](https://www.python-vigo.es).
 
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
