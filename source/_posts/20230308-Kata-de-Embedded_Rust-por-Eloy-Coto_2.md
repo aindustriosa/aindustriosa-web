@@ -18,7 +18,7 @@ O próximo 18 de Marzo volvemos as Katas de Rust da industriosa, será a segunda
 
 As katas de Rust é un espacio onde varios desenvolvedores traballan xuntos nun problemas especifico sobre Rust, e falamos dunha introducción ao final da kata de como mellorar os nosos proxectos. As katas estan lideradas por Eloy Coto, software engineer en Red Hat.
 
-Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/291411428/).
+Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/292116591/).
 
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
