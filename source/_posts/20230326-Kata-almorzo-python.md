@@ -17,7 +17,7 @@ Só é necesario que veñas co desexo de compartir e aprender. Non é esencial t
 
 Se tes algunha dúbida, escríbenos!
 
-Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/aindustriosa/events/292477574).
+Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/292477574/).
 
 Organizado por A Industriosa e coa colaboración de [Python Vigo](https://www.python-vigo.es).
 
