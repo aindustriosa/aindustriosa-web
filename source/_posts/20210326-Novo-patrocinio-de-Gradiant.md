@@ -3,6 +3,7 @@ title: Novo patrocinio de Gradiant
 date: 2021-03-26 18:54:25
 tags:
 cover: /Novo-patrocinio-de-Gradiant/gradiant.png
+excerpt: Gracias a esta nova achega mercamos dous novos gateways LoRa
 ---
 
 {% asset_img gradiant.png Logo Gradiant %}

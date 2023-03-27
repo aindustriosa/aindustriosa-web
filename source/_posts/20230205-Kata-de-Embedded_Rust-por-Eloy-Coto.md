@@ -3,6 +3,7 @@ title: 'Kata mensual de Embedded Rust por Eloy Coto'
 date: 2023-02-05 09:30:00
 tags: [OBRADOIRO]
 cover: /Kata-de-Embedded_Rust-por-Eloy-Coto/Cartel_Rust_teaser.jpg
+excerpt: Embedded Rust é algo que está crecendo moito nos últimos meses.
 ---
 
 Embedded Rust é algo que está crecendo moito nos últimos meses. En febreiro, comezaremos un Kata Mensual onde todos traballamos en diferentes proxectos mentres aprendemos Embedded rust.

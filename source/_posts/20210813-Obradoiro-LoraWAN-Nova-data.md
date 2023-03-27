@@ -3,6 +3,7 @@ title: Obradoiro LoRaWAN - Nova data
 date: 2021-08-13 20:19:09
 tags: [LORAWAN, OBRADOIRO]
 cover: /Obradoiro-rural-lorawan/muino_lorawan.jpg
+excerpt: Debido ás inclemencias do tempo vímonos obligados a adiar o evento LoRaWAN ó próximo sábado día 21 de Agosto.
 ---
 
 Debido ás inclemencias do tempo vímonos obligados a adiar o evento LoRaWAN ó próximo sábado día 21 de Agosto.

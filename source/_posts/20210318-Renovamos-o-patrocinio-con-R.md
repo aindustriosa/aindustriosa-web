@@ -3,6 +3,7 @@ title: Renovamos o patrocinio con R
 date: 2021-03-18 18:57:37
 tags: patrocinadores
 cover: /Renovamos-o-patrocinio-con-R/logo-r.png
+excerpt: Este ano queremos anunciar unha serie de boas novas con respecto aos patrocionios que nos manteñen a flote.
 ---
 
 {% asset_img logo-r.png Logo R %}

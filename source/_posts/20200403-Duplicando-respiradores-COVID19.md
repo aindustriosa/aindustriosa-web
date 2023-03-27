@@ -3,6 +3,7 @@ title: 'Duplicando respiradores #COVID19'
 date: 2020-04-03 17:38:25
 tags:
 cover: /Duplicando-respiradores-COVID19/render.png
+excerpt: Deseño válido para a fabricación dunha peza que permite a multiplicación e uso simultáneo dos respiradores de UCI por parte de máis dun paciente.
 ---
 
 O equipo de traballo de loita contra o COVID-19 da Industriosa, baixo as indicacións do Dr. David Mosquera, intensivista da UCI do Centro Hospitalario Álvaro Cunqueiro de Vigo, e coordinando as probas con Javier Pazó, chegaron a un deseño válido para a fabricación dunha peza que permite a multiplicación e uso simultáneo dos respiradores de UCI por parte de máis dun paciente.

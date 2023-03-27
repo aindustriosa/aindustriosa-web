@@ -3,6 +3,7 @@ title: Hackatón de Domótica e IoT libre
 date: 2021-09-23 18:39:13
 tags: [HACKATON, DOMOTICA, IOT, HOME_ASSISTANT]
 cover: /Hackaton-de-Domotica-e-IoT-libre/imagen.jpeg
+excerpt: Durante o sábado 9 estaremos fedellando con tecnoloxías relacionadas coa domótica
 ---
 
 Continuamos as actividades de octubro cunha hackatón co que faremos o noso local máis intelixente. Durante o sábado 9 estaremos fedellando con tecnoloxías relacionadas coa domótica. O material o poñemos nos, pero podes traer algo e botamos unha man para que o poidas conectar na túa casa. Para asistir, [rexistrádevos no noso Meetup](https://www.meetup.com/es/AIndustriosa/events/280939499/). Aquí vai a información:

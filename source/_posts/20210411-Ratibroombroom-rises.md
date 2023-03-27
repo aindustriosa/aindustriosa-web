@@ -3,12 +3,13 @@ title: Ratibroombroom rises!
 date: 2021-04-11 17:20:50
 tags: ROBOTICA
 cover: /Ratibroombroom-rises/photo.jpg
+excerpt: El equipo de robótica de competición de A Industriosa no ha estado parado desde su última participación en la OSHWDem 2019.
 ---
 
 {% asset_img board.png Placa Ratibroombroom %}
 
 
-El equipo de robótica  de competición de A Industriosa no ha estado parado desde su última participación en la OSHWDem 2019. En aquel año participamos en la competición de velocistas de persecución y micromouse (os dejamos al final los enlaces a los vídeos del evento). Desde entonces, hemos estado trabajando en un micromouse al que llamamos Ratibroombroom. Por ahora tenemos la placa/chasis preparada y el software básico casi terminado. Ratibroombroom está basado en el micromouse de Clara y Peque llamado [Meiga](https://github.com/Bulebots/meiga) a los que no podremos agradecer lo suficiente su inspiración y ayuda.
+El equipo de robótica de competición de A Industriosa no ha estado parado desde su última participación en la OSHWDem 2019. En aquel año participamos en la competición de velocistas de persecución y micromouse (os dejamos al final los enlaces a los vídeos del evento). Desde entonces, hemos estado trabajando en un micromouse al que llamamos Ratibroombroom. Por ahora tenemos la placa/chasis preparada y el software básico casi terminado. Ratibroombroom está basado en el micromouse de Clara y Peque llamado [Meiga](https://github.com/Bulebots/meiga) a los que no podremos agradecer lo suficiente su inspiración y ayuda.
 
 Aquí está la placa del primer prototipo montada:
 

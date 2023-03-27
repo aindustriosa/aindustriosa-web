@@ -3,6 +3,7 @@ title: 'Obradoiro de programación con Micro:bit para nenas e nenos'
 date: 2021-09-23 18:14:21
 tags: [OBRADOIRO, MICRO:BIT]
 cover: /Obradoiro-de-programacion-con-Micro-bit-para-nenas-e-nenos/microbit.jpeg
+excerpt: O obradoiro durará media xornada na que as nenas e nenos achegaranse ó mundo da programación por bloques mediante distintas actividades e xogos.
 ---
 
 Este outubro empezamos forte cun obradoiro o sábado 2 para que nenos e os seus maiores aprendan a programar nunhas placas moi chulas que facilitaremos nos. [Rexistrádevos no noso Meetup](https://www.meetup.com/es/AIndustriosa/events/280918747/). Aquí vai a información:

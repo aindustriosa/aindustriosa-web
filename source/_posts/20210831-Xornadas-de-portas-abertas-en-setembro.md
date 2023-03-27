@@ -3,6 +3,7 @@ title: Xornadas de portas abertas en setembro
 date: 2021-08-31 17:49:45
 tags: [XORNADAS]
 cover: /Xornadas-de-portas-abertas-en-setembro/foto_local.jpeg
+excerpt: Durante setembro imos probar un novo tipo de actividade.
 ---
 
 Novo mes, nova actividade!

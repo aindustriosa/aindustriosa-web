@@ -3,6 +3,7 @@ title: Obradoiro/Hackathon Rural LoRaWAN
 date: 2021-07-20 22:20:00
 tags: [LORAWAN, OBRADOIRO]
 cover: /Obradoiro-rural-lorawan/muino_lorawan.jpg
+excerpt: Por fin estamos de volta para un evento presencial! ao aire libre por suposto.
 ---
 
 Por fin estamos de volta para un evento presencial! ao aire libre por suposto.

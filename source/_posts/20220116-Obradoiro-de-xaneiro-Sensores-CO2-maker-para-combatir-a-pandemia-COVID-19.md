@@ -3,6 +3,7 @@ title: 'Obradoiro de xaneiro: Sensores CO2 maker para combatir a pandemia COVID-
 date: 2022-01-16 14:31:20
 tags: [OBRADOIRO]
 cover: /Obradoiro-de-xaneiro-Sensores-CO2-maker-para-combatir-a-pandemia-COVID-19/cartel.jpg
+excerpt: Neste obradoiro abordaremos o proxecto de deseño e creación de aparatos de fabricación propia para medir a concentración de CO2 e medir o nivel de ventilación dun espacio.
 ---
 
 Achegamos nesta entrada os datos do obradoiro que celebraremos no local o sábado 22 de xaneiro de 10 a 13 horas.
