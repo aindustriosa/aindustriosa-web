@@ -2,7 +2,7 @@
 title: 'Python, kata e almorzo'
 date: 2023-03-26 09:30:00
 tags: [OBRADOIRO]
-cover: /Kata-almorzo-python/Cartel_Python_teaser.jpg
+cover: /Kata-almorzo-python_9/Cartel_Python_teaser.jpg
 ---
 
 Evento informal, aberto a calquera persoa que se anime a participar e compartir unha hora de Python, café e / ou té.
