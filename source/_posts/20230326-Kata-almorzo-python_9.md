@@ -3,7 +3,7 @@ title: 'Python, kata e almorzo'
 date: 2023-03-26 09:30:00
 tags: [OBRADOIRO]
 cover: /Kata-almorzo-python_9/Cartel_Python_teaser.jpg
-excerpt: Novena edición deste evento informal, aberto a calquera persoa que se anime a participar e compartir unha hora de Python, café e / ou té.
+excerpt: Novena edición deste evento informal, guiados por Alex Hermida.
 ---
 
 Evento informal, aberto a calquera persoa que se anime a participar e compartir unha hora de Python, café e / ou té.
