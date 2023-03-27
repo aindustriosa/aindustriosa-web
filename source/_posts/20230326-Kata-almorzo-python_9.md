@@ -6,7 +6,7 @@ cover: /Kata-almorzo-python_9/Cartel_Python_teaser.jpg
 ---
 
 Evento informal, aberto a calquera persoa que se anime a participar e compartir unha hora de Python, café e / ou té.
-
+<!-- block -->
 Inspirados nos katayunos, dojos e actividades similares, reunímonos en grupos de 2/3 persoas para resolver un reto de programación, compartir e mellorar as nosas habilidades de Python.
 
 Durante 90 minutos intentaremos resolver o reto, desenvolvéndoo iterativamente e co obxectivo de aprender novos enfoques do problema. Usaremos recursos como [hackerrank.com](https://www.hackerrank.com/) ou [leetcode.com](https://leetcode.com/).
