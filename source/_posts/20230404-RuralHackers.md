@@ -2,7 +2,7 @@
 title: 'Rural Hackers: revitalizando o rural'
 date: 2023-04-04 09:30:00
 tags: [CHARLA]
-cover: /20230404-RuralHackers/RuralHackers.jpg
+cover: /RuralHackers/RuralHackers.jpg
 excerpt: Rural Hackers é un movemento que nace no rural galego co obxectivo de crear unha comunidade aberta e diversa.
 ---
 
