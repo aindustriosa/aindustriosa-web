@@ -22,4 +22,4 @@ Para participar debes de realizar a túa inscrición gratuita en [meetup](https:
 
 Máis info en [ruralhackers.com](http://ruralhackers.com).
 
-{% asset_img RuralHackers.jpg Cartel charla %}
+{% asset_img RuralHackers_cartel.jpg Cartel charla %}
