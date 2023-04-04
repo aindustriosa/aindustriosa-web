@@ -20,3 +20,4 @@ Por último, contaremos os nosos seguintes pasos para empezar a crear un pequeno
 
 Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/aindustriosa/events/292689426/).
 
+Máis info en [ruralhackers.com](http://ruralhackers.com).
