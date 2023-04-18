@@ -6,7 +6,7 @@ cover: /Impresion3D/Cartel_Impresion3D_teaser.jpg
 excerpt: Obradoiro de iniciación a impresión 3D usando software e hardware libre.
 ---
 
-Será o próximo 24 de abril na Industriosa de 19:30 a 21:00.
+Será o vindeiro 24 de abril na Industriosa de 19:30 a 21:00.
 
 A fabricación aditiva é un conxunto de técnicas de fabricación modernas (década dos 80) que se basan na adición de material para a creación de pezas. Inda que nos seus inicios o seu uso restrinxíase á fabricación de prototipos, algunhas técnicas son capaces de crear productos completamente funcionais.
 
