@@ -2,7 +2,7 @@
 title: 'Kata mensual de Embedded Rust por Eloy Coto'
 date: 2023-05-22 09:30:00
 tags: [OBRADOIRO]
-cover: /Kata-de-Embedded_Rust-por-Eloy-Coto_3/Cartel_Rust_teaser.jpg
+cover: /Kata-de-Embedded_Rust-por-Eloy-Coto_4/Cartel_Rust_teaser.jpg
 excerpt: A kata vai estar liderada por Eloy Coto, principal engineer en Red Hat.
 ---
 
