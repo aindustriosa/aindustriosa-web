@@ -3,7 +3,7 @@ title: 'Tecnoloxía Aplicada á Investigación en Ocupación, Igualdade e Saúde
 date: 2023-06-11 09:30:00
 tags: [CHARLA]
 cover: /tecnoloxia-aplicada/Cartel_Tecno_Aplicada_teaser.jpg
-excerpt: Novena edición deste evento informal, guiados por Alex Hermida.
+excerpt: Thais Pousada, membro do grupo de investigación TALIONIS,  nos falará das súas liñas de investigación coa tecnoloxía e os produtos de apoio, especialmente co deseño de solucións en 3D e aplicacións de realidade virtual.
 ---
 
 Thais Pousada é doutora en ciencias da saúde, terapeuta ocupacional e enfermeira. Profesora do Departamento de Ciencias da Saúde, da Universidade da Coruña (UDC). Membro do grupo de investigación TALIONIS ([talionis.citic.udc.es](https://talionis.citic.udc.es/)) e do Centro de Investigación nas TIC (CITIC). O grupo de investigación TALIONIS realiza unha exploración aplicada no ámbito da ocupación e da saúde co obxectivo de mellorar a calidade de vida das persoas.
