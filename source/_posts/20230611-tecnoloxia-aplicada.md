@@ -10,7 +10,7 @@ Thais Pousada é doutora en ciencias da saúde, terapeuta ocupacional e enfermei
 
 É colaboradora en diferentes entidades sen ánimo de lucro, entre as que destacan a Federación ASEM e a Federación Española de Enfermidades Raras. As súas liñas de investigación están relacionadas coa tecnoloxía e os produtos de apoio, especialmente co deseño de solucións en 3D e aplicacións de realidade virtual.
 
-Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/aindustriosa/events/293869015/).
+Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/294126778/).
 
 
 {% asset_img Cartel_Tecno_Aplicada.jpg Cartel charla %}
