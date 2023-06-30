@@ -14,8 +14,8 @@ Unha charla informal na que coñecer a súa peculiar forma de afrontar os retos 
 
 Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/294357009/).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nkEzTnaT9g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {% asset_img robotica-web.jpeg Cartel charla %}
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nkEzTnaT9g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
