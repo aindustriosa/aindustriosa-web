@@ -12,5 +12,8 @@ Thais Pousada é doutora en ciencias da saúde, terapeuta ocupacional e enfermei
 
 Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/294126778/).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ozy-ptJtpXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br /><br /><br />
 
 {% asset_img Cartel_Tecno_Aplicada.jpg Cartel charla %}
