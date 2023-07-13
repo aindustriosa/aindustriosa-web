@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://aindustriosa.org/"/>
-  <updated>2023-07-13T16:32:49.579Z</updated>
+  <updated>2023-07-13T16:44:33.566Z</updated>
   <id>https://aindustriosa.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://aindustriosa.org/Kata-de-Embedded_Rust-por-Eloy-Coto_5/"/>
     <id>https://aindustriosa.org/Kata-de-Embedded_Rust-por-Eloy-Coto_5/</id>
     <published>2023-07-13T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.579Z</updated>
+    <updated>2023-07-13T16:44:33.566Z</updated>
     
     <content type="html"><![CDATA[<p>O próximo 19 de Xulio, 18:30 en adiante, volvemos as Katas de Rust da Industriosa, esta vez será algo diferente.</p><p>Esta vez revisaremos o código feito por algúns membros das últimas Katas e asi tratar de facer algunha mellora e aprender dunha aplicación real.</p><p>O proxecto é o seguinte: <a href="https://gitlab.com/scrobotics/optical-makerspace/dark-sky-meter-fw" target="_blank" rel="noopener">GitLab</a></p><p>Teremos os contribuidores do proxecto para que nos presenten o proxecto e nos poidan resolver dúbidas.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/294783869/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Kata-de-Embedded_Rust-por-Eloy-Coto_5/Cartel_Rust_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -42,7 +42,7 @@
     <link href="https://aindustriosa.org/camisetas23/"/>
     <id>https://aindustriosa.org/camisetas23/</id>
     <published>2023-07-07T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.579Z</updated>
+    <updated>2023-07-13T16:44:33.566Z</updated>
     
     <content type="html"><![CDATA[<p>Fai tempo, decidimos deseñar e encargar camisetas para os socios de A Industriosa. Non só coma un elemento identificativo da pertenza a un colectivo, senón para levar orgullosos o nome do noso proxecto a diferentes competicións e outros eventos.</p><p>Daquela houbo socios que quedaron sen ela, e por outra banda, a familia medrou coa incorporación de novos socios que tamén desexan ter a súa camiseta. Por iso, decidimos volver facer un novo encargo.</p><p>Coa novidade de que esta vez, aínda que non sexades socios, tamén podedes facervos coas camisetas de A Industriosa. Porque sabemos que moitos de vós, nos levades no corazón, e é un xeito de demostrar, que ó voso xeito, tamén sodes parte deste proxecto colaborativo.</p><p>Se queres reservar a túa camiseta, tes ata o 17 de xullo para cubrir o seguinte formulario, e gardarémosche os talles que precises: <a href="https://forms.gle/C4yQ1CWjTc7Zo6bc6" target="_blank" rel="noopener">https://forms.gle/C4yQ1CWjTc7Zo6bc6</a></p><p>Non é preciso abonar ningún custe ata que veñas recoller o teu pedido. As camisetas non se envían porque é unha boa excusa para que veñas polo local a facernos unha visita.</p><p>Se polo que fose, non puideses achegarte polo local, fáinolo saber contactando con nós en <a href="mailto:info@aindustriosa.org">info@aindustriosa.org</a> e buscaremos o mellor xeito de poder facer que chegue as túas mans.</p><img src="/camisetas23/Cartel_camisetas23_web.jpg" class="" title="Cartel camisetas">]]></content>
     
@@ -63,7 +63,7 @@
     <link href="https://aindustriosa.org/Coding_Dojo_18/"/>
     <id>https://aindustriosa.org/Coding_Dojo_18/</id>
     <published>2023-06-26T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.571Z</updated>
+    <updated>2023-07-13T16:44:33.562Z</updated>
     
     <content type="html"><![CDATA[<p><em>Unha actividade coorganizada con CraftersVigo coa vontade de achegar o movemento “crafter” e o “clean code” á comunidade de desarrolladores de Galicia e a súa área de influencia.</p><p>A través de charlas e o noso coding-dojo queremos descubrir, aprender e dominar as diferentes técnicas, arquitecturas e modelos para ser mellores profesionais máis aló da linguaxe utilizada.</em></p><p><strong>Que imos facer nesta sesión?</strong></p><p>Imos coñecer e practicar TDD coas nosas katas de código aberto. Trátase dun problema sinxelo que nos permite practicar como aplicar, utilizando software libre, TDD cando non tes claro o deseño da solución e como os test che van levando da man ata que o deseño emerxe.</p><p><strong>Que tes que traer</strong></p><p>Para poder practicar é recomendable que traias o teu portátil listo para traballar nun proxecto da túa linguaxe favorita. Preferiblemente preparado para facer tests. Lembrámosche que poñemos ao dispor, no noso github, proxectos listos para utilizar en linguaxes abertas e libres.</p><p>No dojo propoñeremos o exercicio para realizar desde cero ou a partir dun código existente.</p><p>Se non podes traer un computador non te preocupes, porque traballaremos en parellas.</p><p><strong>Queres propoñer algunha actividade ou tema?</strong></p><p>Durante o meetup gustaríanos escoitar as túas suxerencias para novas actividades ou temas.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/craftersvigo/events/294425421/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Coding_Dojo_18/Cartel_craftersVigo18_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -84,7 +84,7 @@
     <link href="https://aindustriosa.org/Repair_Cafe/"/>
     <id>https://aindustriosa.org/Repair_Cafe/</id>
     <published>2023-06-26T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.575Z</updated>
+    <updated>2023-07-13T16:44:33.566Z</updated>
     
     <content type="html"><![CDATA[<p><em>O vindeiro sábado 1 de Xullo de 17:00 a 20:00 organizamos un Repair Café no Café UF.</em></p><p>E que é isto dos Repair Café (<a href="https://www.repaircafe.org/es/acerca-de/" target="_blank" rel="noopener">repaircafe.org</a>)?</p><p>Pois ben, a idea é que traidades ese vello ordenador que xa non usades ou que considerades que xa comeza a ir lento para que vos ensinemos como darlle unha segunda vida.</p><p>E se tes algún outro aparello electrónico que queirades arranxar… dínolo no formulario e veremos que podemos facer :)</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/294439804" target="_blank" rel="noopener">meetup</a>.</p><p>Máis info sobre nós en: <a href="https://www.repaircafe.org/es/cafe/repair-cafe-vigo" target="_blank" rel="noopener">Repair Café Vigo</a></p><p>Organiza: A Industriosa<br>Colaboran: Informática Solidaria, IEEE UVigo e Enxeñería Sen Fronteiras</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Repair_Cafe/Cartel_Repair_Cafe_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -105,7 +105,7 @@
     <link href="https://aindustriosa.org/robotica-oprobots/"/>
     <id>https://aindustriosa.org/robotica-oprobots/</id>
     <published>2023-06-22T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.571Z</updated>
+    <updated>2023-07-13T16:44:33.562Z</updated>
     
     <content type="html"><![CDATA[<p>Este luns as mentes argalleiras de OPRobots virán compartir con nós as súas vivencias, experiencias e aprendizaxes nos últimos tempos coa fabricación de máis dunha treintena de robots de competición.</p><p>Este equipo de robótica Galego amosaranos as melloras que foron facendo e as cousas que teñen pensado para o futuro próximo. </p><p>Unha charla informal na que coñecer a súa peculiar forma de afrontar os retos e imprevistos e de contaxiarnos co seu enxeño e creatividade.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/294357009/" target="_blank" rel="noopener">meetup</a>.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/nkEzTnaT9g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br /><br /><br /><img src="/robotica-oprobots/robotica-web.jpeg" class="" title="Cartel charla">]]></content>
     
@@ -126,7 +126,7 @@
     <link href="https://aindustriosa.org/Coding_Dojo_17/"/>
     <id>https://aindustriosa.org/Coding_Dojo_17/</id>
     <published>2023-06-11T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.571Z</updated>
+    <updated>2023-07-13T16:44:33.558Z</updated>
     
     <content type="html"><![CDATA[<p><em>Unha actividade coorganizada con CraftersVigo coa vontade de achegar o movemento “crafter” e o “clean code” á comunidade de desarrolladores de Galicia e a súa área de influencia.</p><p>A través de charlas e o noso coding-dojo queremos descubrir, aprender e dominar as diferentes técnicas, arquitecturas e modelos para ser mellores profesionais máis aló da linguaxe utilizada.</em></p><p><strong>Que imos facer nesta sesión?</strong></p><p>Este meetup será un pouco diferente. En lugar do noso habitual coding-dojo no que realizamos unha kata expómosvos vir gozar e vivir o noso primeiro open space.</p><p><strong>Cómo funciona?</strong></p><p>Durante os primeiros minutos do open space, calquera dos participantes pode propoñer un tema que, tradicionalmente, escribe nun post-it e pégao nun panel.</p><p>Tras ter todos os temas propostos, todos os participantes votan os temas, habitualmente, pegando un adhesivo en cada un dos post-its que lle interesan.</p><p>Tras a votación, ordénanse os temas de máis votos a menos e chega a quenda de debater. A persoa que propuxo o tema para tratar expono e, salvo que prefira delegar este rol, encárgase de dirixir o debate.</p><p>Unha vez a conversación se de por acabada, sáltase ao seguinte tema a tratar. Habitualmente establécese un límite máximo para charlar e, unha vez esgotado o tempo, se o debate segue aberto exponse aos asistentes se queren seguir ou cambiar ao seguinte tema da lista… e así ata finalizar o meetup.</p><p><strong>Haberá charleta post-evento?</strong></p><p>Por suposto, tras o meetup teremos o noso momento distendido de charla, como debe ser.</p><p>Xa sabedes como nolas gastamos grazas aos nosos colaboradores Boardfy e Borneo a través da súa vertical de negocio Privacy Ops (anteriormente coñecida como Pridatect)</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/craftersvigo/events/294104934/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Coding_Dojo_17/Cartel_craftersVigo17_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -147,7 +147,7 @@
     <link href="https://aindustriosa.org/tecnoloxia-aplicada/"/>
     <id>https://aindustriosa.org/tecnoloxia-aplicada/</id>
     <published>2023-06-11T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.571Z</updated>
+    <updated>2023-07-13T16:44:33.558Z</updated>
     
     <content type="html"><![CDATA[<p>Thais Pousada é doutora en ciencias da saúde, terapeuta ocupacional e enfermeira. Profesora do Departamento de Ciencias da Saúde, da Universidade da Coruña (UDC). Membro do grupo de investigación TALIONIS (<a href="https://talionis.citic.udc.es/" target="_blank" rel="noopener">talionis.citic.udc.es</a>) e do Centro de Investigación nas TIC (CITIC). O grupo de investigación TALIONIS realiza unha exploración aplicada no ámbito da ocupación e da saúde co obxectivo de mellorar a calidade de vida das persoas.</p><p>É colaboradora en diferentes entidades sen ánimo de lucro, entre as que destacan a Federación ASEM e a Federación Española de Enfermidades Raras. As súas liñas de investigación están relacionadas coa tecnoloxía e os produtos de apoio, especialmente co deseño de solucións en 3D e aplicacións de realidade virtual.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/294126778/" target="_blank" rel="noopener">meetup</a>.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/Ozy-ptJtpXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><p><br /><br /><br /></p><img src="/tecnoloxia-aplicada/Cartel_Tecno_Aplicada.jpg" class="" title="Cartel charla">]]></content>
     
@@ -168,7 +168,7 @@
     <link href="https://aindustriosa.org/Kata-almorzo-python_11/"/>
     <id>https://aindustriosa.org/Kata-almorzo-python_11/</id>
     <published>2023-05-29T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.567Z</updated>
+    <updated>2023-07-13T16:44:33.554Z</updated>
     
     <content type="html"><![CDATA[<p>Evento informal, aberto a calquera persoa que se anime a participar e compartir unha hora de Python, café e / ou té.</p><p>Inspirados nos katayunos, dojos e actividades similares, reunímonos en grupos de 2/3 persoas para resolver un reto de programación, compartir e mellorar as nosas habilidades de Python.</p><p>Durante 90 minutos intentaremos resolver o reto, desenvolvéndoo iterativamente e co obxectivo de aprender novos enfoques do problema. Usaremos recursos como <a href="https://www.hackerrank.com/" target="_blank" rel="noopener">hackerrank.com</a> ou <a href="https://leetcode.com/" target="_blank" rel="noopener">leetcode.com</a>.</p><p>Podes revisar edicións anteriores en <a href="https://github.com/aindustriosa/python-kata-e-almorzo" target="_blank" rel="noopener">github</a>.</p><p>Só é necesario que veñas co desexo de compartir e aprender. Non é esencial traer un portátil e tampouco e imprescindible instalar Python xa que traballaremos en recursos online.</p><p>Se tes algunha dúbida, escríbenos!</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/aindustriosa/events/293869015/" target="_blank" rel="noopener">meetup</a>.</p><p>Organizado por A Industriosa e coa colaboración de <a href="https://www.python-vigo.es" target="_blank" rel="noopener">Python Vigo</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Kata-almorzo-python_11/Cartel_Python_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -189,7 +189,7 @@
     <link href="https://aindustriosa.org/Coding_Dojo_16/"/>
     <id>https://aindustriosa.org/Coding_Dojo_16/</id>
     <published>2023-05-25T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.567Z</updated>
+    <updated>2023-07-13T16:44:33.554Z</updated>
     
     <content type="html"><![CDATA[<p><em>Unha actividade coorganizada con CraftersVigo coa vontade de achegar o movemento “crafter” e o “clean code” á comunidade de desarrolladores de Galicia e a súa área de influencia.</p><p>A través de charlas e o noso coding-dojo queremos descubrir, aprender e dominar as diferentes técnicas, arquitecturas e modelos para ser mellores profesionais máis aló da linguaxe utilizada.</em></p><p><strong>Que imos facer nesta sesión?</strong></p><p>Imos coñecer e practicar TDD coas nosas katas de código aberto. Trátase dun problema sinxelo que nos permite practicar como aplicar, utilizando software libre, TDD cando non tes claro o deseño da solución e como os test che van levando da man ata que o deseño emerxe.<br><strong>Que tes que traer</strong></p><p>Para poder practicar é recomendable que traias o teu portátil listo para traballar nun proxecto da túa linguaxe favorita. Preferiblemente preparado para facer tests. Lembrámosche que poñemos ao dispor, no noso github, proxectos listos para utilizar en linguaxes abertas e libres.</p><p>No dojo propoñeremos o exercicio para realizar desde cero ou a partir dun código existente.</p><p>Se non podes traer un computador non te preocupes, porque traballaremos en parellas.</p><p><strong>Queres propoñer algunha actividade ou tema?</strong></p><p>Durante o meetup gustaríanos escoitar as túas suxerencias para novas actividades ou temas.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/craftersvigo/events/293801901/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Coding_Dojo_16/Cartel_craftersVigo16_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -210,7 +210,7 @@
     <link href="https://aindustriosa.org/Kata-de-Embedded_Rust-por-Eloy-Coto_4/"/>
     <id>https://aindustriosa.org/Kata-de-Embedded_Rust-por-Eloy-Coto_4/</id>
     <published>2023-05-22T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.563Z</updated>
+    <updated>2023-07-13T16:44:33.554Z</updated>
     
     <content type="html"><![CDATA[<p>O próximo 27 de Maio volvemos as Katas de Rust da industriosa, será a cuarta, cos seguintes horarios:</p><ul><li>09:30 - 10:00 -&gt; Almorzo nas Ramblas (Pegada ao taller)</li><li>10:00 - 11:00 -&gt; I2C, repaso do anterior taller, e os cambios en emebedded-hal e novos embedded-*</li><li>11:00 - 11:30 -&gt; Strings en Embeddido, cales son as opcións?</li><li>11:30 - 12:00 -&gt; Café</li><li>12:00 - 13:30 -&gt; Iniciación a testing en Rust.</li><li>13:30 - 14:00 -&gt; Repaso e seleción do seguintes temas</li></ul><p>As katas de Rust é un espacio onde varios desenvolvedores traballan xuntos nun problemas especifico sobre Rust. Ao final da kata falamos sobre os problemas, e de que queremos falar na seguinte kata.</p><p>A kata vai estar liderada por Eloy Coto, principal engineer en Red Hat.</p><p>Como a última vez, algúns vamos a quedar a comer (seguramente no Ourensano), ese día a primeira hora faremos a reserva.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/293701569/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Kata-de-Embedded_Rust-por-Eloy-Coto_4/Cartel_Rust_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -231,7 +231,7 @@
     <link href="https://aindustriosa.org/KiCad/"/>
     <id>https://aindustriosa.org/KiCad/</id>
     <published>2023-05-12T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.563Z</updated>
+    <updated>2023-07-13T16:44:33.550Z</updated>
     
     <content type="html"><![CDATA[<p>Neste curso aprenderemos os fundamentos do deseño de circuítos electrónicos e como utilizar KiCad, o popular software de deseño de circuítos electrónicos de código aberto, para crear esquemas e PCBs. Cubriremos temas como a colocación de compoñentes, uso de librerías, o trazado de pistas e a xeración de arquivos Gerber para produción.</p><p>Este curso está deseñado como iniciación no deseño de circuítos electrónicos e non se require experiencia previa en KiCad ou deseño de PCB. </p><p>Ao final do curso, os participantes adquirirían as habilidades necesarias para deseñar esquemas e PCBs utilizando KiCad.</p><p>Para asistir recoméndase que traias o teu portátil, con KiCad 7.0.2 instalado. Pódelo descargar gratis de <a href="https://www.kicad.org" target="_blank" rel="noopener">kicad.org</a>.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/293490731/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/KiCad/Cartel_KiCad_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -252,7 +252,7 @@
     <link href="https://aindustriosa.org/Coding_Dojo_15/"/>
     <id>https://aindustriosa.org/Coding_Dojo_15/</id>
     <published>2023-05-11T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.559Z</updated>
+    <updated>2023-07-13T16:44:33.546Z</updated>
     
     <content type="html"><![CDATA[<p><em>Unha actividade coorganizada con CraftersVigo coa vontade de achegar o movemento “crafter” e o “clean code” á comunidade de desarrolladores de Galicia e a súa área de influencia.</p><p>A través de charlas e o noso coding-dojo queremos descubrir, aprender e dominar as diferentes técnicas, arquitecturas e modelos para ser mellores profesionais máis aló da linguaxe utilizada.</em></p><p><strong>Que imos facer nesta sesión?</strong></p><p>Imos coñecer e practicar TDD coas nosas katas de código aberto. Trátase dun problema sinxelo que nos permite practicar como aplicar, utilizando software libre, TDD cando non tes claro o deseño da solución e como os test che van levando da man ata que o deseño emerxe.</p><p><strong>Que tes que traer</strong></p><p>Para poder practicar é recomendable que traias o teu portátil listo para traballar nun proxecto da túa linguaxe favorita. Preferiblemente preparado para facer tests. Lembrámosche que poñemos ao dispor, no noso github, proxectos listos para utilizar en linguaxes abertas e libres.</p><p>No dojo propoñeremos o exercicio para realizar desde cero ou a partir dun código existente.</p><p>Se non podes traer un computador non te preocupes, porque traballaremos en parellas.</p><p><strong>Queres propoñer algunha actividade ou tema?</strong></p><p>Durante o meetup gustaríanos escoitar as túas suxerencias para novas actividades ou temas.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/craftersvigo/events/293491071/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Coding_Dojo_15/Cartel_craftersVigo15_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -273,7 +273,7 @@
     <link href="https://aindustriosa.org/Kata-almorzo-python_10/"/>
     <id>https://aindustriosa.org/Kata-almorzo-python_10/</id>
     <published>2023-05-02T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.559Z</updated>
+    <updated>2023-07-13T16:44:33.546Z</updated>
     
     <content type="html"><![CDATA[<p>Evento informal, aberto a calquera persoa que se anime a participar e compartir unha hora de Python, café e / ou té.</p><p>Inspirados nos katayunos, dojos e actividades similares, reunímonos en grupos de 2/3 persoas para resolver un reto de programación, compartir e mellorar as nosas habilidades de Python.</p><p>Durante 90 minutos intentaremos resolver o reto, desenvolvéndoo iterativamente e co obxectivo de aprender novos enfoques do problema. Usaremos recursos como <a href="https://www.hackerrank.com/" target="_blank" rel="noopener">hackerrank.com</a> ou <a href="https://leetcode.com/" target="_blank" rel="noopener">leetcode.com</a>.</p><p>Podes revisar edicións anteriores en <a href="https://github.com/aindustriosa/python-kata-e-almorzo" target="_blank" rel="noopener">github</a>.</p><p>Só é necesario que veñas co desexo de compartir e aprender. Non é esencial traer un portátil e tampouco e imprescindible instalar Python xa que traballaremos en recursos online.</p><p>Se tes algunha dúbida, escríbenos!</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/293263665/" target="_blank" rel="noopener">meetup</a>.</p><p>Organizado por A Industriosa e coa colaboración de <a href="https://www.python-vigo.es" target="_blank" rel="noopener">Python Vigo</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Kata-almorzo-python_10/Cartel_Python_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -294,7 +294,7 @@
     <link href="https://aindustriosa.org/Coding_Dojo_14/"/>
     <id>https://aindustriosa.org/Coding_Dojo_14/</id>
     <published>2023-04-29T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.559Z</updated>
+    <updated>2023-07-13T16:44:33.546Z</updated>
     
     <content type="html"><![CDATA[<p><em>Unha actividade coorganizada con CraftersVigo coa vontade de achegar o movemento “crafter” e o “clean code” á comunidade de desarrolladores de Galicia e a súa área de influencia.</p><p>A través de charlas e o noso coding-dojo queremos descubrir, aprender e dominar as diferentes técnicas, arquitecturas e modelos para ser mellores profesionais máis aló da linguaxe utilizada.</em></p><p><strong>Que imos facer nesta sesión?</strong></p><p>Imos coñecer e practicar TDD coas nosas katas de código aberto. Trátase dun problema sinxelo que nos permite practicar como aplicar, utilizando software libre, TDD cando non tes claro o deseño da solución e como os test che van levando da man ata que o deseño emerxe.</p><p><strong>Que tes que traer</strong></p><p>Para poder practicar é recomendable que traias o teu portátil listo para traballar nun proxecto da túa linguaxe favorita. Preferiblemente preparado para facer tests. Lembrámosche que poñemos ao dispor, no noso github, proxectos listos para utilizar en linguaxes abertas e libres.</p><p>No dojo propoñeremos o exercicio para realizar desde cero ou a partir dun código existente.</p><p>Se non podes traer un computador non te preocupes, porque traballaremos en parellas.</p><p><strong>Queres propoñer algunha actividade ou tema?</strong></p><p>Durante o meetup gustaríanos escoitar as túas suxerencias para novas actividades ou temas.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/craftersvigo/events/293192623/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Coding_Dojo_14/Cartel_craftersVigo14_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -315,7 +315,7 @@
     <link href="https://aindustriosa.org/EngineeringManager/"/>
     <id>https://aindustriosa.org/EngineeringManager/</id>
     <published>2023-04-19T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.555Z</updated>
+    <updated>2023-07-13T16:44:33.542Z</updated>
     
     <content type="html"><![CDATA[<p><strong>Miguel García</strong> falaranos sobre o rol dun Engineering Manager nun equipo de enxeñeiros de software, como podes ser un bo manager sen a presión de ser un lider.</p><p><strong>Miguel García</strong> actualmente é VP de Enginería en Nextail, un empresa de software que ofrece unha solución de AI en Cloud para o sector retail.</p><p>Nos últimos anos traballou en empresas como Oracle ou Inditex liderando equipos e deseñado solucións de alto rendemento principalmente para o sector retail.</p><p>Habitualmente comparte os seus opinións e experiencia a través do portal DZone no que foi nomiado como experto en áreas como Big Data e Career Development.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/292975598/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/EngineeringManager/Cartel_EngineeringManager_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -336,7 +336,7 @@
     <link href="https://aindustriosa.org/Impresion3D/"/>
     <id>https://aindustriosa.org/Impresion3D/</id>
     <published>2023-04-18T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.551Z</updated>
+    <updated>2023-07-13T16:44:33.538Z</updated>
     
     <content type="html"><![CDATA[<p>Será o vindeiro 24 de abril na Industriosa de 19:30 a 21:00.</p><p>A fabricación aditiva é un conxunto de técnicas de fabricación modernas (década dos 80) que se basan na adición de material para a creación de pezas. Inda que nos seus inicios o seu uso restrinxíase á fabricación de prototipos, algunhas técnicas son capaces de crear productos completamente funcionais.</p><p>Na actulidade a liberación das patentes e creación de máquinas máis sinxelas fai que sexan accesibles para uso doméstico e para pequeñas empresas. Neste obradoiro coñecerás as diferentes técnicas de impresión 3D e fabricación por diferentes métodos.</p><p>Centrarémonos nas técnicas FDM (coñecidas como impresión 3D) vendo o funcionamento das mesmas, e cales serían os primeiros pasos e erros habituais para poder evitalos. Tamen daremos nocións básicas de FreeCAD, un dos programas libres máis empregados para o deseño 3D de prototipos.</p><p>Requirimentos: non fai falla nada, pero se queres podes traer o ordenador con Prusa-Slicer e FreeCAD instalados, xa que serán explicados durante o obradoiro.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/292976563/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Impresion3D/Cartel_Impresion3D_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -357,7 +357,7 @@
     <link href="https://aindustriosa.org/Kata-de-Embedded_Rust-por-Eloy-Coto_3/"/>
     <id>https://aindustriosa.org/Kata-de-Embedded_Rust-por-Eloy-Coto_3/</id>
     <published>2023-04-05T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.551Z</updated>
+    <updated>2023-07-13T16:44:33.538Z</updated>
     
     <content type="html"><![CDATA[<p>O próximo 15 de Abril volvemos as Katas de Rust da industriosa, será a terceira, cos seguintes horarios:</p><ul><li>9:30 - 10:00 -&gt; Almorzo nas Ramblas (Pegada ao taller)</li><li>10:00 - 11:00 -&gt; Pair-programming de prototipo dende a última kata.</li><li>11:00 - 12:00 -&gt; Explicación I2C e embedded-hal traits</li><li>12:00 - 13:30 -&gt; Probas de I2C</li><li>13:30 - 14:00 -&gt; Recapitulación e votación da presentación do seguinte tema.</li></ul><p>As katas de Rust é un espacio onde varios desenvolvedores traballan xuntos nun problemas especifico sobre Rust. Ao final da kata falamos sobre os problemas, e de que queremos falar na seguinte kata.</p><p>A kata vai estar liderada por Eloy Coto, principal engineer en Red Hat.</p><p>Como novidade, algúns vamos a quedar a comer (seguramente no Ourensano), ese día a primeira hora faremos a reserva.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/292700602/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Kata-de-Embedded_Rust-por-Eloy-Coto_3/Cartel_Rust_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -378,7 +378,7 @@
     <link href="https://aindustriosa.org/RuralHackers/"/>
     <id>https://aindustriosa.org/RuralHackers/</id>
     <published>2023-04-04T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.551Z</updated>
+    <updated>2023-07-13T16:44:33.538Z</updated>
     
     <content type="html"><![CDATA[<p>Rural Hackers é un movemento que nace no rural galego co obxectivo de crear unha comunidade aberta e diversa onde as persoas poidan aprender e desenvolver as súas habilidades en diversas disciplinas, como tecnoloxía, arte ou creatividade.</p><p>A plataforma busca inspirar ás persoas a crear novos proxectos que axuden a revitalizar o rural a través de ferramentas como a tecnoloxía e a convivencia nun espazo de vivenda colaborativa (Anceu coliving na aldea de Anceu en Ponte Caldelas, Pontevedra).</p><p>Durante a charla, falaremos sobre as residencias de Rural Hackers, onde traemos a persoas de todo o mundo para desenvolver proxectos que teñan un impacto positivo no noso entorno.</p><p>Tamén compartiremos a experiencia do noso proxecto Pegadas do Recordo, no que traballamos con 24 persoas de 11 nacionalidades diferentes para recuperar o patrimonio invisible e material da aldea a través de material audiovisual e tecnoloxía NFC en colaboración coa veciñanza do pobo.</p><p>Presentaremos asimesmo os resultados do noso proxecto Europeo, Curiositech, onde xunto con 25 persoas de 5 países diferentes, desenvolvemos 4 sitios web para ONGs locais a través da iniciativa Do_Action da Fundación WordPress.</p><p>Por último, contaremos os nosos seguintes pasos para empezar a crear un pequeno espazo maker na Casa do Pobo de Anceu en colaboración con The Making Room en Blackburn (Inglaterra).</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/aindustriosa/events/292689426/" target="_blank" rel="noopener">meetup</a>.</p><p>Máis info en <a href="http://ruralhackers.com" target="_blank" rel="noopener">ruralhackers.com</a>.</p><img src="/RuralHackers/RuralHackers_cartel.jpg" class="" title="Cartel charla">]]></content>
     
@@ -399,7 +399,7 @@
     <link href="https://aindustriosa.org/Kata-almorzo-python_9/"/>
     <id>https://aindustriosa.org/Kata-almorzo-python_9/</id>
     <published>2023-03-26T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.547Z</updated>
+    <updated>2023-07-13T16:44:33.534Z</updated>
     
     <content type="html"><![CDATA[<p>Evento informal, aberto a calquera persoa que se anime a participar e compartir unha hora de Python, café e / ou té.</p><p>Inspirados nos katayunos, dojos e actividades similares, reunímonos en grupos de 2/3 persoas para resolver un reto de programación, compartir e mellorar as nosas habilidades de Python.</p><p>Durante 90 minutos intentaremos resolver o reto, desenvolvéndoo iterativamente e co obxectivo de aprender novos enfoques do problema. Usaremos recursos como <a href="https://www.hackerrank.com/" target="_blank" rel="noopener">hackerrank.com</a> ou <a href="https://leetcode.com/" target="_blank" rel="noopener">leetcode.com</a>.</p><p>Podes revisar edicións anteriores en <a href="https://github.com/aindustriosa/python-kata-e-almorzo" target="_blank" rel="noopener">github</a>.</p><p>Só é necesario que veñas co desexo de compartir e aprender. Non é esencial traer un portátil e tampouco e imprescindible instalar Python xa que traballaremos en recursos online.</p><p>Se tes algunha dúbida, escríbenos!</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/292477574/" target="_blank" rel="noopener">meetup</a>.</p><p>Organizado por A Industriosa e coa colaboración de <a href="https://www.python-vigo.es" target="_blank" rel="noopener">Python Vigo</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Kata-almorzo-python_9/Cartel_Python_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -420,7 +420,7 @@
     <link href="https://aindustriosa.org/Kata-de-Embedded_Rust-por-Eloy-Coto_2/"/>
     <id>https://aindustriosa.org/Kata-de-Embedded_Rust-por-Eloy-Coto_2/</id>
     <published>2023-03-08T09:30:00.000Z</published>
-    <updated>2023-07-13T16:32:49.543Z</updated>
+    <updated>2023-07-13T16:44:33.530Z</updated>
     
     <content type="html"><![CDATA[<p>O próximo 18 de Marzo volvemos as Katas de Rust da industriosa, será a segunda, cos seguintes horarios:</p><ul><li>9:30 - 10:00 -&gt; Almorzo nas Ramblas(Pegada ao taller)</li><li>10:00 - 12:00 -&gt; Pair-programming de prototipo dende a última kata.</li><li>12:00 - 13:30 -&gt; Presentación dos problemas encontrados na última kata.<ul><li>Problemas de targets (Esp e STM32)</li><li>Problemas co embedded-hal</li><li>Configuración editor.</li></ul></li><li>13:30 - 14:00 -&gt; Recapitulación e votación da presentación do seguinte tema.<br /></li></ul><p>As katas de Rust é un espacio onde varios desenvolvedores traballan xuntos nun problemas especifico sobre Rust, e falamos dunha introducción ao final da kata de como mellorar os nosos proxectos. As katas estan lideradas por Eloy Coto, software engineer en Red Hat.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/292116591/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Kata-de-Embedded_Rust-por-Eloy-Coto_2/Cartel_Rust_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
