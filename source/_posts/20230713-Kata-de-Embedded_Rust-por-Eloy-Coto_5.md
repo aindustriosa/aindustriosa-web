@@ -14,7 +14,7 @@ O proxecto é o seguinte: [GitLab](https://gitlab.com/scrobotics/optical-makersp
 
 Teremos os contribuidores do proxecto para que nos presenten o proxecto e nos poidan resolver dúbidas.
 
-Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/293701569/).
+Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/294783869/).
 
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
