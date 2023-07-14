@@ -2,7 +2,7 @@
 title: 'Kata mensual de Embedded Rust por Eloy Coto'
 date: 2023-07-13 09:30:00
 tags: [OBRADOIRO]
-cover: /Kata-de-Embedded_Rust-por-Eloy-Coto_4/Cartel_Rust_teaser.jpg
+cover: /Kata-de-Embedded_Rust-por-Eloy-Coto_5/Cartel_Rust_teaser.jpg
 excerpt: O próximo 19 de Xullo volvemos as Katas de Rust da Industriosa, esta vez será algo diferente.
 ---
 
