@@ -33,8 +33,7 @@ A partida orzamentaria repartirase entre os proxectos seleccionados por orde dec
 
 Os equipos serán os encargados de facilitar á directiva o listado dos materiais, coas características, requisitos, empresa distribuidora ou aquilo que facilite a identificación correcta do que se precisa, para que esta faga a adquisición en nome da Asociación. 
 
-[2ª Convocatoria de Proxectos A
-Industriosa](https://aindustriosa.org/Convocatoria_proxectos/Bases-2_Convocatoria_Proxectos_A_Industriosa.pdf)
+[2ª Convocatoria de Proxectos A Industriosa](https://aindustriosa.org/Convocatoria_proxectos/Bases-2_Convocatoria_Proxectos_A_Industriosa.pdf)
 
 [Folla de Solicitude](https://aindustriosa.org/Convocatoria_proxectos/Folla_solicitude-2Convocatoria_Proxectos_A_Industriosa.odt)
 
