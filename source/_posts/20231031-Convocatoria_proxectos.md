@@ -2,7 +2,7 @@
 title: '2ª Convocatoria de Proxectos A Industriosa.'
 date: 2023-10-31 09:30:00
 tags: [PROXECTO]
-cover: /Convocatoria_proxectos/Cartel_Convocatoria_proxectos_teaser.jpg
+cover: /Convocatoria_proxectos/Cartel_convo_teaser.jpg
 excerpt: Sabes que os driver da nova GPU rpi5 son feitos en Galicia? Pois na inauguración do novo local Alejandro de Igalia vén contarnos cómo se fan!
 ---
 
@@ -41,4 +41,4 @@ Industriosa](https://aindustriosa.org/Convocatoria_proxectos/Bases-2_Convocatori
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
 
-{% asset_img Cartel_Convocatoria_proxectos.jpg Cartel 2-convocatoria %}
+{% asset_img Cartel_convo.jpg Cartel 2-convocatoria %}
