@@ -37,7 +37,7 @@ Descarga as Bases da [2ª Convocatoria de Proxectos A Industriosa](https://aindu
 
 Descarga a [Folla de Solicitude](https://aindustriosa.org/Convocatoria_proxectos/Folla_solicitude-2Convocatoria_Proxectos_A_Industriosa.odt)
 
-Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
+Esta actividade está parcialmente subvencionada pola Axencia para a Modernización Tecnolóxica de Galicia (AMTEGA), ao abeiro do programa de subvencións publicada no DOG Núm. 157 o luns 21 de agosto de 2023.
 
 
 {% asset_img Cartel_convo.jpg Cartel 2-convocatoria %}
