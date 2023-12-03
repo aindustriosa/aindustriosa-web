@@ -27,7 +27,7 @@ O proceso de selección comezará mediante a celebración no local da Asociació
 
 A data para a celebración do acto de presentación será o día 2 de decembro de 2023.
 
-A partir da celebración do acto de presentación, abrirase un período de votación online de 2 semanas que rematará o 16 de decembro de 2023, no que poderá participar as socias e socios que así o desexen.
+A partir da celebración do acto de presentación, abrirase un período de votación online de 2 semanas que rematará o 15 de decembro de 2023, no que poderá participar as socias e socios que así o desexen.
 
 A partida orzamentaria repartirase entre os proxectos seleccionados por orde decrecente da puntuación acada na votación, e tendo en conta o orzamento adxunto a cada proxecto ata esgotar o total da contía.
 
