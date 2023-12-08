@@ -6,6 +6,9 @@
         <% case 'events': %>
             <%- partial('_partial/page-events', {post: page, index: false}) %>
             <% break %>
+    	<% case 'fabcademy': %>
+            <%- partial('_partial/page-fabacademy', {post: page, index: false}) %>
+            <% break %>
         <% default: %>
             <%- partial('_partial/article', {post: page, index: false}) %>
         <% break %>

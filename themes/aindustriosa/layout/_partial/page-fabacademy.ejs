@@ -1,0 +1,13 @@
+<div class="container-fluid-1440">
+    <div id="<%= post.layout %>-<%= post.slug %>" class="post post-type-<%= post.layout %>" itemscope
+             itemprop="blogPost">
+        <header>
+            <h1 class="page-title">
+                <%- post.title %>
+            </h1>
+        </header>
+        <div class="post-content" itemprop="articleBody">
+            <%- post.content %>
+        </div>
+    </div>
+</div>
