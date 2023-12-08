@@ -27,6 +27,17 @@ Os estudantes ven e participan en conferencias globais transmitidas todos os mé
 
 O corpo docente do Fab Academy, que son líderes nos seus respectivos campos, ofrece conferencias globais en vídeo, supervisa o contido académico e guía a investigación. A instrución práctica nos laboratorios é proporcionada por instrutores que supervisan e avalían os Certificados, desenvolven e difunden material instructivo e axudan cos proxectos.
 
+<b>Program details</b>
+
+• Classes start on Mid-January
+• Duration: 5 months of class + 1 of Evaluations
+• Global Classes: Wednesdays 9:00 to 12:00 EST (ranging from 6:00 on the West Coast to 23:00 in Japan)
+• Final project: Delivered on June
+• Dedication: 20-30 hours a week (depending on prior tech background)
+• Language: The course is taught in English
+
+For more information, check out the <a href="https://fabacademy.org/about/program.html" target="_blank">class curriculum</a>, <a href="" target="_blank_">the archives</a> and <a href="https://fabacademy.org/about/classes.html" target="_blank">the class schedule</a>.
+
 <center>
 <img src="https://aindustriosa.org/FabACademy2024/A-Industriosa-FabAcademy.jpg" />
 </center>
