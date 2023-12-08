@@ -19,6 +19,14 @@ O Fab Academy ofrece unha formación de altísimo nivel que só se pode obter en
 
 Para matricularse no Fab Academy, é necesario contactar coa Industriosa enviando un correo electrónico á dirección [directiva@aindustriosa.org](mailto:directiva@aindustriosa.org). Para máis informarción do que é esta formación de alta calidade internacional, e os coñecementos que se poden recibir, pódese facer na súa propia web [Fabacademy.org](https://fabacademy.org)
 
+<b>Como funciona?</b>
+
+Cada Fab Lab que participa no programa Fab Academy (ver lista aquí) é parte dunha rede global de Fab Labs/Fab Academy. Estes Fab Labs son Nodos que ofrecen o programa Fab Academy.
+
+Os estudantes ven e participan en conferencias globais transmitidas todos os mércores de 9:00 am a 12:00 pm, hora do Leste. As conferencias grávanse e están dispoñibles para os estudantes durante todo o semestre. Ademais das conferencias, hai 2/3 días de laboratorio cada semana, onde os estudantes teñen acceso ao equipo de fabricación dixital e axuda personalizada cos proxectos. Cada Fab Lab establecerá o horario para estes días de laboratorio.
+
+O corpo docente do Fab Academy, que son líderes nos seus respectivos campos, ofrece conferencias globais en vídeo, supervisa o contido académico e guía a investigación. A instrución práctica nos laboratorios é proporcionada por instrutores que supervisan e avalían os Certificados, desenvolven e difunden material instructivo e axudan cos proxectos.
+
 <center>
 <img src="https://aindustriosa.org/FabACademy2024/A-Industriosa-FabAcademy.jpg" />
 </center>
