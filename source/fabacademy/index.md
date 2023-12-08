@@ -2,7 +2,7 @@
 title: Fab Academy 2024
 innerLayout: fabacademy
 ---
-<span style="font-size:24px;font-weight: 600;">How to Make (Almost) Anything</span>
+<span style="font-size:20px;font-weight: 600;">How to Make (Almost) Anything</span>
 
 O laboratorio tecnolóxico cidadán vigués será un dos centros formativos desta prestixiosa formación internacional de Fabricación Dixital coordinada polo director do Centro de Bits e Átomos do Instituto Tecnolóxico de Massachusetts.
 
