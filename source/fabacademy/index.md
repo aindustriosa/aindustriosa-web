@@ -1,5 +1,5 @@
 ---
-title: Fab Academy
+title: Fab Academy 2024
 innerLayout: fabacademy
 ---
 <span style="font-size:24px;font-weight: 600;">How to Make (Almost) Anything</span>
