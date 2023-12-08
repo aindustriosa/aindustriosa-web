@@ -3,7 +3,7 @@
         <h5>Patrocinadores</h5>
         <div class="grid-row">
             <% for (var collab in site.data.collaborators) { %>
-                <div class="col-xs-8 col-sm-4">
+                <div class="col-xs-6 col-sm-3">
                     <%- partial('_partial/collaborator', {collab: site.data.collaborators[collab]}) %>
                 </div>
             <% } %>
