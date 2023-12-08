@@ -17,5 +17,5 @@ O Fab Academy ofrece unha formación de altísimo nivel que só se pode obter en
 Para matricularse no Fab Academy, é necesario contactar coa Industriosa enviando un correo electrónico á dirección [directiva@aindustriosa.org](mailto:directiva@aindustriosa.org). Para máis informarción do que é esta formación de alta calidade internacional, e os coñecementos que se poden recibir, pódese facer na súa propia web [Fabacademy.org](https://fabacademy.org)
 
 <center>
-{% asset_img /fabacademy/A-Industriosa-FabAcademy.jpg Cartel FabAcademy 2024 %}
+<img src="https://aindustriosa.org/FabACademy2024/A-Industriosa-FabAcademy.jpg" />
 </center>
