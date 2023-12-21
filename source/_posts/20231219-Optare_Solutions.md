@@ -19,4 +19,4 @@ Gracias Optare por axudar!
 
 
 
-{% asset_img Cartel_convo.jpg Cartel 2-convocatoria %}
+{% asset_img cartel_Optare_Solutions.jpg Optare Solutions %}
