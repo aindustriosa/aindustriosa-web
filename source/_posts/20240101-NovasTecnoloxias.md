@@ -1,5 +1,5 @@
 ---
-title: 'Menores e NNTT - Benvidos ao deserto do real'
+title: 'Menores e Novas Tecnoloxías (NNTT) - Benvidos ao deserto do real'
 date: 2024-01-01 09:30:00
 tags: [CHARLA]
 cover: /NovasTecnoloxias/Cartel_NovasTecnoloxias_teaser.jpg
