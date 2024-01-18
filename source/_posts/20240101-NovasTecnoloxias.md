@@ -18,9 +18,5 @@ Ao longo da súa extensa carreira no ámbito do cibercrimen, Gonzalo colaborou c
 
 Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/298258392/).
 
-Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
-
-
-
 
 {% asset_img Cartel_NovasTecnoloxias.jpg Menores e NNTT - Benvidos ao deserto do real %}
