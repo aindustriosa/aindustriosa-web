@@ -25,7 +25,7 @@ A Industriosa proporcionará o material para realizar o obradoiro.
 
 A actividade será os vindeiros luns, do 19 de febreiro ao 15 de abril, de 17:00 a 18:30 no local da Industriosa. A Industriosa non se responsabilizará da participación ou  traslado dos menores na 7ª edición da Competición de Robots da EEI (Escola Enxeñería Industrial) da Universidade de Vigo, que se realizará o 19 de abril no CUVI.
 
-O custo da participación no taller é gratuíta (prazas limitadas) e para formalizala debe de facerse por email no enderezo [directiva@aindustriosa.org](mailto:directiva@aindustriosa.org) achegando cuberta a autorización de menores ([.PDF](https://aindustriosa.org/RoboticaXuvenil/Autorizacion_Menores.pdf))
+O custo da participación no taller é gratuíta (prazas limitadas) e para formalizala debe de facerse por email no enderezo [directiva@aindustriosa.org](mailto:directiva@aindustriosa.org) achegando cuberta a autorización de menores ([Autorizacion_Menores.pdf](https://aindustriosa.org/RoboticaXuvenil/Autorizacion_Menores.pdf))
 
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
