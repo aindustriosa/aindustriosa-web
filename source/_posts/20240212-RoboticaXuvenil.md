@@ -3,10 +3,10 @@ title: 'Obradoiro de Robótica Xuvenil'
 date: 2024-02-12 09:30:00
 tags: [OBRADOIRO]
 cover: /RoboticaXuvenil/Cartel_Robotica_Xuvenil_teaser.jpg
-excerpt: O equipo de robots segueliñas de A Industriosa está a organizar uns talleres nos que se traballará no desenvolvemento dun firmware em Rust para a competición na categoría de velocistas da [OSHWDem](http://oshwdem.org).
+excerpt: O Obradoiro de Robótica é unha actividade destinada a alumnado de ESO/Bacharelato, entre 12 e 16 anos cuxo propósito é utilizar esta solución tecnolóxica para familiarizarlle coa programación, o pensamento computacional e a robótica educativa.
 ---
 
-O Obradoiro de Robótica é unha actividade destinada a alumnado de ESO/Bacharelato,  entre 12 e 18 anos cuxo propósito é utilizar esta solución tecnolóxica para familiarizarlle coa programación, o pensamento computacional e a robótica educativa. mBot-2 é un robot baseado en tecnoloxía ESP-32 que se pode programar con mBlock-5, software derivado de Scratch e que permite empregar programación visual con bloques ou textual con Python. Contén motores, LEDs RGB, pantalla a cor (con joystick e botóns), sensor de luz, altofalante, micrófono, xiróscopo/acelerómetro, sensor de distancia e sensor segue-liñas e capacidades de comunicación via WiFi/Bluetooth.
+O Obradoiro de Robótica é unha actividade destinada a alumnado de ESO/Bacharelato, entre 12 e 16 anos cuxo propósito é utilizar esta solución tecnolóxica para familiarizarlle coa programación, o pensamento computacional e a robótica educativa. mBot-2 é un robot baseado en tecnoloxía ESP-32 que se pode programar con mBlock-5, software derivado de Scratch e que permite empregar programación visual con bloques ou textual con Python. Contén motores, LEDs RGB, pantalla a cor (con joystick e botóns), sensor de luz, altofalante, micrófono, xiróscopo/acelerómetro, sensor de distancia e sensor segue-liñas e capacidades de comunicación via WiFi/Bluetooth.
 
 O obxectivo do taller é formar aos participantes, en robótica, programación e actividades de competición tecnolóxica utilizando ferramentas libres.
 
@@ -25,7 +25,7 @@ A Industriosa proporcionará o material para realizar o obradoiro.
 
 A actividade será os vindeiros luns, do 12 de febreiro ao 15 de abril, de 17:00 a 18:30 no local da Industriosa. A Industriosa non se responsabilizará da participación ou  traslado dos menores na 7ª edición da Competición de Robots da EEI (Escola Enxeñería Industrial) da Universidade de Vigo, que se realizará o 19 de abril no CUVI.
 
-O custo da participación no taller é gratuíta e para formalizala debe de facerse por email no enderezo [directiva@aindustriosa.org](mailto:directiva@aindustriosa.org) achegando cuberta a autorización de menores ([].PDF](https://aindustriosa.org/RoboticaXuvenil/Autorizacion_Menores.pdf))
+O custo da participación no taller é gratuíta (prazas limitadas) e para formalizala debe de facerse por email no enderezo [directiva@aindustriosa.org](mailto:directiva@aindustriosa.org) achegando cuberta a autorización de menores ([].PDF](https://aindustriosa.org/RoboticaXuvenil/Autorizacion_Menores.pdf))
 
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
