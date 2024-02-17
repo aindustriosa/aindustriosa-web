@@ -30,4 +30,4 @@ O custo da participación no taller é gratuíta (prazas limitadas) e para forma
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
 
-{% asset_img Cartel_Robotica_Xuvenil.jpg Cartel Robótica %}
+<center>{% asset_img Cartel_Robotica_Xuvenil.jpg Cartel Robótica %}</center>
