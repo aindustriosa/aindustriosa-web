@@ -1,6 +1,6 @@
 ---
 title: Desvelando os secretos da rede de Kubernetes
-date: 2024-02-23 18:30:00
+date: 2024-02-23 09:35:00
 tags: [CHARLA]
 cover: Kubernetes-Antonio-Ojea-Google/Cartel_Kubernetes_teaser.jpg
 excerpt: Unha charla de Antonio Ojea de Google onde explicará como funciona a rede de Kubernetes.
