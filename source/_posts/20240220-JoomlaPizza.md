@@ -1,6 +1,6 @@
 ---
 title: 'Joomla! Pizza, Bugs & Fun 2024'
-date: 2024-02-13 09:30:00
+date: 2024-02-20 09:30:00
 tags: [CHARLA]
 cover: /JoomlaPizza/Cartel_JoomlaPizza_teaser.jpg
 excerpt: Unímonos á iniciativa que se celebra en varios países á vez para contribuír ao proxecto Joomla.
