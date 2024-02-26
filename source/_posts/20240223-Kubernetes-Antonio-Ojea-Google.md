@@ -22,6 +22,8 @@ Antonio Ojea leva carios anos traballando no stack de networking de Linux. Agora
 
 Non perdas esta oportunidade de subir de nivel os teus coñecementos sobre Kubernetes.
 
+Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/299375511/).
+
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
 {% asset_img Cartel_Kubernetes.jpg  Desvelando os secretos da rede de Kubernetes %}
