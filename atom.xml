@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://aindustriosa.org/"/>
-  <updated>2024-02-27T16:38:43.130Z</updated>
+  <updated>2024-02-27T16:46:37.006Z</updated>
   <id>https://aindustriosa.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://aindustriosa.org/Kubernetes-Antonio-Ojea-Google/"/>
     <id>https://aindustriosa.org/Kubernetes-Antonio-Ojea-Google/</id>
     <published>2024-02-23T15:35:00.000Z</published>
-    <updated>2024-02-27T16:38:43.130Z</updated>
+    <updated>2024-02-27T16:46:37.006Z</updated>
     
     <content type="html"><![CDATA[<p>Algunha vez te sentiches perdido no labirinto das redes de Kubernetes? Pods, services, ingress… paquetes de datos voando por todas partes!</p><p>Este meetup vai desenredar os misterios e aventurarte máis aló da interfaz CNI de Kubernetes.</p><p>Únete a <a href="https://www.linkedin.com/in/ajojea/" target="_blank" rel="noopener">Antonio Ojea</a>, un enxeñeiro de software de Google e un dos principais contribuidores de Kubernetes, nunha explicación do funcionamento oculto da rede de kubernetes.</p><p>Neste charla abordarase:</p><p>• O funcionamento do kube-apiserver<br>• A exploración de kubelet, e como xestiona as conexións en cada pod.<br>• Ir un pouco mai alá do básico, e descubre aspectos menos coñecidos de Kubernetes.</p><p>Antonio Ojea leva carios anos traballando no stack de networking de Linux. Agora mesmo traballa como enxeñeiro de software en Google, e antes pasou por empresas tan importantes como Midokura, Suse ou Red Hat.</p><p>Non perdas esta oportunidade de subir de nivel os teus coñecementos sobre Kubernetes.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/299375511/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Kubernetes-Antonio-Ojea-Google/Cartel_Kubernetes.jpg" class="" title="Desvelando os secretos da rede de Kubernetes">]]></content>
     
@@ -42,7 +42,7 @@
     <link href="https://aindustriosa.org/Solana/"/>
     <id>https://aindustriosa.org/Solana/</id>
     <published>2024-02-23T12:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.134Z</updated>
+    <updated>2024-02-27T16:46:37.006Z</updated>
     
     <content type="html"><![CDATA[<p>Estás interesado en coñecer <a href="https://solana.com/" target="_blank" rel="noopener">Solana</a>, a plataforma blockchain de alto rendemento que pode revolucionar a industria 4.0?</p><p>Tanto se es un principiante como se ten coñecementos básicos, este é un evento para ti!</p><p>Únete a Jose Corral nunha charla onde se abordará que é Solana, e que onde se explicarán os conceptos principais da tecnoloxía.</p><p>Neste meetup vanse explicar:</p><p>• Unha explicación das funcionalidades principais e do potencial de Solana.</p><p>• As características clave que diferencian a Solana doutras plataformas blockchain.</p><p>• Coñecer os distintos casos de uso de Solana en diferentes industrias.</p><p><a href="https://www.linkedin.com/in/jose-corral-102b8b33/" target="_blank" rel="noopener">Jose Corral</a> é un desenvolvedor de software no neobanco Qonto, previamente foi CTO de Bysidecar, e Kerad Games. Con ampla experiencia en applicacións feitas con tecnoloxía Solana.</p><p>A duración da charla será aproximadamente dunha hora. As prazas son limitadas, así que inscríbete agora!</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/299375480/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Solana/Cartel_Solana.jpg" class="" title="Solana: unha guía para principiantes">]]></content>
     
@@ -63,7 +63,7 @@
     <link href="https://aindustriosa.org/Coding_Dojo_35/"/>
     <id>https://aindustriosa.org/Coding_Dojo_35/</id>
     <published>2024-02-21T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.126Z</updated>
+    <updated>2024-02-27T16:46:37.002Z</updated>
     
     <content type="html"><![CDATA[<p><em>Unha actividade coorganizada con CraftersVigo coa vontade de achegar o movemento “crafter” e o “clean code” á comunidade de desarrolladores de Galicia e a súa área de influencia.</p><p>A través de charlas e o noso coding-dojo queremos descubrir, aprender e dominar as diferentes técnicas, arquitecturas e modelos para ser mellores profesionais máis aló da linguaxe utilizada.</em></p><p><strong>Que imos facer nesta sesión?</strong></p><p>Imos coñecer e practicar TDD coas nosas katas de código aberto. Trátase dun problema sinxelo que nos permite practicar como aplicar, utilizando software libre, TDD cando non tes claro o deseño da solución e como os test che van levando da man ata que o deseño emerxe.</p><p><strong>Que tes que traer</strong></p><p>Para poder practicar é recomendable que traias o teu portátil listo para traballar nun proxecto da túa linguaxe favorita. Preferiblemente preparado para facer tests. Lembrámosche que poñemos ao dispor, no noso github, proxectos listos para utilizar en linguaxes abertas e libres.</p><p>No dojo propoñeremos o exercicio para realizar desde cero ou a partir dun código existente.</p><p>Se non podes traer un computador non te preocupes, porque traballaremos en parellas.</p><p><strong>Queres propoñer algunha actividade ou tema?</strong></p><p>Durante o meetup gustaríanos escoitar as túas suxerencias para novas actividades ou temas.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/craftersvigo/events/298657721/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Coding_Dojo_35/Cartel_craftersVigo35.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -84,7 +84,7 @@
     <link href="https://aindustriosa.org/JoomlaPizza/"/>
     <id>https://aindustriosa.org/JoomlaPizza/</id>
     <published>2024-02-20T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.126Z</updated>
+    <updated>2024-02-27T16:46:36.998Z</updated>
     
     <content type="html"><![CDATA[<p>Unímonos á iniciativa que se celebra en varios países á vez para contribuír ao proxecto Joomla.</p><p>Imos probar melloras para incorporalas ao núcleo na seguinte versión.</p><p>Tamén a traducir documentación.</p><p>Unha terceira opción é colaborar en traducir Joomla ao galego.</p><p>Á hora para comer, pizza por cabeza.</p><p>Auga, refrescos e cervexas asegurados.</p><p>Todo gratis, claro.</p><p>Estaremos no local a partir das 9 da mañá, ata despois de comer.</p><p>Actividade organizada por A Industriosa e o Grupo de Usuarios de Joomla de Vigo coa colaboración de <a href="https://www.lucushost.com" target="_blank" rel="noopener">LucusHost</a></p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/JoomlaPizza/Cartel_JoomlaPizza.jpg" class="" title="Joomla! Pizza, Bugs &amp; Fun 2024">]]></content>
     
@@ -105,7 +105,7 @@
     <link href="https://aindustriosa.org/PythonV2/"/>
     <id>https://aindustriosa.org/PythonV2/</id>
     <published>2024-02-13T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.122Z</updated>
+    <updated>2024-02-27T16:46:36.998Z</updated>
     
     <content type="html"><![CDATA[<p>O vindeiro xoves 15 de Febreiro, en colaboración co grupo de usuarios de Python Vigo, nesta ocasión temos charla/workshop e actualización sobre os avances da PyConES.</p><p><strong>Un ELT con stack python para resultados electorais por Fran Puga [20:00]</strong></p><p>Nesta charla / workshop empezaremos vendo o problema do código a medida para construír unha ferramenta de importación/trasformación de datos (ELT), para logo introducir ferramentas como Dagster e DBT. Como tema de exemplo usaremos os datos oficiais de resultados electorais de España.</p><p><strong>PyConES 2024 - actualización [21:00]</strong></p><p>Comentaremos todo o referente aos pasos iniciais da organización da PyConES 2024, falaremos dos grupos de traballo e os seguintes pasos.</p><p><strong>Lightning Talks [21:15]</strong></p><p>Quen o desexe ten a oportunidade de contarnos algo en 5 minutos cronometrados</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><p>Máis información en <a href="https://www.python-vigo.es" target="_blank" rel="noopener">python-vigo</a>.</p><img src="/PythonV2/Cartel_PythonV2.jpg" class="" title="Forget your passwords... A new beginning">]]></content>
     
@@ -126,7 +126,7 @@
     <link href="https://aindustriosa.org/RoboticaXuvenil/"/>
     <id>https://aindustriosa.org/RoboticaXuvenil/</id>
     <published>2024-02-12T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.122Z</updated>
+    <updated>2024-02-27T16:46:36.998Z</updated>
     
     <content type="html"><![CDATA[<p>O Obradoiro de Robótica é unha actividade destinada a alumnado de ESO/Bacharelato, entre 12 e 16 anos cuxo propósito é utilizar esta solución tecnolóxica para familiarizarlle coa programación, o pensamento computacional e a robótica educativa. mBot-2 é un robot baseado en tecnoloxía ESP-32 que se pode programar con mBlock-5, software derivado de Scratch e que permite empregar programación visual con bloques ou textual con Python. Contén motores, LEDs RGB, pantalla a cor (con joystick e botóns), sensor de luz, altofalante, micrófono, xiróscopo/acelerómetro, sensor de distancia e sensor segue-liñas e capacidades de comunicación via WiFi/Bluetooth.</p><p>O obxectivo do taller é formar aos participantes, en robótica, programación e actividades de competición tecnolóxica utilizando ferramentas libres.</p><p>O obxectivo do taller é preparar un equipo para participar na 7ª edición da Competición de Robots da EEI (<a href="http://eei.robots.webs.uvigo.es/" target="_blank" rel="noopener">eei.robots.webs.uvigo.es/</a>) que se celebrará o 19 de abril na Escola de Enxeñería Industrial da Universidade de Vigo. Esta participación estará condicionada á inscrición dun mínimo de 4 participantes no taller.<br>Traballaranse os seguintes apartados:</p><p>• Sesión 1: toma de contacto, montaxe e test do robot e análise das regras para coñecer a fondo as probas para realizar (buscando a súa optimización “ao límite”)<br>• Sesión 2: funcionamento do hardware (robot “mBot2”, escollido pola organización)<br>• Sesións 3-7: programación, tanto do hardware como da lóxica das probas (bloques/python)<br>• Sesións 3-7: desenvolvemento incremental, cun proceso de mellora continua<br>• Sesións 8-9: simulacións e ensaios</p><p>Propoñeránselles desafíos opcionais para que poidan traballar entre sesións nas súas propias casas. </p><p>A Industriosa proporcionará o material para realizar o obradoiro. </p><p>A actividade será os vindeiros luns, do 19 de febreiro ao 15 de abril, de 17:00 a 18:30 no local da Industriosa. A Industriosa non se responsabilizará da participación ou  traslado dos menores na 7ª edición da Competición de Robots da EEI (Escola Enxeñería Industrial) da Universidade de Vigo, que se realizará o 19 de abril no CUVI.</p><p>O custo da participación no taller é gratuíta (prazas limitadas) e para formalizala debe de facerse por email no enderezo (<strong>COMPLETO</strong>) achegando cuberta a autorización de menores (<a href="https://aindustriosa.org/RoboticaXuvenil/Autorizacion_Menores.pdf">Autorizacion_Menores.pdf</a>)</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><center><img src="/RoboticaXuvenil/Cartel_Robotica_Xuvenil.jpg" class="" title="Cartel Robótica"></center>]]></content>
     
@@ -147,7 +147,7 @@
     <link href="https://aindustriosa.org/RustBugA1/"/>
     <id>https://aindustriosa.org/RustBugA1/</id>
     <published>2024-02-07T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.122Z</updated>
+    <updated>2024-02-27T16:46:36.994Z</updated>
     
     <content type="html"><![CDATA[<p>O equipo de robots segueliñas de A Industriosa está a organizar uns obradoiros nos que se traballará no desenvolvemento dun firmware para competición na categoría de velocistas da <a href="http://oshwdem.org" target="_blank" rel="noopener">OSHWDem</a> totalmente escrito na linguaxe Rust.</p><p>O próximo sábado 17 de febreiro terá lugar una sesión inicial na que se dará unha breve introdución á normativa da competición, ó deseño dun robot segueliñas e tamén ó hardware que se empregará nos obradoiros.</p><p>Tanto o deseño da placa que se empregará como un proxecto básico do firmware se poden atopar no Github de A Industriosa:<br>  <a href="https://github.com/aindustriosa/RustyBugA-board" target="_blank" rel="noopener">https://github.com/aindustriosa/RustyBugA-board</a><br>  <a href="https://github.com/aindustriosa/RustyBugA" target="_blank" rel="noopener">https://github.com/aindustriosa/RustyBugA</a></p><p>A sesión inicial terá lugar vindeiro sábado 17 de febreiro entre as 11:00 e as 13:00 no local da asociación na rúa Gregorio Espino, 38, entreplanta 3, 36205 Vigo, Pontevedra</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/299082708/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/RustBugA1/Cartel_RustyBugA_1_web.jpg" class="" title="Cartel RustyBugA">]]></content>
     
@@ -168,7 +168,7 @@
     <link href="https://aindustriosa.org/Coding_Dojo_34/"/>
     <id>https://aindustriosa.org/Coding_Dojo_34/</id>
     <published>2024-01-20T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.118Z</updated>
+    <updated>2024-02-27T16:46:36.994Z</updated>
     
     <content type="html"><![CDATA[<p><em>Unha actividade coorganizada con CraftersVigo coa vontade de achegar o movemento “crafter” e o “clean code” á comunidade de desarrolladores de Galicia e a súa área de influencia.</p><p>A través de charlas e o noso coding-dojo queremos descubrir, aprender e dominar as diferentes técnicas, arquitecturas e modelos para ser mellores profesionais máis aló da linguaxe utilizada.</em></p><p><strong>Que imos facer nesta sesión?</strong></p><p>Imos coñecer e practicar TDD coas nosas katas de código aberto. Trátase dun problema sinxelo que nos permite practicar como aplicar, utilizando software libre, TDD cando non tes claro o deseño da solución e como os test che van levando da man ata que o deseño emerxe.</p><p><strong>Que tes que traer</strong></p><p>Para poder practicar é recomendable que traias o teu portátil listo para traballar nun proxecto da túa linguaxe favorita. Preferiblemente preparado para facer tests. Lembrámosche que poñemos ao dispor, no noso github, proxectos listos para utilizar en linguaxes abertas e libres.</p><p>No dojo propoñeremos o exercicio para realizar desde cero ou a partir dun código existente.</p><p>Se non podes traer un computador non te preocupes, porque traballaremos en parellas.</p><p><strong>Queres propoñer algunha actividade ou tema?</strong></p><p>Durante o meetup gustaríanos escoitar as túas suxerencias para novas actividades ou temas.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/craftersvigo/events/298657721/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Coding_Dojo_34/Cartel_craftersVigo34.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -189,7 +189,7 @@
     <link href="https://aindustriosa.org/PythonV1/"/>
     <id>https://aindustriosa.org/PythonV1/</id>
     <published>2024-01-10T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.118Z</updated>
+    <updated>2024-02-27T16:46:36.990Z</updated>
     
     <content type="html"><![CDATA[<p>O vindeiro xoves 18 de Xaneiro, en colaboración co grupo de usuarios de Python Vigo, nesta ocasión temos charla/workshop e actualización sobre os avances da PyConES.</p><p><strong>Forget your passwords… A new beginning Diego Rodriguez [20:00]</strong></p><p>Nesta charla / workshop imos mostrar como evitar o uso do contrasinal nos fluxos de autenticación. Partiremos dunha base de código compartida, e mediante o protocolo FIDO2 veremos como se pode usar hardware (Passkeys) e elementos de plataforma para fluxos de autenticación sen o uso de contrasinais, e, ademais, de forma moito máis segura. Veremos tamén a evolución da seguridade e que vantaxes ten sobre os principais ataques que hoxe en día sufrimos cos métodos de autenticación convencionais.</p><p>Prerequisitos: chave USB de seguridade (opcional), sistemas biométricos tipo pegada ou face-ids (opcional). Google Chrome instalado no navegador se non se dispón dos anteriores (requirido). Recoméndase traer un portátil.</p><p><strong>PyConES 2024 - actualización [21:00]</strong></p><p>Comentaremos todo o referente aos pasos iniciais da organización da PyConES 2024, falaremos dos grupos de traballo e os seguintes pasos.</p><p><strong>Lightning Talks [21:15]</strong></p><p>Quen o desexe ten a oportunidade de contarnos algo en 5 minutos cronometrados</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><p>Máis información en <a href="https://www.python-vigo.es" target="_blank" rel="noopener">python-vigo</a>.</p><img src="/PythonV1/Cartel_PythonV1.jpg" class="" title="Forget your passwords... A new beginning">]]></content>
     
@@ -210,7 +210,7 @@
     <link href="https://aindustriosa.org/NovasTecnoloxias/"/>
     <id>https://aindustriosa.org/NovasTecnoloxias/</id>
     <published>2024-01-01T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.114Z</updated>
+    <updated>2024-02-27T16:46:36.990Z</updated>
     
     <content type="html"><![CDATA[<p>O vindeiro sábado 20 de Xaneiro, contaremos coa participación de Gonzalo Sotelo, un profesional con décadas de experiencia en cibercrimen e que é especialista en casos relacionados con nenos e adolescentes.</p><p>A charla, deseñada para profesores e pais, abordará os delitos máis comúns na actualidade. Trataremos sobre os usos e costumes dos rapaces coas NNTT, a percepción que teñen sobre a súa “identidade dixital”, os riscos de determinados comportamentos usuais no seu día a día, responsabilidades dos pais e tocaremos tamén unha ferramenta nova da AEPD que é a Canle Prioritaria. Proporcionaranse pautas para identificar se un neno está a ser vítima destes delitos e explicarase como actuar en caso de atoparse en tal situación.</p><p>Gonzalo Sotelo é un experto cunha destacada traxectoria no ámbito da seguridade e a investigación tecnolóxica. A súa formación inclúe diplomados en Policía Xudicial polo Ministerio do Interior e a Escola de Estudos Xudiciais da Universidade Complutense de Madrid. Ademais, completou diversos cursos especializados en investigación tecnolóxica a nivel nacional e internacional. </p><p>Ao longo da súa extensa carreira no ámbito do cibercrimen, Gonzalo colaborou con varias universidades galegas como profesor asociado. Na actualidade mantén unha estreita colaboración coa Academia Galega de Seguridade.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/298258392/" target="_blank" rel="noopener">meetup</a>.</p><img src="/NovasTecnoloxias/Cartel_NovasTecnoloxias.jpg" class="" title="Menores e NNTT - Benvidos ao deserto do real">]]></content>
     
@@ -231,7 +231,7 @@
     <link href="https://aindustriosa.org/Optare_Solutions/"/>
     <id>https://aindustriosa.org/Optare_Solutions/</id>
     <published>2023-12-20T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.110Z</updated>
+    <updated>2024-02-27T16:46:36.986Z</updated>
     
     <content type="html"><![CDATA[<p>Dende a asociacón estamos encantados de anunciar unha nova colaboración cunha empresa de contorna, Optare solutions. Optare é unha empresa de Vigo, que leva mais de vinte anos desenvolvende software de primeira calidade.</p><p><a href="http://optaresolutions.com" target="_blank" rel="noopener">Optare Solutions</a> é unha empresa especializada na prestación de servizos de consultoría e enxeñería para operadores de telecomunicacións. Con máis de 20 anos de experiencia no mercado nacional e internacional e un equipo de 140 profesionais distribuídos en máis de 5 países, Optare é un referente na implantación de procesos do sistema en áreas como FTTH e 5G.</p><p>Colaborando durante moitos anos con diferentes meetups, e eventos da contorna, Optare apoiou o cambio de local, e decidiu axudarnos con mobiliario que xa non utilizaban, facendo que o novo local teña mesas, e cadeiras de primer nivel.</p><p>Nos próximos meses a xente de Optare tamén colaborara con eventos didácticos de primer nivel dentro da Industriosa.</p><p>Gracias Optare por axudar!</p><img src="/Optare_Solutions/cartel_Optare_Solutions.jpg" class="" title="Optare Solutions">]]></content>
     
@@ -252,7 +252,7 @@
     <link href="https://aindustriosa.org/Convocatoria_proxectos/"/>
     <id>https://aindustriosa.org/Convocatoria_proxectos/</id>
     <published>2023-10-31T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.110Z</updated>
+    <updated>2024-02-27T16:46:36.986Z</updated>
     
     <content type="html"><![CDATA[<p>En sintonía cos obxectivos principais da “Asociación tecnolóxica A Industriosa”: impulsar proxectos innovadores cunha forte compoñente tecnolóxica; fomentar o crecemento dunha comunidade activa e vibrante de persoas motivadas e altamente cualificadas; axudar ó desenvolvemento de proxectos relacionados coa tecnoloxía; e favorecer a oportunidade de crear, compartir e medrar aos membros da Comunidade, ábrese a <b>2ª Convocatoria de Proxectos de A Industriosa</b>.</p><p>Ademais de fomentar a creatividade e a colaboración entre entusiastas das novas tecnoloxías ou xente que lle gusta realizar proxectos polo simple feito de aprender algo novo, preténdese incentivar e destinar fondos propios ó  desenvolvemento de ideas ou proxectos do interese da Comunidade que conforma A Industriosa.</p><p>Para iso, a Asociación destinará unha partida económica cunha contía de 1.200 € para a adquisición de materiais ou dispositivos, necesarios para desenvolver os proxectos seleccionados.</p><p>Os proxectos deberán ser de índole tecnolóxica e han de ser Open Source e Open Hardware.</p><p>Os equipos deberán estar formados por un mínimo de 3 persoas, onde pode haber 1 non socio ou 2 non socios se son menores de idade.</p><p>Un mesmo socio pode presentar varios proxectos e/ou ser parte de todos os equipos que desexe.</p><p>A contía económica máxima que A Industriosa aportará a cada equipo será de 300 €, pero o proxecto pode ter un orzamento superior se conta cun plan realista para acadar o resto do montante necesario para a súa execución (patrocinador, aportación individual, etc.)</p><p>O prazo de presentación de proxectos finalizará o 30 de novembro de 2023.</p><p>O proceso de selección comezará mediante a celebración no local da Asociación dun acto de presentación dos proxectos participantes no que cada un dos interesados disporá de 10 minutos para expoñer e defender a súa idea. Para facilitar a comprensión do proxecto, os equipos deberán axudarse de diapositivas, imaxes, vídeos, ou calquera elemento que consideren. </p><p>A data para a celebración do acto de presentación será o día 2 de decembro de 2023.</p><p>A partir da celebración do acto de presentación, abrirase un período de votación online de 2 semanas que rematará o 15 de decembro de 2023, no que poderá participar as socias e socios que así o desexen.</p><p>A partida orzamentaria repartirase entre os proxectos seleccionados por orde decrecente da puntuación acada na votación, e tendo en conta o orzamento adxunto a cada proxecto ata esgotar o total da contía.</p><p>Os equipos serán os encargados de facilitar á directiva o listado dos materiais, coas características, requisitos, empresa distribuidora ou aquilo que facilite a identificación correcta do que se precisa, para que esta faga a adquisición en nome da Asociación. </p><p>Descarga as Bases da <a href="https://aindustriosa.org/Convocatoria_proxectos/Bases-2_Convocatoria_Proxectos_A_Industriosa.pdf">2ª Convocatoria de Proxectos A Industriosa</a></p><p>Descarga a <a href="https://aindustriosa.org/Convocatoria_proxectos/Folla_solicitude-2Convocatoria_Proxectos_A_Industriosa.odt">Folla de Solicitude</a></p><p>Esta actividade está parcialmente subvencionada pola Axencia para a Modernización Tecnolóxica de Galicia (AMTEGA), ao abeiro do programa de subvencións publicada no DOG Núm. 157 o luns 21 de agosto de 2023.</p><img src="/Convocatoria_proxectos/Cartel_convo.jpg" class="" title="Cartel 2-convocatoria">]]></content>
     
@@ -273,7 +273,7 @@
     <link href="https://aindustriosa.org/Mesa/"/>
     <id>https://aindustriosa.org/Mesa/</id>
     <published>2023-10-20T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.106Z</updated>
+    <updated>2024-02-27T16:46:36.982Z</updated>
     
     <content type="html"><![CDATA[<p>Temos moitas ganas de que coñezades o novo local da Industriosa (Avda. Gregorio Espino 38, entresollado 3), e para iso, que mellor maneira cunha charla a cargo dunha das empresas mais importantes a nivel mundial de desenvolvemento de software libre, a empresa galega Igalia.</p><p>Nesta charla impartida por Alejandro Piñeiro de Igalia, darase unha introdución a Mesa, librería open-source para o desenvolvemento de drivers gráficos. Explicarase a súa historia, os seus compoñentes máis importantes, que utilidades proporcionan aos desenvolvedores e unha lista de hardware ás que dan soporte. Finalmente explicarase o caso concreto do soporte proporcionado para as GPUs dos dispositivos da serie Raspberry Pi, centrándonos nas Raspberry Pi 4 e Raspberry Pi 5</p><p>Igalia é unha empresa galega, con sede na Coruña, especializada en servizos de consultoría, e que desenvolve solucións innovadoras de código aberto para un gran conxunto de plataformas de software e hardware. En Igalia traballan nas áreas máis interesantes do software de código aberto, incluídos navegadores, gráficos e multimedia.</p><p>Igalia desenvolveu os controladores OpenGL ES 3.1 e Vulkan 1.2 conformes para a GPU VideoCore VII Broadcom que se fornece coa nova Raspberry Pi 5.</p><p>Alejandro Piñeiro é enxeñeiro de Software e socio en Igalia, é desenvolvedor de Software Libre desde 2004. A súa experiencia inclúe unha variedade de proxectos de GNOME e freedesktop.org, enfocándose desde 2015 en Mesa, especificamente os drivers Intel e Broadcom. É un dos responsables do desenvolvemento do controlador Broadcom Vulkan para Raspberry Pi 4 &amp; 5.</p><p>E ademais, aproveitando a inauguración do novo local falarémosvos das novidades na nosa asociación, a 2ª Convocatoria de Proxectos A Industriosa, para  fomentar a creatividade e a colaboración entre entusiastas das novas tecnoloxías usando software e hardware opensource durante ao ano 2024.</p><p>Ademais A Industriosa será nodo de Fab Academy 2024, un programa de formación en Fabricación Dixital impartido por Neil Gershenfeld, director do MIT’s Center For Bits and Atoms, que por primeira vez poderase realizar en Vigo. Tedes toda a información en <a href="https://fabacademy.org" target="_blank" rel="noopener">fabacademy</a>.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/296854461/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Mesa/Cartel_Mesa.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -294,7 +294,7 @@
     <link href="https://aindustriosa.org/FabACademy2024/"/>
     <id>https://aindustriosa.org/FabACademy2024/</id>
     <published>2023-10-15T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.102Z</updated>
+    <updated>2024-02-27T16:46:36.978Z</updated>
     
     <content type="html"><![CDATA[<p>O laboratorio tecnolóxico cidadán vigués será un dos centros formativos desta prestixiosa formación internacional de Fabricación Dixital coordinada polo director do Centro de Bits e Átomos do Instituto Tecnolóxico de Massachusetts.</p><p>O Fab Academy está dirixido por Neil Gershenfeld, o director do Centro de Bits e Átomos do MIT (o Instituto Tecnolóxico de Massachussets) e principal impulsor desta forma de “facer ‘case’ calquera cousa” aproveitando a potencia da computación e as máquinas controladas por computador, como poden ser as impresoras 3D, as fresadoras CNC (de Control Numérico Computerizado), as cortadoras láser e as de vinilo.</p><p>Á que se suman nocións de electrónica e de aprendizaxe dos controladores robóticos tipo Arduino ou Raspberry Pi coas que controlar as súas creacións para destinalas a labores determinados que liquiden calquera problema, ou quizais para unha instalación artística ou controlar a distancia certo tipo de instalacións dentro do que se chama da internet das Cousas.</p><p>Con este tipo de máquinas os alumnos do Fab Academy poden prototipar “practicamente calquera invento” e chegar a construír as súas propias máquinas ou dispositivos, xa que o principal motivo do curso é que aprendan a levar a cabo un proxecto e documentar o proceso de realización do mesmo. Conséguese o diploma final do curso, duns seis meses de duración, se se termina o traballo que o alumno presentou.</p><p>A formación é perfecta para enxeñeiros de todo tipo, deseñadores de produto e arquitectos, aínda que calquera afeccionado a estas tecnoloxías emerxentes pode matricularse, e realízase en inglés, e é necesario certos coñecementos de electrónica e, sobre todo, estar presente nas clases presenciais por videoconferencias dos mércores, que consisten en presentacións do que leva feito durante o curso; aínda que tamén se pode cursar en remoto.</p><p>O Fab Academy ofrece unha formación de altísimo nivel que só se pode obter en España en Barcelona, León, Vigo ou Cartaxena nun sector cunha fortísimas posibilidades emerxentes, xa que é o núcleo do que vén a chamar Industria 4.0. O alumno comprenderá os fundamentos da fabricación dixital, a que se realiza convertendo os bits en átomos, é dicir: a que converte os deseños parametrizados de computador en realidade. Unha forma de fabricar as cousas que será unha das máis valoradas no futuro.</p><p>Para matricularse no Fab Academy, é necesario contactar coa Industriosa enviando un correo electrónico á dirección <a href="mailto:directiva@aindustriosa.org">directiva@aindustriosa.org</a>. Para máis informarción do que é esta formación de alta calidade internacional, e os coñecementos que se poden recibir, pódese facer na súa propia web <a href="https://fabacademy.org" target="_blank" rel="noopener">Fabacademy.org</a></p><center><img src="/FabACademy2024/A-Industriosa-FabAcademy.jpg" class="" title="Cartel FabAcademy 2024"></center>]]></content>
     
@@ -315,7 +315,7 @@
     <link href="https://aindustriosa.org/Kata-de-Embedded_Rust-por-Eloy-Coto_5/"/>
     <id>https://aindustriosa.org/Kata-de-Embedded_Rust-por-Eloy-Coto_5/</id>
     <published>2023-07-13T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.102Z</updated>
+    <updated>2024-02-27T16:46:36.978Z</updated>
     
     <content type="html"><![CDATA[<p>O próximo 19 de Xulio, 18:30 en adiante, volvemos as Katas de Rust da Industriosa, esta vez será algo diferente.</p><p>Esta vez revisaremos o código feito por algúns membros das últimas Katas e asi tratar de facer algunha mellora e aprender dunha aplicación real.</p><p>O proxecto é o seguinte: <a href="https://gitlab.com/scrobotics/optical-makerspace/dark-sky-meter-fw" target="_blank" rel="noopener">GitLab</a></p><p>Teremos os contribuidores do proxecto para que nos presenten o proxecto e nos poidan resolver dúbidas.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/294783869/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Kata-de-Embedded_Rust-por-Eloy-Coto_5/Cartel_Rust_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -336,7 +336,7 @@
     <link href="https://aindustriosa.org/camisetas23/"/>
     <id>https://aindustriosa.org/camisetas23/</id>
     <published>2023-07-07T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.102Z</updated>
+    <updated>2024-02-27T16:46:36.978Z</updated>
     
     <content type="html"><![CDATA[<p>Fai tempo, decidimos deseñar e encargar camisetas para os socios de A Industriosa. Non só coma un elemento identificativo da pertenza a un colectivo, senón para levar orgullosos o nome do noso proxecto a diferentes competicións e outros eventos.</p><p>Daquela houbo socios que quedaron sen ela, e por outra banda, a familia medrou coa incorporación de novos socios que tamén desexan ter a súa camiseta. Por iso, decidimos volver facer un novo encargo.</p><p>Coa novidade de que esta vez, aínda que non sexades socios, tamén podedes facervos coas camisetas de A Industriosa. Porque sabemos que moitos de vós, nos levades no corazón, e é un xeito de demostrar, que ó voso xeito, tamén sodes parte deste proxecto colaborativo.</p><p>Se queres reservar a túa camiseta, tes ata o 17 de xullo para cubrir o seguinte formulario, e gardarémosche os talles que precises: <a href="https://forms.gle/C4yQ1CWjTc7Zo6bc6" target="_blank" rel="noopener">https://forms.gle/C4yQ1CWjTc7Zo6bc6</a></p><p>Non é preciso abonar ningún custe ata que veñas recoller o teu pedido. As camisetas non se envían porque é unha boa excusa para que veñas polo local a facernos unha visita.</p><p>Se polo que fose, non puideses achegarte polo local, fáinolo saber contactando con nós en <a href="mailto:info@aindustriosa.org">info@aindustriosa.org</a> e buscaremos o mellor xeito de poder facer que chegue as túas mans.</p><img src="/camisetas23/Cartel_camisetas23_web.jpg" class="" title="Cartel camisetas">]]></content>
     
@@ -353,32 +353,11 @@
   </entry>
   
   <entry>
-    <title>Repair Café</title>
-    <link href="https://aindustriosa.org/Repair_Cafe/"/>
-    <id>https://aindustriosa.org/Repair_Cafe/</id>
-    <published>2023-06-26T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.098Z</updated>
-    
-    <content type="html"><![CDATA[<p><em>O vindeiro sábado 1 de Xullo de 17:00 a 20:00 organizamos un Repair Café no Café UF.</em></p><p>E que é isto dos Repair Café (<a href="https://www.repaircafe.org/es/acerca-de/" target="_blank" rel="noopener">repaircafe.org</a>)?</p><p>Pois ben, a idea é que traidades ese vello ordenador que xa non usades ou que considerades que xa comeza a ir lento para que vos ensinemos como darlle unha segunda vida.</p><p>E se tes algún outro aparello electrónico que queirades arranxar… dínolo no formulario e veremos que podemos facer :)</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/294439804" target="_blank" rel="noopener">meetup</a>.</p><p>Máis info sobre nós en: <a href="https://www.repaircafe.org/es/cafe/repair-cafe-vigo" target="_blank" rel="noopener">Repair Café Vigo</a></p><p>Organiza: A Industriosa<br>Colaboran: Informática Solidaria, IEEE UVigo e Enxeñería Sen Fronteiras</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Repair_Cafe/Cartel_Repair_Cafe_web.jpg" class="" title="Cartel obradoiro">]]></content>
-    
-    <summary type="html">
-    
-      O vindeiro sábado 1 de Xullo de 17:00 a 20:00 organizamos un Repair Café no Café UF.
-    
-    </summary>
-    
-    
-    
-      <category term="OBRADOIRO" scheme="https://aindustriosa.org/tags/OBRADOIRO/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Coding Dojo</title>
     <link href="https://aindustriosa.org/Coding_Dojo_18/"/>
     <id>https://aindustriosa.org/Coding_Dojo_18/</id>
     <published>2023-06-26T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.098Z</updated>
+    <updated>2024-02-27T16:46:36.974Z</updated>
     
     <content type="html"><![CDATA[<p><em>Unha actividade coorganizada con CraftersVigo coa vontade de achegar o movemento “crafter” e o “clean code” á comunidade de desarrolladores de Galicia e a súa área de influencia.</p><p>A través de charlas e o noso coding-dojo queremos descubrir, aprender e dominar as diferentes técnicas, arquitecturas e modelos para ser mellores profesionais máis aló da linguaxe utilizada.</em></p><p><strong>Que imos facer nesta sesión?</strong></p><p>Imos coñecer e practicar TDD coas nosas katas de código aberto. Trátase dun problema sinxelo que nos permite practicar como aplicar, utilizando software libre, TDD cando non tes claro o deseño da solución e como os test che van levando da man ata que o deseño emerxe.</p><p><strong>Que tes que traer</strong></p><p>Para poder practicar é recomendable que traias o teu portátil listo para traballar nun proxecto da túa linguaxe favorita. Preferiblemente preparado para facer tests. Lembrámosche que poñemos ao dispor, no noso github, proxectos listos para utilizar en linguaxes abertas e libres.</p><p>No dojo propoñeremos o exercicio para realizar desde cero ou a partir dun código existente.</p><p>Se non podes traer un computador non te preocupes, porque traballaremos en parellas.</p><p><strong>Queres propoñer algunha actividade ou tema?</strong></p><p>Durante o meetup gustaríanos escoitar as túas suxerencias para novas actividades ou temas.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/craftersvigo/events/294425421/" target="_blank" rel="noopener">meetup</a>.</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Coding_Dojo_18/Cartel_craftersVigo18_web.jpg" class="" title="Cartel obradoiro">]]></content>
     
@@ -395,11 +374,32 @@
   </entry>
   
   <entry>
+    <title>Repair Café</title>
+    <link href="https://aindustriosa.org/Repair_Cafe/"/>
+    <id>https://aindustriosa.org/Repair_Cafe/</id>
+    <published>2023-06-26T09:30:00.000Z</published>
+    <updated>2024-02-27T16:46:36.974Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>O vindeiro sábado 1 de Xullo de 17:00 a 20:00 organizamos un Repair Café no Café UF.</em></p><p>E que é isto dos Repair Café (<a href="https://www.repaircafe.org/es/acerca-de/" target="_blank" rel="noopener">repaircafe.org</a>)?</p><p>Pois ben, a idea é que traidades ese vello ordenador que xa non usades ou que considerades que xa comeza a ir lento para que vos ensinemos como darlle unha segunda vida.</p><p>E se tes algún outro aparello electrónico que queirades arranxar… dínolo no formulario e veremos que podemos facer :)</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/294439804" target="_blank" rel="noopener">meetup</a>.</p><p>Máis info sobre nós en: <a href="https://www.repaircafe.org/es/cafe/repair-cafe-vigo" target="_blank" rel="noopener">Repair Café Vigo</a></p><p>Organiza: A Industriosa<br>Colaboran: Informática Solidaria, IEEE UVigo e Enxeñería Sen Fronteiras</p><p>Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).</p><img src="/Repair_Cafe/Cartel_Repair_Cafe_web.jpg" class="" title="Cartel obradoiro">]]></content>
+    
+    <summary type="html">
+    
+      O vindeiro sábado 1 de Xullo de 17:00 a 20:00 organizamos un Repair Café no Café UF.
+    
+    </summary>
+    
+    
+    
+      <category term="OBRADOIRO" scheme="https://aindustriosa.org/tags/OBRADOIRO/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Robótica de competición: OPRobots, moita, moita proba e erro.</title>
     <link href="https://aindustriosa.org/robotica-oprobots/"/>
     <id>https://aindustriosa.org/robotica-oprobots/</id>
     <published>2023-06-22T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.098Z</updated>
+    <updated>2024-02-27T16:46:36.974Z</updated>
     
     <content type="html"><![CDATA[<p>Este luns as mentes argalleiras de OPRobots virán compartir con nós as súas vivencias, experiencias e aprendizaxes nos últimos tempos coa fabricación de máis dunha treintena de robots de competición.</p><p>Este equipo de robótica Galego amosaranos as melloras que foron facendo e as cousas que teñen pensado para o futuro próximo. </p><p>Unha charla informal na que coñecer a súa peculiar forma de afrontar os retos e imprevistos e de contaxiarnos co seu enxeño e creatividade.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/294357009/" target="_blank" rel="noopener">meetup</a>.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/nkEzTnaT9g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br /><br /><br /><img src="/robotica-oprobots/robotica-web.jpeg" class="" title="Cartel charla">]]></content>
     
@@ -420,7 +420,7 @@
     <link href="https://aindustriosa.org/tecnoloxia-aplicada/"/>
     <id>https://aindustriosa.org/tecnoloxia-aplicada/</id>
     <published>2023-06-11T09:30:00.000Z</published>
-    <updated>2024-02-27T16:38:43.094Z</updated>
+    <updated>2024-02-27T16:46:36.970Z</updated>
     
     <content type="html"><![CDATA[<p>Thais Pousada é doutora en ciencias da saúde, terapeuta ocupacional e enfermeira. Profesora do Departamento de Ciencias da Saúde, da Universidade da Coruña (UDC). Membro do grupo de investigación TALIONIS (<a href="https://talionis.citic.udc.es/" target="_blank" rel="noopener">talionis.citic.udc.es</a>) e do Centro de Investigación nas TIC (CITIC). O grupo de investigación TALIONIS realiza unha exploración aplicada no ámbito da ocupación e da saúde co obxectivo de mellorar a calidade de vida das persoas.</p><p>É colaboradora en diferentes entidades sen ánimo de lucro, entre as que destacan a Federación ASEM e a Federación Española de Enfermidades Raras. As súas liñas de investigación están relacionadas coa tecnoloxía e os produtos de apoio, especialmente co deseño de solucións en 3D e aplicacións de realidade virtual.</p><p>Para participar debes de realizar a túa inscrición gratuita en <a href="https://www.meetup.com/es-ES/aindustriosa/events/294126778/" target="_blank" rel="noopener">meetup</a>.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/Ozy-ptJtpXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><p><br /><br /><br /></p><img src="/tecnoloxia-aplicada/Cartel_Tecno_Aplicada.jpg" class="" title="Cartel charla">]]></content>
     
