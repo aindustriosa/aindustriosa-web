@@ -1,6 +1,7 @@
 ---
 title: Fab Academy 2024
 innerLayout: fabacademy
+hide_date: true
 ---
 <span style="font-size:20px;font-weight: 600;">How to Make (Almost) Anything</span>
 
