@@ -2,7 +2,7 @@
 title: 'Software libre para radioaficionados'
 date: 2024-04-21 09:30:00
 tags: [OBRADOIRO]
-cover: /radioaficionados/Cartel_radioaficionados_teaser.jpg
+cover: /radioaficionados/Cartel_radioaficionados.jpg
 excerpt: Neste obradoiro veremos diferentes softwares libres empregados polos radioafeccionados para facilitar o exercicio desta afección.
 ---
 
