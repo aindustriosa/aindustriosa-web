@@ -6,7 +6,7 @@ cover: /radioaficionados/Cartel_radioaficionados.jpg
 excerpt: Neste obradoiro veremos diferentes softwares libres empregados polos radioafeccionados para facilitar o exercicio desta afección.
 ---
 
-O próximo 26 de abril Galpón, de 19:00h a 21:30h, organiza na Industriosa unha charla da man de Julio Herrero sobre software libre para radioafeccionados.
+O próximo 26 de abril [Galpón](https://www.galpon.org), de 19:00h a 21:30h, organiza na Industriosa unha charla da man de Julio Herrero sobre software libre para radioafeccionados.
 
 Dende os seus inicios, a radioafección estivo relacionada coa investigación técnica no campo das radiotelecomunicacións por parte dos afeccionados a esta tecnoloxía. A medida que a tecnoloxía de radio se dixitalizou, fíxose posible enviar e recibir comunicacións por radio entre ordenadores conectados tanto a Internet como transceptores. A dixitalización tamén permitiu o desenvolvemento da radio definida por software (SDR), que permite o tratamento (modulación, demodulación, filtrado, decodificación...) dos sinais de radio captados por unha antena. Neste obradoiro veremos diferentes softwares libres empregados polos radioafeccionados para facilitar o exercicio desta afección.
 
