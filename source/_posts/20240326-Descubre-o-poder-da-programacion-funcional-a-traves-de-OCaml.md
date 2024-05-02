@@ -21,6 +21,8 @@ O ponente será José Castillo, Senior Software developer de Red Hat. José ten 
 
 Non perdas esta oportunidade de obter ideas valiosas sobre programación funcional a través de OCaml.
 
+Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/299611775/).
+
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
 {% asset_img Cartel_OCalm_web.jpg  Meetups de Ocaml %}

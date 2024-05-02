@@ -16,6 +16,8 @@ Dani, actualmente traballa no equipo de seguridade de Telefónica. No pasado, tr
 
 Non perdas esta oportunidade de explorar os límites das tecnoloxías LLM, esperámosche.
 
+Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es-ES/aindustriosa/events/300024608/).
+
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
 {% asset_img Cartel_SintesisIA_web.jpg  IA %}
