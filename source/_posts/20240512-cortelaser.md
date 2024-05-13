@@ -1,6 +1,6 @@
 ---
 title: 'Fabricación Dixital: Corte controlado por ordenador'
-date: 2024-05-11 09:30:00
+date: 2024-05-12 09:30:00
 tags: [OBRADORIO]
 cover: /cortelaser/Cartel_CorteLaser_teaser.jpg
 excerpt: Aprenderemos a manexar a máquina de corte laser e a de corte de vinilo, e como crear os nosos deseños nunha ferramenta de deseño vectorial como é InkScape.
