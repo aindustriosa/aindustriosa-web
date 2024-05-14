@@ -2,7 +2,7 @@
 title: 'Diario de Desenvolvemento: A aventura submarina de José Luis González'
 date: 2024-05-13 09:30:00
 tags: [CHARLA]
-cover: /subROV/Cartel_subROV_teaser.jpg
+cover: /subROV_game/Cartel_subROV_teaser.jpg
 excerpt: José Luis falará sobre o xogo subROV: underwater discoveries, no que está a traballar actualmente, e sobre as súas experiencias como desarrollador de videoxogos.
 ---
 
