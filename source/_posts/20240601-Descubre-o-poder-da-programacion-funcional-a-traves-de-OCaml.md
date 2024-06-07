@@ -1,6 +1,6 @@
 ---
 title: Descubre o poder da programación funcional a través de OCaml
-date: 2024-03-26 15:46:09
+date: 2024-06-01 15:46:09
 tags: [CHARLA]
 cover: /Descubre-o-poder-da-programacion-funcional-a-traves-de-OCaml/Cartel_OCalm_teaser.jpg
 excerpt: Unha charla de Jose de Red Hat onde explicará que é a programación funcional.
