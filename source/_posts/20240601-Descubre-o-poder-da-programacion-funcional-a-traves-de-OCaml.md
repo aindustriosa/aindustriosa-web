@@ -15,6 +15,7 @@ Neste evento, abordaremos os seguintes temas:
 - Explorar a Biblioteca Principal de OCaml e as Funcións da Biblioteca Estándar
 - Exemplos do Mundo Real de Programación Funcional con OCaml (analizadores, intérpretes, etc.)
 
+
 A meetup proporcionará unha oportunidade para que os asistentes ter un coñecemento prácticos
 
 O ponente será José Castillo, Senior Software developer de Red Hat. José ten ampla experiencia traballando con ferramentas cloud-native dentro de Red Hat. José está moi vinculado ao mundo Telco, traballando anteriormente en tecnoloxías de 4G e 5G.
