@@ -1,5 +1,5 @@
 ---
-title: Descubre o poder da programación funcional a través de OCaml
+title: Descobre o poder da programación funcional a través de OCaml
 date: 2024-06-01 15:46:09
 tags: [CHARLA]
 cover: /Descubre-o-poder-da-programacion-funcional-a-traves-de-OCaml/Cartel_OCalm_teaser.jpg
