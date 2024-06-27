@@ -3,7 +3,8 @@ title: 'Aventura Plástica'
 date: 2024-06-27 12:00:00
 tags: [CHARLA]
 cover: /AventuraPlastica/Cartel_AventuraPlastica_teaser.jpg
-excerpt: Jorge Lama impartirá esta charla/obraodio no que aprenderemos os conceptos básicos para poder sacar proveito ao son de alta resolución en sistemas GNU/Linux, consellos tanto no uso de certo hardware como de configuracións de software e de ecualización da nosa sala de escoita.
+excerpt: Nesta charla @s moz@s de Aventura Plástica falarán dá problemática dous residuos plásticos, como afecta isto ao noso planeta e a nosa saúde... ademais de ensinar as propiedades dous plásticos e as súas aplicacións e explicación do noso proceso de reciclaxe. 
+
 ---
 
 Aventura Plástica é un proxecto de sensibilización ambiental especializado en residuos plásticos.
