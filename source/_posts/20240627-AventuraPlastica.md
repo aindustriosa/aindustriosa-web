@@ -13,17 +13,17 @@ Na nosa charla de sensibilización ambiental exponse a problemática dos residuo
 
 Estrutura da actividade
 
-- Introdución, presentación de [Aventura Plástica](https://aventuraplastica.com), breve explicación do noso proceso de reciclaxe.
+• Introdución, presentación de [Aventura Plástica](https://aventuraplastica.com), breve explicación do noso proceso de reciclaxe.
 
-- O plástico como material, cantidade de plástico que xeramos/consumimos, tempo de uso vs. tempo de degradación, residuos e sistemas de xestión, degradación do plástico, microplásticos e o seu impacto na nosa saúde e no medio ambiente.
+• O plástico como material, cantidade de plástico que xeramos/consumimos, tempo de uso vs. tempo de degradación, residuos e sistemas de xestión, degradación do plástico, microplásticos e o seu impacto na nosa saúde e no medio ambiente.
 
-- Posibles solucións: Reducir, Reutilizar, Reciclar.
+• Posibles solucións: Reducir, Reutilizar, Reciclar.
 
-- Tipos de reciclaxe: Primario, Secundario e Terciario.
+• Tipos de reciclaxe: Primario, Secundario e Terciario.
 
-- Tipos de plásticos: móstrase unha a unha as 7 categorías principais de plásticos e explícanse as súas propiedades, aplicacións, diferenzas, beneficios e riscos.
+• Tipos de plásticos: móstrase unha a unha as 7 categorías principais de plásticos e explícanse as súas propiedades, aplicacións, diferenzas, beneficios e riscos.
 
-- Noso proceso de reciclaxe: explicación detallada de como é todo o proceso desde a recollida, limpeza, selección e separación por tipos, transformación de pellet a obxecto e diferenzas entre os distintos procesos; inxección vs. compresión.
+• Noso proceso de reciclaxe: explicación detallada de como é todo o proceso desde a recollida, limpeza, selección e separación por tipos, transformación de pellet a obxecto e diferenzas entre os distintos procesos; inxección vs. compresión.
 
 Esta charla terá lugar o vindeiro sábado 6 de xullo entre as 11:30 e as 12:30 no local da asociación na rúa Gregorio Espino, 38, entreplanta 3, 36205 Vigo, Pontevedra.
 
