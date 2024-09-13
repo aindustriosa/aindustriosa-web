@@ -1,5 +1,5 @@
 ---
-title: Fab Academy 2024
+title: Fab Academy 2025
 innerLayout: fabacademy
 hide_date: true
 ---
