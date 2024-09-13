@@ -17,6 +17,7 @@ A formación é perfecta para enxeñeiros de todo tipo, deseñadores de produto 
 
 O Fab Academy ofrece unha formación de altísimo nivel que só se pode obter en España en Barcelona, León, Vigo, Cartaxena ou Cuenca nun sector cunha fortísimas posibilidades emerxentes, xa que é o núcleo do que vén a chamar Industria 4.0. O alumno comprenderá os fundamentos da fabricación dixital, a que se realiza convertendo os bits en átomos, é dicir: a que converte os deseños parametrizados de computador en realidade. Unha forma de fabricar as cousas que será unha das máis valoradas no futuro.
 
+<center><a href="https://fabacademy.org/students/students.html#introduction" target="_blank_"><img src="https://aindustriosa.org/FabACademy2024/FabAcademy_2025.png" /></a></center>
 
 Para matricularse no Fab Academy, é necesario contactar coa Industriosa enviando un correo electrónico á dirección [directiva@aindustriosa.org](mailto:directiva@aindustriosa.org). Para máis informarción do que é esta formación de alta calidade internacional, e os coñecementos que se poden recibir, pódese facer na súa propia web [Fabacademy.org](https://fabacademy.org)
 
@@ -37,7 +38,7 @@ O corpo docente do Fab Academy, que son líderes nos seus respectivos campos, of
 • Dedication: 20-30 hours a week (depending on prior tech background)
 • Language: The course is taught in English
 
-For more information, check out the <a href="https://fabacademy.org/about/program.html" target="_blank">class curriculum</a>, <a href="" target="_blank_">the archives</a> and <a href="https://fabacademy.org/about/classes.html" target="_blank">the class schedule</a>.
+For more information, check out the <a href="https://fabacademy.org/about/program.html" target="_blank">class curriculum</a>, <a href="https://fabacademy.org/archive/" target="_blank_">the archives</a> and <a href="https://fabacademy.org/about/classes.html" target="_blank">the class schedule</a>.
 
 <center>
 <img src="https://aindustriosa.org/FabACademy2024/A-Industriosa-FabAcademy.jpg" />
