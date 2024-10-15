@@ -1,9 +1,9 @@
 - name: Amtega
   link: https://https://amtega.xunta.gal/es
   image: /i/amtega.png
-  - name: Concello de Vigo
+- name: Concello de Vigo
   link: https://hoxe.vigo.org
   image: /i/concello_vigo.png
-  - name: Optare Solutions
+- name: Optare Solutions
   link: https://optaresolutions.com
   image: /i/optare.png
