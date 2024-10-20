@@ -2,7 +2,7 @@
 title: 'Día Global do Code Retreat'
 date: 2024-10-20 09:00:00
 tags: [OBRADOIRO]
-cover: /Cuantica/Cartel_CodeRetreat_teaser.jpg
+cover: /CodeRetreat/Cartel_CodeRetreat_teaser.jpg
 excerpt: Un día para innovar, colaborar e perfeccionar a nosa arte no código.
 ---
 
