@@ -3,7 +3,7 @@ title: 'Repair Café'
 date: 2024-11-01 09:00:00
 tags: [OBRADOIRO]
 cover: /RepairCafe/Cartel_RepairCafe_teaser.jpg
-excerpt: Un día para innovar, colaborar e perfeccionar a nosa arte no código.
+excerpt: Achégate e atoparás un grupo de persoas voluntarias axudándose entre elas, para reparar diferentes tipos de obxectos.
 ---
 
 O domingo 17 de novembro Enxeñería Sen Fronteiras e Amigas da Terra organizamos un Repair Café coa xente da Industriosa no seu local, en Vigo, na Rúa Gregorio Espino, Nº38, entresollado 3 (Enriba do Froiz). Estaremos por alí das 10:00 ás 14:00. Achégate e atoparás un grupo de persoas voluntarias axudándose entre elas, para reparar diferentes tipos de obxectos: ordenadores, electrodomésticos, electrónica de consumo, bicicletas, roupa, mobles e todo o que se che ocorra. 
