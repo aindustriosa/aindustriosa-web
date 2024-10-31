@@ -16,4 +16,4 @@ Colabora A Industriosa
 
 Cofinanciado Cooperación Galega - Xunta de Galicia - Consellería de Política Social e Igualdade 
 
-{% asset_img Cartel_RepairCafe_web_.jpeg Cartel Repair Café %}
+{% asset_img Cartel_RepairCafe_web.jpeg Cartel Repair Café %}
