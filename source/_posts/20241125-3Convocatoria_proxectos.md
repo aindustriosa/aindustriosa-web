@@ -2,7 +2,7 @@
 title: '3ª Convocatoria de Proxectos A Industriosa.'
 date: 2024-11-25 09:30:00
 tags: [PROXECTO]
-cover: /3Convocatoria_proxectos/Cartel_3convo_teaser.jpg
+cover: /3Convocatoria_proxectos/Cartel_3convo_teaser.png
 excerpt: A idea é destinar fondos propios da Asociación á creación de proxectos entre os socios durante o ano 2024.
 ---
 
@@ -38,4 +38,4 @@ Descarga as Bases da [3ª Convocatoria de Proxectos A Industriosa](https://aindu
 Descarga a [Folla de Solicitude](https://aindustriosa.org/3Convocatoria_proxectos/Folla_solicitude-3Convocatoria_Proxectos_A_Industriosa.odt)
 
 
-{% asset_img Cartel_3convo_web_.jpg Cartel 3-convocatoria %}
+{% asset_img Cartel_3convo_web_.png Cartel 3-convocatoria %}
