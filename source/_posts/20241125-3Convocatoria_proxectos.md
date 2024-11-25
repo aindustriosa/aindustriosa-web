@@ -38,4 +38,4 @@ Descarga as Bases da [3ª Convocatoria de Proxectos A Industriosa](https://aindu
 Descarga a [Folla de Solicitude](https://aindustriosa.org/3Convocatoria_proxectos/Folla_solicitude-3Convocatoria_Proxectos_A_Industriosa.odt)
 
 
-{% asset_img Cartel_3convo_web_.png Cartel 3-convocatoria %}
+{% asset_img Cartel_3convo_web.png Cartel 3-convocatoria %}
