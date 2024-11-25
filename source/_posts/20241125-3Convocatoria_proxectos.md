@@ -1,9 +1,9 @@
 ---
-title: '3ª Convocatoria de Proxectos A Industriosa.'
+title: '3ª Convocatoria de Proxectos A Industriosa'
 date: 2024-11-25 09:30:00
 tags: [PROXECTO]
 cover: /3Convocatoria_proxectos/Cartel_3convo_teaser.png
-excerpt: A idea é destinar fondos propios da Asociación á creación de proxectos entre os socios durante o ano 2024.
+excerpt: A idea é destinar fondos propios da Asociación á creación de proxectos entre os socios durante o ano 2025.
 ---
 
 
