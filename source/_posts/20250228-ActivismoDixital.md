@@ -39,7 +39,7 @@ Contidos:
 
 Para participar debes de realizar a túa inscrición gratuita en [https://url.ecoarglobal.org/1v2](https://url.ecoarglobal.org/1v2).
 
-
+<strong>Actividade organizada por ECOAR</strong>
 
 
 {% asset_img Cartel_ActivismoDixital.jpg Cartel Activismo Dixital %}
