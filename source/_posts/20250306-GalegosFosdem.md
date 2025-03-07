@@ -22,4 +22,4 @@ Para participar debes de realizar a túa inscrición gratuita en [meetup](https:
 
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
-{% asset_img Cartel_GalegosFosdem_web.jpg Cartel Galegos Na FOSDEM %}
+{% asset_img Cartel_GalegosFosdem_web.jpg Cartel Galegos Na FOSDEM %} 
