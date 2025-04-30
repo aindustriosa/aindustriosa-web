@@ -1,5 +1,5 @@
 ---
-title: 'De Django ao teu móbil: como crear apps con python'
+title: 'De Django ao teu mobil: como crear apps con python'
 date: 2025-04-17 09:30:00
 tags: [CHARLA]
 cover: /Charla_Python25V4a/Cartel_PythonVigo25V4a_teaser.jpg
