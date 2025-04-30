@@ -2,8 +2,8 @@
 title: 'De Django ao teu móbil: como crear apps con python'
 date: 2025-04-17 09:30:00
 tags: [CHARLA]
-cover: /CharlaPython25V4a/Cartel_PythonVigo25V4a_teaser.jpg
-excerpt: Sergio falaranos de como crear unha aplicación server-driven utilizando un dos frameworks máis populares: Django, en combinación con Hyperview
+cover: /Charla_Python25V4a/Cartel_PythonVigo25V4a_teaser.jpg
+excerpt: Sergio falaranos de como crear unha aplicación server-driven utilizando un dos frameworks máis populares: Django, en combinación con Hyperview.
 ---
 
 O vindeiro xoves 24 de abril, en colaboración co grupo de usuarios de Python Vigo, nesta ocasión temos charla e Lightnings talks.
