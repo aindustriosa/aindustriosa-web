@@ -8,7 +8,7 @@ excerpt: Solda, programa e leva para casa o teu propio miniMO, guiado polo seu c
 
 Se che apaixona o mundo do son, a música electrónica ou a creación de instrumentos, este obradoiro é para ti.
 
-Da man de José Luis González Castro, deseñador do miniMO, aprenderás a construír e dar vida a este pequeno pero potente módulo de síntese sonora.
+Da man de José Luis González Castro, deseñador do miniMO, aprenderás a construír e dar vida a este pequeno pero cheo de posibilidades módulo de síntese sonora.
 
 O sábado 13 de setembro, de 10:00 a 13:00 horas, teremos unha cita para mergullarnos no mundo da síntese modular, no local da asociación na rúa Gregorio Espino, 38, entreplanta 3, 36205 Vigo, Pontevedra.
 
