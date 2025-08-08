@@ -1,7 +1,7 @@
 ---
 title: 'Obradoiro de síntese modular con miniMo'
-date: 2025-03-06 09:00:00
-tags: [CHARLA]
+date: 2025-08-06 09:00:00
+tags: [OBRADOIRO]
 cover: /MiniMo_Synth/Cartel_MiniMO_Synth_teaser.jpg
 excerpt: Solda, programa e leva para casa o teu propio miniMO, guiado polo seu creador José Luis González Castro.
 ---
