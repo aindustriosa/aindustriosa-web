@@ -1,6 +1,6 @@
 ---
 title: 'Obradoiro de Modelado Low Poly con Blender'
-date: 2025-08-07 09:00:00
+date: 2025-08-22 09:00:00
 tags: [OBRADOIRO]
 cover: /BlenderLowPoly/Cartel_Blender2025a_teaser.jpg
 excerpt: Crea o teu mundo 3D dende cero.
