@@ -23,7 +23,7 @@ Ao final do taller, levarás o teu miniMO montado e programado, listo para segui
 
 Máis información e detalles do proxecto: [minimosynth.com](https://minimosynth.com).
 
-Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/aindustriosa/) (Próximamente).
+Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es/aindustriosa/events/310761340/).
 
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
