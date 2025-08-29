@@ -18,7 +18,7 @@ Non importa se non tes experiencia previa en modelado, o noso obxectivo é que a
 
 Aproveita esta oportunidade para ampliar os teus coñecementos, potenciar a túa creatividade e entrar nun sector en constante crecemento como é o da animación, os videoxogos, a visualización arquitectónica, a fabricación dixital, e moito máis.
 
-Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/aindustriosa/) (Próximamente).
+Para participar debes de realizar a túa inscrición gratuita en [meetup](https://www.meetup.com/es/aindustriosa/events/310761315).
 
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
 
