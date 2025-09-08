@@ -8,7 +8,7 @@ excerpt: Crea o teu mundo 3D dende cero.
 
 Se queres descubrir o fascinante mundo do deseño 3D, este obradoiro é para ti! 
 
-Durante dúas sesións, os días 12 e 26 de setembro, de 18:00 a 20:00, aprenderás a utilizar Blender, unha das ferramentas máis potentes e versátiles para crear modelos tridimensionais.
+Durante dúas sesións, os días 12 de setembro e 3 de outubro, de 18:00 a 20:00, aprenderás a utilizar Blender, unha das ferramentas máis potentes e versátiles para crear modelos tridimensionais.
 
 Neste obradoiro práctico e accesible, guiarémoste paso a paso para que coñezas as técnicas básicas do modelado poligonal en estilo Low Poly, unha tendencia artística que destaca pola súa simplicidade e expresividade. Desde a creación das formas fundamentais ata a aplicación de texturas, iluminación e renderizado final, explorarás todas as fases do proceso creativo.
 
