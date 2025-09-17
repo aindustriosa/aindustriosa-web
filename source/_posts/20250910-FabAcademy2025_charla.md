@@ -14,12 +14,12 @@ Durante seis meses moi intensos, estes investigadores foron aprendendo semana a 
 
 E que veremos na presentación?
 
-	Os dous primeiros graduados de A Industriosa no Fab Academy compartirán os seus proxectos finais:
+Os dous primeiros graduados de A Industriosa no Fab Academy compartirán os seus proxectos finais:
 		
-		[The Blending Bench](https://fabacademy.org/2025/labs/aindustriosa/students/pepe-vazquez/docs/finalproject/) – proxecto final de Pepe Vázquez 
-		[Structural Monitoring of a Timber Arch](https://fabacademy.org/2025/labs/aindustriosa/students/francisco-ruz/docs/finalassignment/) – proxecto final de Francisco Ruz Quiroga
+- [The Blending Bench](https://fabacademy.org/2025/labs/aindustriosa/students/pepe-vazquez/docs/finalproject/) – proxecto final de Pepe Vázquez 
+- [Structural Monitoring of a Timber Arch](https://fabacademy.org/2025/labs/aindustriosa/students/francisco-ruz/docs/finalassignment/) – proxecto final de Francisco Ruz Quiroga
 
-	Ademais, coñeceremos o traballo en equipo no deseño e construción da máquina [Camera Slide](https://fabacademy.org/2025/labs/aindustriosa/week12.html), creada durante a semana 12 (Mechanical design, machine design).
+Ademais, coñeceremos o traballo en equipo no deseño e construción da máquina [Camera Slide](https://fabacademy.org/2025/labs/aindustriosa/week12.html), creada durante a semana 12 (Mechanical design, machine design).
 
 Por último, os investigadores da UDC contarán en primeira persoa como foi esta aventura: os retos semanais, as aprendizaxes, os prototipos que foron nacendo… e todo o que significa vivir a experiencia do Fab Academy.
 
