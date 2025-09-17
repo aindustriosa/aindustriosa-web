@@ -6,9 +6,9 @@ cover: /FabAcademy2025_charla/Cartel_FabAcademy2025_teaser.jpg
 excerpt: Os dous primeiros graduados de A Industriosa no Fab Academy compartirán a súa experiencia e os seus proxectos connosco.
 ---
 
-Este 2025 tivemos a sorte de contar con tres investigadores novos da Universidade da Coruña, vinculados á Escola Técnica Superior de Arquitectura (ETSAC), que estiveron a cursar o Fab Academy no noso Fab Lab.
+Este 2025 tivemos a sorte de contar con tres investigadores da Universidade da Coruña, vinculados á Escola Técnica Superior de Arquitectura (ETSAC), que estiveron a cursar o Fab Academy no noso Fab Lab.
 
-O Fab Academy é un programa internacional da rede de Fab Labs, coordinado por Neil Gershenfeld do MIT, no que cada ano máis de 150 persoas en todo o mundo aprenden a traballar con fabricación dixital, prototipado rápido e deseño electrónico e mecánico.
+O Fab Academy é un programa internacional da rede de Fab Labs, coordinado por Neil Gershenfeld do MIT, no que cada ano máis de 250 persoas en todo o mundo aprenden a traballar con fabricación dixital, prototipado rápido e deseño electrónico e mecánico.
 
 Durante seis meses moi intensos, estes investigadores foron aprendendo semana a semana a través de retos prácticos, ata chegar á meta final: desenvolver un proxecto propio que reúna todas as habilidades adquiridas.
 
