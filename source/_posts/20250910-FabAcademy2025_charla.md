@@ -2,7 +2,7 @@
 title: 'Presentación de proxectos do Fab Academy 2025 en A Industriosa'
 date: 2025-09-17 09:00:00
 tags: [CHARLA]
-cover: /FabAcademy2025/Cartel_FabAcademy2025_teaser.jpg
+cover: /FabAcademy2025_charla_/Cartel_FabAcademy2025_teaser.jpg
 excerpt: Os dous primeiros graduados de A Industriosa no Fab Academy compartirán a súa experiencia e os seus proxectos connosco.
 ---
 
