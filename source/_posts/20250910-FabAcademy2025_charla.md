@@ -16,7 +16,7 @@ E que veremos na presentación?
 
 Os dous primeiros graduados de A Industriosa no Fab Academy compartirán os seus proxectos finais:
 		
-•  [The Blending Bench](https://fabacademy.org/2025/labs/aindustriosa/students/pepe-vazquez/docs/finalproject/) – proxecto final de Pepe Vázquez 
+•  [The Bending Bench](https://fabacademy.org/2025/labs/aindustriosa/students/pepe-vazquez/docs/finalproject/) – proxecto final de Pepe Vázquez 
 
 •  [Structural Monitoring of a Timber Arch](https://fabacademy.org/2025/labs/aindustriosa/students/francisco-ruz/docs/finalassignment/) – proxecto final de Francisco Ruz Quiroga
 
