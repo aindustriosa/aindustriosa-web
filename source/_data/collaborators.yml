@@ -4,9 +4,6 @@
 - name: Ultreia
   link: https://www.ultreia.es/
   image: /i/ultreia.png
-- name: R
-  link: https://www.mundo-r.com/
-  image: /i/r.jpg
 - name: Astilleros Cardama
   link: https://www.astilleroscardama.com/
   image: /i/cardama.png
@@ -16,3 +13,6 @@
 - name: Quobis
   link: https://www.quobis.com/
   image: /i/quobis.png
+- name: R
+  link: https://www.mundo-r.com/
+  image: /i/r.jpg
