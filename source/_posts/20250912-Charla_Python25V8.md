@@ -1,6 +1,6 @@
 ---
 title: 'Descubrindo Fixi.js: alternativa minimalista a htmx en Django'
-date: 2025-9-12 09:30:00
+date: 2025-09-12 09:30:00
 tags: [CHARLA]
 cover: /Charla_Python25V8/Cartel_PythonVigo25V8_teaser.jpg
 excerpt: Unha introdución práctica a Fixi.js: que é, diferenzas con htmx, cando escoller un ou outro e exemplos con Django.
