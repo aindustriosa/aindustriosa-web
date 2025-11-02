@@ -2,7 +2,7 @@
 title: 'Obradoiro de Mecanizado CNC con VCarve'
 date: 2025-11-02 09:30:00
 tags: [OBRADOIRO]
-cover: /Charla_Obradoiro_VCarve/Cartel_Obradoiro_VCarve_teaser.jpg
+cover: /Obradoiro_VCarve/Cartel_Obradoiro_VCarve_teaser.jpg
 excerpt: O vindeiro sábado 8 de novembro, terá lugar en A Industriosa un obradoiro práctico de mecanizado CNC con VCarve.
 ---
 
